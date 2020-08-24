@@ -1,3 +1,18 @@
+### Política de Commits
+
+Os commits devem ser feitos usando o *script* [*commit*](https://github.com/UnBArqDsw/2020.1_G13_Projeto/blob/master/commit) disponibilizado na pasta raiz do repositório da *UnBArqDsw/2020.1_G13_Projeto*.
+
+Para disponibilizá-lo como um commando nativo do terminal basta seguir os seguintes passos:
+
+```bash 
+chmod u+x commit
+```
+Para executar o commando de *commit* use o comando abaixo seguinte o passo-a-passo do que o *script* pede
+
+```bash 
+commit <Mensagem de Commit>
+```
+
 # RepositorioTemplate
 Esse repositório é para ser utilizado pelos grupos como um template inicial.
 **!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
