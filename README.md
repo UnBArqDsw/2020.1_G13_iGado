@@ -10,7 +10,7 @@ chmod u+x commit
 Para executar o commando de *commit* use o comando abaixo seguinte o passo-a-passo do que o *script* pede
 
 ```bash 
-commit <Mensagem de Commit>
+./commit <Mensagem de Commit>
 ```
 
 # RepositorioTemplate
