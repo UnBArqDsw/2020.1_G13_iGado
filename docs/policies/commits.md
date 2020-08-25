@@ -17,26 +17,43 @@ E para que o comando de _commit_ seja executado, basta digitar:
 
 Logo após digitar o comando ```./commit <mensagem de commit>```, basta seguir o passo-a-passo do que o script pede.
 
-* Os _commits_ devem ser escritos em inglês na forma infinitiva, e ainda conter uma breve decrição.
+Caso não seja utilizado o script, deve-se seguir esses passos:
 
-<b>Exemplo: <b>
+* Os _commits_ devem ser escritos em inglês, na forma infinitiva, e ainda conter uma breve descrição:
 
-```
-Create a new document.
-```
+**Exemplo:**
 
-* A issue em questão deve ser citada no _commit_, para isso, basta adicionar 
-``` #<numero_da_issue>. ```
+```Create a new document```
 
-<b>Exemplo: <b>
+* A *issue* deve ser citada no commit por questões de rastreabilidade, para isso, basta adicionar:
 
 ```
-#5 Create a new document.
+#<number_of_issue>
+```
+
+**Exemplo:**
+
+```#01 Create a new document```
+
+**Observação:** Por padrão, o caracter '#' define uma linha de comentário na mensagem do *commit*. Para resolver esse problema, digite na linha de comando:
+
+```git config --local core.commentChar '!'```
+
+* Para que uma pessoa seja inclusa como contribuinte no gráfico de *commits* do GitHub, basta incluir a instrução ```Co-authored-By:``` na mensagem:
+
+**Exemplo:**
+
+```
+#01 Create a new document
+
+
+Co-authored-By: Lucas Fellipe <lucasfcm9@gmail.com>
+Co-authored-By: Guilherme Mendes <guimendesp12@gmail.com>
 ```
 
 * Para _commits_ que encerram a resolução de uma _issue_, deve-se iniciar a mensagem do _commit_ com Fix ```#<numero_da_issue> <mensagem>```, para que a _issue_ seja encerrada automaticamente quando mesclada na ```master```.
 
-<b>Exemplo: <b>
+**Exemplo:**
 
 ```
 Fix #5 Create a new document.
@@ -44,8 +61,9 @@ Fix #5 Create a new document.
 
 * Para _commits_ que incluem uma pequena mudança em uma _issue_ que já teve sua resolução encerrada, deve-se iniciar a mensagem do _commit_ com HOTFIX ```#<numero_da_issue> <mensagem>```
 
-<b>Exemplo: <b>
+**Exemplo:**
 
 ```
-HOTFIX #5 Add new anwser.
+HOTFIX #5 Add new anwser
 ```
+
