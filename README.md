@@ -1,26 +1,3 @@
-### Política de Commits
-
-Os commits devem ser feitos usando o *script* [*commit*](https://github.com/UnBArqDsw/2020.1_G13_Projeto/blob/master/commit) disponibilizado na pasta raiz do repositório da *UnBArqDsw/2020.1_G13_Projeto*.
-
-Para disponibilizá-lo como um commando nativo do terminal basta seguir os seguintes passos:
-
-```bash 
-chmod u+x commit
-```
-Para executar o commando de *commit* use o comando abaixo seguinte o passo-a-passo do que o *script* pede
-
-```bash 
-./commit <Mensagem de Commit>
-```
-
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: 2020.1_G1_ProjetoPandora!!**
- 
- (Apague essa seção)
-
 # NomedoProjeto
 
 **Número da Lista**: X<br>
@@ -28,9 +5,12 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial.
 
 ## Alunos
 |Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| :-: | :-- |
+| 16/0133394 | Lucas Fellipe Carvalho Moreira |
+| 17/0145514 | Iuri de Souza Severo Alves |
+| 17/0129411 | Guilherme Mendes Pereira |
+| 17/0138798 | Caio Vinícius Fernandes de Araújo |
+| 17/0013910 | João Pedro José Santos da Silva Guedes |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
