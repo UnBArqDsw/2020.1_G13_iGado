@@ -7,7 +7,7 @@ Sobre o Projeto
 <div class="container">
   <div class="row">
     <div class="col-sm container-img">
-    <img src="/assets/img/product/team/caio-vinicius.jpg" alt="Caio Fernandes" class="img-thumbnail image">
+    <img src="/docs/assets/img/product/team/caio-vinicius.jpg" alt="Caio Fernandes" class="img-thumbnail image">
             <div class="middle">
               <div class="text">
                 Caio Fernandes
@@ -15,7 +15,7 @@ Sobre o Projeto
             </div>
     </div>
     <div class="col-sm container-img">
-    <img src="/assets/img/product/team/lucas-fellipe.jpg" alt="Lucas Felipe" class="img-thumbnail image">  
+    <img src="/docs/assets/img/product/team/lucas-fellipe.jpg" alt="Lucas Felipe" class="img-thumbnail image">  
           <div class="middle">
             <div class="text">
               Lucas Fellipe
@@ -23,7 +23,7 @@ Sobre o Projeto
           </div>
     </div>
     <div class="col-sm container-img">
-    <img src="/assets/img/product/team/iuri-severo.jpg" alt="Iuri Severo" class="img-thumbnail image">
+    <img src="/docs/assets/img/product/team/iuri-severo.jpg" alt="Iuri Severo" class="img-thumbnail image">
         <div class="middle">
           <div class="text">
             Iuri Severo
@@ -34,7 +34,7 @@ Sobre o Projeto
   <br />
   <div class="row">
     <div class="col-sm container-img">
-    <img src="/assets/img/product/team/joao-pedro.jpg" alt="João Pedro" class="img-thumbnail image">
+    <img src="/docs/assets/img/product/team/joao-pedro.jpg" alt="João Pedro" class="img-thumbnail image">
         <div class="middle">
           <div class="text">
             João Pedro
@@ -42,7 +42,7 @@ Sobre o Projeto
         </div>
     </div>    
     <div class="col-sm container-img">
-    <img src="/assets/img/product/team/guilherme-mendes.jpg" alt="Guilherme Mendes" class="img-thumbnail image">
+    <img src="/docs/assets/img/product/team/guilherme-mendes.jpg" alt="Guilherme Mendes" class="img-thumbnail image">
         <div class="middle">
             <div class="text">
               Guilherme Mendes
