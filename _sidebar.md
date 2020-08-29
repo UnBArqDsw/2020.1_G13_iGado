@@ -2,4 +2,4 @@
 
 - [Home](README.md)
 - [**Produto**](#)
-  -[Políticas](policies/policies.md)
+  -[Políticas](/docs/policies/policies.md)
