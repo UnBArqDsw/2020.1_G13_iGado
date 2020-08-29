@@ -22,7 +22,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm container-img">
-    <img src="docs/assets/img/product/team/caio-vinicius.jpg" alt="Ateldy Filho" class="img-thumbnail image">
+    <img src="docs/assets/img/product/team/caio-vinicius.jpg" alt="Caio Vinicius" class="img-thumbnail image">
             <div class="middle">
               <div class="text">
                 Caio Vinicius
@@ -30,7 +30,7 @@
             </div>
     </div>
     <div class="col-sm container-img">
-    <img src="docs/assets/img/product/team/guilherme-mendes.jpg" alt="Bruno Dantas" class="img-thumbnail image">  
+    <img src="docs/assets/img/product/team/guilherme-mendes.jpg" alt="Guilherme Mendes" class="img-thumbnail image">  
           <div class="middle">
             <div class="text">
               Guilherme Mendes
@@ -38,7 +38,7 @@
           </div>
     </div>
     <div class="col-sm container-img">
-    <img src="docs/assets/img/product/team/iuri-severo.jpg" alt="Vitor Gomes" class="img-thumbnail image">
+    <img src="docs/assets/img/product/team/iuri-severo.jpg" alt="Iuri Severo" class="img-thumbnail image">
         <div class="middle">
           <div class="text">
             Iuri Severo
@@ -46,10 +46,9 @@
         </div>
     </div>
   </div>
-  <br />
   <div class="row">
     <div class="col-sm container-img">
-    <img src="docs/assets/img/product/team/joao-pedro.jpg" alt="João Vitor" class="img-thumbnail image">
+    <img src="docs/assets/img/product/team/joao-pedro.jpg" alt="João Pedro" class="img-thumbnail image">
         <div class="middle">
           <div class="text">
             João Pedro
@@ -57,12 +56,14 @@
         </div>
     </div>    
     <div class="col-sm container-img">
-    <img src="docs/assets/img/product/team/lucas-fellipe.jpg" alt="Guilherme Mendes" class="img-thumbnail image">
+    <img src="docs/assets/img/product/team/lucas-fellipe.jpg" alt="Lucas Fellipe" class="img-thumbnail image">
         <div class="middle">
             <div class="text">
               Lucas Fellipe
             </div>
         </div>
+    </div>
+  <div class="col-sm">
     </div>
   </div>
 </div>
