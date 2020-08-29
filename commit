@@ -16,7 +16,7 @@ if [ ! -z "$1" -a "$1" != " " ]; then
    else
       echo -e "${bold}@@@@@@@@@@@@@@@@@@@@@@@@@@@ W A R N I N G @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@${normal}"  
       echo -e "\nYou're out of a issue branch, the only way of contibuiting to iGado Org! :X "
-      echo -e "\nAre you ${bold}absolutely${normal} certain to try to commit in ${bold}$(git branch | grep '*' | sed 's|[*]||g')${normal} ? (it maybe be ${bold}refused${normal} on Github)\n"
+      echo -e "\nAre you ${bold}absolutely${normal} certain to try to commit in ${bold}$(git branch | grep '*' | sed 's|[*]||g')${normal} ? \n"
 
       read -p "(${bold}y/n${normal}) " flag
 
@@ -29,7 +29,22 @@ if [ ! -z "$1" -a "$1" != " " ]; then
       echo ""
    fi
 
-   message="UnBArqDsw/2020.1_G13_Projeto#$number $1"
+   message="UnBArqDsw/2020.1_G13_Projeto#$number "
+
+   declare -a emoji_map
+   emoji_map[0]="‼️ BREAKING: "
+   emoji_map[1]="🐛 FIX: "
+   emoji_map[2]="👌 IMPROVE: "
+   emoji_map[3]="📖 DOC: "
+   emoji_map[4]="📦 NEW: "
+   emoji_map[5]="🤖 TEST: "
+
+   echo "What is the nature of this ${bold}commit${normal}? "
+   echo ""
+   read -p "(${bold}0${normal})-> ‼️ BREAKING //// (${bold}1${normal})-> 🐛 FIX ////(${bold}2${normal})-> 👌 IMPROVE ////(${bold}3${normal})-> 📖 DOC ////(${bold}4${normal})-> 📦 NEW  ////(${bold}5${normal})-> 🤖 TEST:   " emoji
+
+   message+="${emoji_map[${emoji}]} ${1}"
+
 
    read -p "Are you ${bold}pairing${normal}? (${bold}y/n${normal}) " pairing
    echo ""
