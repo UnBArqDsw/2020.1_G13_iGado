@@ -1,54 +1,69 @@
-### Política de Commits
+### <pre>     </pre>
 
-Os commits devem ser feitos usando o *script* [*commit*](https://github.com/UnBArqDsw/2020.1_G13_Projeto/blob/master/commit) disponibilizado na pasta raiz do repositório da *UnBArqDsw/2020.1_G13_Projeto*.
+<div class="protype" style="margin-top:-128px">
+  <div class="row">
+    <div class="col-sm">    
 
-Para disponibilizá-lo como um commando nativo do terminal basta seguir os seguintes passos:
+  Repositório destinado à disciplina de Arquitetura & Desenho de Software da Universidade de Brasília acerca do projeto....
+  ##### Como contribuir?
 
-```bash 
-chmod u+x commit
-```
-Para executar o commando de *commit* use o comando abaixo seguinte o passo-a-passo do que o *script* pede
+  [Repositório](https://github.com/UnBArqDsw/2020.1_G13_Projeto)
+  As políticas de [_branches_](/docs/policies/branches.md), [_commits_](/docs/policies/commits.md), [_pull requests_](/docs/policies/pull_request.md) e [_issues_](/docs/policies/issues.md) se encontram [aqui](/docs/policies/policies.md).
+    </div>
+  
+  </div>
+<div>
 
-```bash 
-./commit <Mensagem de Commit>
-```
 
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
 
-**!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: 2020.1_G1_ProjetoPandora!!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+<h1 class="display-1 sub-title2">Time</h1>
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
-
-## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-
-## Sobre 
-Descreva o seu projeto em linhas gerais. 
-
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
-
-## Instalação 
-**Linguagens**: xxxxxx<br>
-**Tecnologias**: xxxxxx<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
-Insira um manual ou um script para auxiliar ainda mais.
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Vídeo
-Adicione 1 ou mais vídeos com a execução do projeto final.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+<div class="container">
+  <div class="row">
+    <div class="col-sm container-img">
+    <img src="docs/assets/img/product/team/caio-vinicius.jpg" alt="Caio Vinicius" class="img-thumbnail image">
+            <div class="middle">
+              <div class="text">
+                Caio Vinicius
+              </div>
+            </div>
+    </div>
+    <div class="col-sm container-img">
+    <img src="docs/assets/img/product/team/guilherme-mendes.jpg" alt="Guilherme Mendes" class="img-thumbnail image">  
+          <div class="middle">
+            <div class="text">
+              Guilherme Mendes
+            </div>
+          </div>
+    </div>
+    <div class="col-sm container-img">
+    <img src="docs/assets/img/product/team/iuri-severo.jpg" alt="Iuri Severo" class="img-thumbnail image">
+        <div class="middle">
+          <div class="text">
+            Iuri Severo
+          </div>
+        </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm container-img">
+    <img src="docs/assets/img/product/team/joao-pedro.jpg" alt="João Pedro" class="img-thumbnail image">
+        <div class="middle">
+          <div class="text">
+            João Pedro
+          </div>
+        </div>
+    </div>    
+    <div class="col-sm container-img">
+    <img src="docs/assets/img/product/team/lucas-fellipe.jpg" alt="Lucas Fellipe" class="img-thumbnail image">
+        <div class="middle">
+            <div class="text">
+              Lucas Fellipe
+            </div>
+        </div>
+    </div>
+  <div class="col-sm">
+    </div>
+  </div>
+</div>
