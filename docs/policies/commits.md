@@ -17,6 +17,8 @@ E para que o comando de _commit_ seja executado, basta digitar:
 
 Logo após digitar o comando ```./commit <mensagem de commit>```, basta seguir o passo-a-passo do que o script pede.
 
+![example](../assets/img/misc/commit-example.gif)
+
 Caso não seja utilizado o script, deve-se seguir esses passos:
 
 * Os _commits_ devem ser escritos em inglês, na forma infinitiva, e ainda conter uma breve descrição:
