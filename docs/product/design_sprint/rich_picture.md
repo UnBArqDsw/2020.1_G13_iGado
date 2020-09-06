@@ -1,11 +1,7 @@
 # Brainstorming
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 29/08/2020 |  0.1   | Criação Rich Picture Individual |[Caio Vinícius](https://github.com/caiovfernandes)|
-| 29/08/2020 |  0.1   | Criação Rich Picture Individual |[Guilherme Mendes](https://github.com/guilherme-mendes)|
-| 29/08/2020 |  0.1   | Criação Rich Picture Individual |[Iuri Severo](https://github.com/iurisevero)|
-| 29/08/2020 |  0.1   | Criação Rich Picture Individual |[João Guedes](https://github.com/sudjoao)|
-| 29/08/2020 |  0.1   | Criação Rich Picture Individual |[Lucas Fellipe](https://github.com/lucasfcm9) |
+| 29/08/2020 |  0.1   | Criação Rich Picture Individual |[Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero),[João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 29/08/2020 |  1.0   | Criação do Rich Picture Geral |[Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero),[João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 <p align="justify"> &emsp;&emsp; Uma Rich Picture é um desenho de uma situação que ilustra os principais elementos e relacionamentos que precisam ser considerados na tentativa de intervir para criar alguma melhoria. Consiste em figuras, texto, símbolos e ícones, todos usados para ilustrar graficamente a situação. É chamado de Rich Picture, porque ilustra a riqueza e a complexidade de uma situação. </p>
@@ -39,3 +35,4 @@ Autor: [João Guedes](https://github.com/sudjoao)<br><br>
 Autor: [Lucas Fellipe](https://github.com/lucasfcm9)
 
 ## Referências
+* Communicative Art, The Art of Rich Pictures. Disponível em: https://www.youtube.com/watch?v=8ZH-NKqKF9A
