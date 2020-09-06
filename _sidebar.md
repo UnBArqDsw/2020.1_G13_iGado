@@ -7,3 +7,5 @@
     - [Brainstorming](/docs/product/design_sprint/brainstorming.md)
     - [Rich Picture](/docs/product/design_sprint/rich_picture.md)
   - [5W2H](/docs/product/5w2h.md)
+  - [Mapa Mental](/docs/product/MindMap.md)
+  - [Diagrama de Ishikawa](/docs/product/IshikawaDiagram.md)
