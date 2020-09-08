@@ -11,5 +11,5 @@
 <a href="docs/assets/img/artefacts/ishikawa_diagram.png"> Clique aqui para ampliar</a>
 
 ## Referências
-* Suporte Minitab - Visão geral de Diagrama de causa e efeito. Disponível em: https://support.minitab.com/pt-br/minitab/18/help-and-how-to/quality-and-process-improvement/quality-tools/how-to/cause-and-effect-diagram/before-you-start/overview/
-* Diagrama de Ishikawa (Ferramenta da Qualidade): Teoria + Exemplo Prático. Disponível em: https://www.youtube.com/watch?v=U-0qzmFqH-0&ab_channel=AprendendoGest%C3%A3o
+* Suporte Minitab - Visão geral de Diagrama de causa e efeito. Disponível em: <https://support.minitab.com/pt-br/minitab/18/help-and-how-to/quality-and-process-improvement/quality-tools/how-to/cause-and-effect-diagram/before-you-start/overview/>. Acesso em: 04 set. 2020.
+* Diagrama de Ishikawa (Ferramenta da Qualidade): Teoria + Exemplo Prático. Disponível em: <https://www.youtube.com/watch?v=U-0qzmFqH-0&ab_channel=AprendendoGest%C3%A3o>. Acesso em: 04 set. 2020.
