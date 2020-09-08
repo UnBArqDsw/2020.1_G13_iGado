@@ -1,5 +1,5 @@
-<img src="docs/assets/img/logo/logo.png" width=270px>
+<img src="docs/Assets/Img/Logo/Logo.png" width=270px>
 
-![](docs/assets/img/logo/background.png)
+![](docs/Assets/Img/Logo/Background.png)
 
 

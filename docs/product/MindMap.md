@@ -7,9 +7,9 @@
 
 ## Versão 1.0 - Mapa Mental
 
-<img src="docs/assets/img/artefacts/mind_map.png">
+<img src="docs/Assets/Img/Artefacts/MindMap.png">
 
-[Clique aqui para ampliar](docs/assets/img/artefacts/mind_map.png)
+<a href="docs/Assets/Img/Artefacts/MindMap.png"> Clique aqui para ampliar</a>
 
 ## Referências
 * FERNANDES, Wagner. Aprendar a criar um mapa mental efetivo, 04 nov. 2019. Disponível em: <https://www.proximosconcursos.com/como-criar-um-mapa-mental-efetivo/>. Acesso em: 01 set. 2020.

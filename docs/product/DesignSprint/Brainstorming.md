@@ -9,22 +9,22 @@
 
 ## Brainstorming
 
-<img src="/docs/assets/img/artefacts/brainstorming.png">
+<img src="/docs/Assets/Img/Artefacts/Brainstorming.png">
 
 **Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9)
 
 ### Significado das cores dos *Post-its*
 
-<img src="/docs/assets/img/artefacts/brainstorming_color1.png" height=100px>
-<img src="/docs/assets/img/artefacts/brainstorming_color2.png" height=100px>
-<img src="/docs/assets/img/artefacts/brainstorming_color3.png" height=100px>
-<img src="/docs/assets/img/artefacts/brainstorming_color4.png" height=100px>
+<img src="/docs/Assets/Img/Artefacts/BrainstormingColor1.png" height=100px>
+<img src="/docs/Assets/Img/Artefacts/BrainstormingColor2.png" height=100px>
+<img src="/docs/Assets/Img/Artefacts/BrainstormingColor3.png" height=100px>
+<img src="/docs/Assets/Img/Artefacts/BrainstormingColor4.png" height=100px>
 
 **Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9)
 
 ### Agrupamento de ideias por temas
 
-<img src="/docs/assets/img/artefacts/brainstorming_group.png">
+<img src="/docs/Assets/Img/Artefacts/BrainstormingGroup.png">
 
 **Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9)
 

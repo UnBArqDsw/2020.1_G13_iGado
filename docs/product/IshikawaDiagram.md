@@ -7,8 +7,8 @@
 
 ## Versão 1.0 - Diagrama de Ishikawa
 
-<img src="docs/assets/img/artefacts/ishikawa_diagram.png">
-<a href="docs/assets/img/artefacts/ishikawa_diagram.png"> Clique aqui para ampliar</a>
+<img src="docs/Assets/Img/Artefacts/IshikawaDiagram.png">
+<a href="docs/Assets/Img/Artefacts/IshikawaDiagram.png"> Clique aqui para ampliar</a>
 
 ## Referências
 * Suporte Minitab - Visão geral de Diagrama de causa e efeito. Disponível em: <https://support.minitab.com/pt-br/minitab/18/help-and-how-to/quality-and-process-improvement/quality-tools/how-to/cause-and-effect-diagram/before-you-start/overview/>. Acesso em: 04 set. 2020.
