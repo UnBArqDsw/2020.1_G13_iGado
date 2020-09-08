@@ -8,7 +8,8 @@
   ##### Como contribuir?
 
   [Repositório](https://github.com/UnBArqDsw/2020.1_G13_Projeto)
-  As políticas de [<i>branches</i>](/docs/Policies/Branches.md), [<i>commits</i>](/docs/Policies/Commits.md), [<i>pull requests</i>](/docs/Policies/PullRequests.md) e [<i>issues</i>](/docs/Policies/Issues.md) se encontram [aqui](/docs/Policies/Policies.md).
+
+  As políticas de [<i>branches</i>](/docs/Policies/Branches.md), [<i>commits</i>](/docs/Policies/Commits.md), [<i>pull requests</i>](/docs/Policies/PullRequests.md) e [<i>issues</i>](/docs/Policies/Issues.md) se encontram na página de [Políticas](/docs/Policies/Policies.md).
     </div>
   
   </div>
