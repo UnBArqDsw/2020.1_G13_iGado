@@ -1,9 +1,5 @@
-<img src="docs/assets/img/logo/logo.png">
+<img src="docs/Assets/Img/Logo/Logo.png" width=270px>
 
-
-
-[Saiba Mais](README)
-
-![](docs/assets/img/logo/background.png)
+![](docs/Assets/Img/Logo/Background.png)
 
 
