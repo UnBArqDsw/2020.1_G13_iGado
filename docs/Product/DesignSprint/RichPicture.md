@@ -10,7 +10,7 @@
 ## Versão 1.0 - Rich Picture Geral
 <br>
 
-<img src="/docs/Assets/Img/Artefacts/RichPictureGeral.png">
+<img src="docs/Assets/Img/Artefacts/RichPictureGeral.png">
 
 **Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9)
 
