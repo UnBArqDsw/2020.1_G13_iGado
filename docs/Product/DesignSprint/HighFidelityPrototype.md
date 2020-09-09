@@ -12,7 +12,7 @@
 * Clique na imagem para abrir o protótipo de alta fidelidade
 
 <a href="https://www.framer.com/share/iGado--2dX1EiFNGm3s5mrfVxLK">
-<img src="/docs/Assets/Img/Artefacts/Splash.png" width=200px>
+<img src="docs/Assets/Img/Artefacts/Splash.png" width=190px>
 </a>
 
 **Autor:** [João Pedro Guedes](https://github.com/sudjoao)
