@@ -12,6 +12,7 @@
   - [5W2H](/docs/Product/5W2H.md)
   - [Diagrama de Ishikawa](/docs/Product/IshikawaDiagram.md)
   - [BPMN](/docs/Product/BPMN.md)
+  - [Léxicos](/docs/Product/Lexicons.md)
 - **Projeto**
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan)
