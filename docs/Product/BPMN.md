@@ -1,9 +1,12 @@
-# Diagrama de Ishikawa
+# BPMN
+
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 04/09/2020 |  0.5   | Criação do BPMN Geral |[Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
-| 04/09/2020 |  0.9   | Criação de Sub-processo |[Iuri Severo](https://github.com/iurisevero) |
-| 04/09/2020 |  0.9   | Adição de Sub-processos |[João Pedro José](https://github.com/sudjoao) |
+| 09/09/2020 |  0.5   | Criação do BPMN Geral |[Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 09/09/2020 |  0.9   | Criação de Sub-processo |[Iuri Severo](https://github.com/iurisevero) |
+| 10/09/2020 |  1.0   | Adição de Sub-processos |[João Pedro José](https://github.com/sudjoao) |
+
+## Descrição
 
 <p align="justify"> &emsp;&emsp; A BPMN(Business Process Model and Notation) é uma notação gráfica utilizada para mapear processos utilizando várias simbologias padrões e mostrando de forma completa o que é o processo, quais suas etapas, o que estas etapas geram. O grupo resolveu utilizar essa modelagem para mostrar o fluxo que irá utilizar para o desenvolvimento de seu software e quais são as suas etapas e sub-etapas.</p>
 
@@ -71,3 +74,6 @@
 
 
 ## Referências
+
+* TCU - CURSO DE MAPEAMENTO DE PROCESSOS DE TRABALHO COM BPMN E BIZAGI. Jan, 2019. Acesso em: 9 set. 2020.
+* Marcelo Neves - Curso de BPMN 2.0. Disponível em: <https://www.youtube.com/watch?v=_KdCwaOp7zE&feature=emb_title>. Acesso em: 08 set. 2020.
