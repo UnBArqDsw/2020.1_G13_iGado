@@ -11,6 +11,7 @@
     - [Mapa Mental](/docs/Product/MindMap.md)
   - [5W2H](/docs/Product/5W2H.md)
   - [Diagrama de Ishikawa](/docs/Product/IshikawaDiagram.md)
+  - [Metodologia](/docs/Product/Metodologia.md)
   - [BPMN](/docs/Product/BPMN.md)
 - **Projeto**
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan)
