@@ -3,6 +3,7 @@
 - [Home](/)
 - [Políticas](/docs/Policies/Policies.md)
 - **Produto**
+  - [Documento de Visão](/docs/Product/VisionDocument.md)
   - [Design Sprint](/docs/Product/DesignSprint/DesignSprint.md)
     - [Brainstorming](/docs/Product/DesignSprint/Brainstorming.md)
     - [Rich Picture](/docs/Product/DesignSprint/RichPicture.md)
