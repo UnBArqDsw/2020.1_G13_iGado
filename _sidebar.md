@@ -16,4 +16,6 @@
 - **Projeto**
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan)
+- [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
+  - []()
 
