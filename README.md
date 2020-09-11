@@ -1,7 +1,7 @@
-# NomedoProjeto
+# iGado
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 13<br>
+**Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
 |Matrícula | Aluno |
