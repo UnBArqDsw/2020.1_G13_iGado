@@ -15,6 +15,7 @@
   - [BPMN](/docs/Product/BPMN.md)
   - [Léxicos](/docs/Product/Lexicons.md)
 - **Projeto**
+  - [Backlog](/docs/Project/ProductBacklog.md)
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan)
 
