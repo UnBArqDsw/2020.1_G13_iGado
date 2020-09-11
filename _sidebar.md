@@ -13,6 +13,7 @@
   - [Diagrama de Ishikawa](/docs/Product/IshikawaDiagram.md)
   - [Metodologia](/docs/Product/Methodology.md)
   - [BPMN](/docs/Product/BPMN.md)
+  - [Léxicos](/docs/Product/Lexicons.md)
 - **Projeto**
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan)
