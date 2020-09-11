@@ -11,6 +11,7 @@
     - [Mapa Mental](/docs/Product/MindMap.md)
   - [5W2H](/docs/Product/5W2H.md)
   - [Diagrama de Ishikawa](/docs/Product/IshikawaDiagram.md)
+  - [Metodologia](/docs/Product/Methodology.md)
   - [BPMN](/docs/Product/BPMN.md)
   - [Léxicos](/docs/Product/Lexicons.md)
 - **Projeto**
