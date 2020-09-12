@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/46005310/92669368-b702c280-f2e7-11ea-9684-23e27687f3fc.png">
 
 <audio controls>
-  <source src="/docs/Assets/Audios/BPMN/MetodologiaGeral.mp3" type="audio/mpeg">
+  <source src="docs/Assets/Audios/BPMN/MetodologiaGeral.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -26,7 +26,7 @@ Your browser does not support the audio element.
 <img src="https://user-images.githubusercontent.com/46005310/92669367-b66a2c00-f2e7-11ea-8d88-e19daa223d84.png">
 
 <audio controls>
-  <source src="/docs/Assets/Audios/BPMN/DesenvolverIdeiaDoProjeto.mp3" type="audio/mpeg">
+  <source src="docs/Assets/Audios/BPMN/DesenvolverIdeiaDoProjeto.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -37,7 +37,7 @@ Your browser does not support the audio element.
 <img src="https://user-images.githubusercontent.com/46005310/92669374-b8cc8600-f2e7-11ea-8842-43595b7a3bd9.png">
 
 <audio controls>
-  <source src="/docs/Assets/Audios/BPMN/DesignSprint.mp3" type="audio/mpeg">
+  <source src="docs/Assets/Audios/BPMN/DesignSprint.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -48,7 +48,7 @@ Your browser does not support the audio element.
 <img src="https://user-images.githubusercontent.com/46005310/92669371-b833ef80-f2e7-11ea-8fdd-bad3cb4c846e.png">
 
 <audio controls>
-  <source src="/docs/Assets/Audios/BPMN/RealizarDesenvolvimentoDoProduto.mp3" type="audio/mpeg">
+  <source src="docs/Assets/Audios/BPMN/RealizarDesenvolvimentoDoProduto.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -59,7 +59,7 @@ Your browser does not support the audio element.
 <img src="https://user-images.githubusercontent.com/46005310/92669370-b79b5900-f2e7-11ea-94ee-09e6baacee6e.png">
 
 <audio controls>
-  <source src="/docs/Assets/Audios/BPMN/RealizarSprintPlanning.mp3" type="audio/mpeg">
+  <source src="docs/Assets/Audios/BPMN/RealizarSprintPlanning.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -70,7 +70,7 @@ Your browser does not support the audio element.
 <img src="https://user-images.githubusercontent.com/46005310/92725109-ff4ece80-f341-11ea-92cb-c6392cacd4a5.png">
 
 <audio controls>
-  <source src="/docs/Assets/Audios/BPMN/DesenvolverHistoriaDeUsuario.mp3" type="audio/mpeg">
+  <source src="docs/Assets/Audios/BPMN/DesenvolverHistoriaDeUsuario.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -81,7 +81,7 @@ Your browser does not support the audio element.
 <img src="https://user-images.githubusercontent.com/46005310/92669372-b833ef80-f2e7-11ea-9b02-c93fabb59a1e.png">
 
 <audio controls>
-  <source src="/docs/Assets/Audios/BPMN/SprintReview.mp3" type="audio/mpeg">
+  <source src="docs/Assets/Audios/BPMN/SprintReview.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -92,7 +92,7 @@ Your browser does not support the audio element.
 <img src="https://user-images.githubusercontent.com/46005310/92669376-b9651c80-f2e7-11ea-9451-e6173aead91d.png">
 
 <audio controls>
-  <source src="/docs/Assets/Audios/BPMN/SprintRetrospective.mp3" type="audio/mpeg">
+  <source src="docs/Assets/Audios/BPMN/SprintRetrospective.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
@@ -103,7 +103,7 @@ Your browser does not support the audio element.
 <img src="https://user-images.githubusercontent.com/46005310/92669375-b8cc8600-f2e7-11ea-922f-b11d43f54049.png">
 
 <audio controls>
-  <source src="/docs/Assets/Audios/BPMN/PlanningPoker.mp3" type="audio/mpeg">
+  <source src="docs/Assets/Audios/BPMN/PlanningPoker.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
