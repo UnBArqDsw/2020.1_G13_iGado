@@ -23,6 +23,7 @@
 - **Projeto**
   - [Backlog](/docs/Project/ProductBacklog.md)
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan.md)
+  - [Plano de Gerenciamento de Custos](/docs/Project/CostManagementPlan.md)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan.md)
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
