@@ -9,7 +9,7 @@
 
 ### Stakeholder 1 - Marcelo - Proprietário de Fazenda
 
-<button data-toggle="collapse" data-target="#Perguntas" class="myButton" >Anotações</button>
+<button data-toggle="collapse" data-target="#Perguntas" class="myButton">Anotações</button>
 <div id="Perguntas" class="collapse">
 
 <img src="https://user-images.githubusercontent.com/37874689/92983225-71c1ca80-f478-11ea-9fe7-1e6e13cb5b37.jpg" width=500px>
