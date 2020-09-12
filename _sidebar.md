@@ -6,7 +6,7 @@
   - [Documento de Visão](/docs/Product/VisionDocument.md)
 - **Definação de Tema**
   - [Questionário](/docs/Product/Questionary.md)
-  - [Entrevistas]()
+  - [Entrevistas](/docs/Project/Interview.md)
 - **Definição de Escopo**
   - [**Design Sprint**](/docs/Product/DesignSprint/DesignSprint.md)
     - [Brainstorming](/docs/Product/DesignSprint/Brainstorming.md)
@@ -21,7 +21,6 @@
   - [Metodologia](/docs/Product/Methodology.md)
   - [BPMN](/docs/Product/BPMN.md)
 - **Projeto**
-  - [Entrevistas](/docs/Project/Interview.md)
   - [Backlog](/docs/Project/ProductBacklog.md)
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan.md)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan.md)
