@@ -8,7 +8,7 @@
 O grupo o questionário para entender melhor quais são as principais atividades de gestão rural realizados por fazendeiros ou pessoas relacionados a área de fazendas e utilizou estas informações para definir o escopo do projeto.
 
 ## Perguntas
-<button data-toggle="collapse" data-target="#Perguntas" class="myButton" >Prévia Perguntas</button>
+<button data-toggle="collapse" data-target="#Perguntas" class="myButton" >Prévia das Perguntas</button>
 <div id="Perguntas" class="collapse">
 <img src="https://user-images.githubusercontent.com/46005310/92981374-e6dcd200-f46f-11ea-84e7-0e3e9ef9862a.png">
 <img src="https://user-images.githubusercontent.com/46005310/92981376-e80dff00-f46f-11ea-9ec4-0a19be5e4bfd.png">
@@ -18,10 +18,10 @@ O grupo o questionário para entender melhor quais são as principais atividades
 <img src="https://user-images.githubusercontent.com/46005310/92981386-ee03e000-f46f-11ea-88b1-4dfd4f35fb52.png">
 </div>
 
-**Autor(es):** [Iuri Severo](https://github.com/iurisevero) e  [João Guedes](https://github.com/sudjoao)
+**Autor(es):** [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao)
 
 ## Respostas
-<button data-toggle="collapse" data-target="#respostas" class="myButton" >Prévia Respostas</button>
+<button data-toggle="collapse" data-target="#respostas" class="myButton" >Prévia das Respostas</button>
 <div id="respostas" class="collapse">
 
 <img src="https://user-images.githubusercontent.com/46005310/92981689-5bfcd700-f471-11ea-83c9-f824d65e25ce.png">
