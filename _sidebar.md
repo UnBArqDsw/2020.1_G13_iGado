@@ -6,7 +6,7 @@
   - [Documento de Visão](/docs/Product/VisionDocument.md)
 - **Definação de Tema**
   - [Questionário](/docs/Product/Questionary.md)
-  - [Entrevistas]()
+  - [Entrevistas](/docs/Project/Interview.md)
 - **Definição de Escopo**
   - [**Design Sprint**](/docs/Product/DesignSprint/DesignSprint.md)
     - [Brainstorming](/docs/Product/DesignSprint/Brainstorming.md)
@@ -33,5 +33,3 @@
   - [2020-09-02 - Design Sprint e Metodologia](/docs/SprintsAndMeetings/2020-09-02-DesignSprintAndMethodology.md)
   - [2020-09-05 - Fechamento da Sprint 1](/docs/SprintsAndMeetings/2020-09-05-Sprint1Closure.md)
   - [2020-09-05 - Abertura da Sprint 2](/docs/SprintsAndMeetings/2020-09-05-Sprint2Opening.md)
-
-

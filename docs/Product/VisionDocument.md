@@ -3,12 +3,12 @@
 
 | Data       | Versão | Divisão                                                      | Autor(es)                |
 | ---------- | ------ | ------------------------------------------------------------ | ------------------------ |
-| 05/09/2020 | 1.1    | Abertura do documento                                        | [Caio Vinícius](https://github.com/caiovfernandes)           |
-| 10/09/2020 | 1.3    | Tópico 4 - Visão Geral do Produto                            | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
-| 10/09/2020 | 1.4    | Tópico 3 e Tópico 6 - Descrição dos Envolvidos e dos Usuários e Restrições | [Lucas Fellipe](https://github.com/lucasfcm9)            |
-| 11/09/2020 | 1.5    | Tópico 7 – Outros Requisitos do Produto                      | [Caio Vinícius](https://github.com/caiovfernandes)          |
-| 11/09/2020 | 1.6    | Tópico 5 – Recursos do Produto                               | [Guilherme Mendes](https://github.com/guilherme-mendes)         |
-| 11/09/2020 | 1.7    | Tópico 1.2 – Escopo <br> Tópico 1.5 - Visão Geral <br> Tópico 2.1 - Oportunidade de Negócios                               | [Guilherme Mendes](https://github.com/guilherme-mendes), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9)         |
+| 05/09/2020 | 1.0    | Abertura do documento                                        | [Caio Vinícius](https://github.com/caiovfernandes)           |
+| 10/09/2020 | 1.1    | Tópico 4 - Visão Geral do Produto                            | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
+| 10/09/2020 | 1.2    | Tópico 3 e Tópico 6 - Descrição dos Envolvidos e dos Usuários e Restrições | [Lucas Fellipe](https://github.com/lucasfcm9)            |
+| 11/09/2020 | 1.3    | Tópico 7 – Outros Requisitos do Produto                      | [Caio Vinícius](https://github.com/caiovfernandes)          |
+| 11/09/2020 | 1.4    | Tópico 5 – Recursos do Produto                               | [Guilherme Mendes](https://github.com/guilherme-mendes)         |
+| 11/09/2020 | 1.5    | Tópico 1.2 – Escopo <br> Tópico 1.5 - Visão Geral <br> Tópico 2.1 - Oportunidade de Negócios                               | [Guilherme Mendes](https://github.com/guilherme-mendes), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9)         |
 
 
 ## 1. Introdução 
