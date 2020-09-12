@@ -2,7 +2,7 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 11/09/2020 |  1.0   | Criação do modelo de Reunião | [Iuri Severo](https://github.com/iurisevero) |
+| 11/09/2020 |  1.0   | Transcrição do documento 20200902 do teams | [Iuri Severo](https://github.com/iurisevero) |
 
 **Data**: 02 de setembro de 2020
 
