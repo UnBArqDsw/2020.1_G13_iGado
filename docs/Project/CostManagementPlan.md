@@ -10,8 +10,8 @@
 
 | Função                        | Quantidade | Salário     | Valor Mensal Total | Valor Total no Projeto |
 | :---------------------------- | ---------- | ----------- | ------------------ | ---------------------- |
-| Equipe de Gerência de Projeto | 5          | R$ 7.351,00 | R$ 14.702,00       | R$ 73.510,00           |
-| Total                         |            |             |                    | R$ 73.510,00           |
+| Equipe de Gerência de Projeto | 5          | R$ 7.351,00 | R$ 36.755,00      | R$ 147.020,00           |
+| Total                         |            |             |                    | R$ 147.020,00           |
 
 
 
@@ -28,7 +28,7 @@
 
 | Ferramenta | Quantidade | Valor Unitário | Valor Mensal Total | Valor Total no Projeto |
 | :--------- | ---------- | -------------- | ------------------ | ---------------------- |
-| Canvas PRO | 1          | R$ 26,90       | R$ 107,60          | R$ 107,60              |
+| Canvas PRO | 1          | R$ 26,90       | R$ 26,90         | R$ 107,60              |
 | Total      |            |                |                    | R$ 107,60              |
 
 
@@ -37,5 +37,5 @@
 
 | Total Custo Pessoal | Custo de Aquisição | Ferramentas | Total        | Total + 20% de Riscos + 20% de Lucro |
 | ------------------- | ------------------ | ----------- | ------------ | ------------------------------------ |
-| R$ 73.510,00        | R$ 14.695,00       | R$ 107,60   | R$ 88.312,60 | R$ 123.637,64                        |
+| R$ 147.020,00        | R$ 14.695,00       | R$ 107,60   | R$ 88.312,60 | R$ 226.551,64                        |
 
