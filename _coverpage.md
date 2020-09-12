@@ -1,5 +1,6 @@
-<img src="docs/Assets/Img/Logo/Logo.png" width=270px>
+<img src="docs/Assets/Img/Logo/Icon.png" width=270px>
 
 ![](docs/Assets/Img/Logo/Background.png)
+
 
 

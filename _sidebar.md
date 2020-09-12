@@ -4,7 +4,11 @@
 - [Políticas](/docs/Policies/Policies.md)
 - **Produto**
   - [Documento de Visão](/docs/Product/VisionDocument.md)
-  - [Design Sprint](/docs/Product/DesignSprint/DesignSprint.md)
+- **Definação de Tema**
+  - [Questionário](/docs/Product/Questionary.md)
+  - [Entrevistas]()
+- **Definição de Escopo**
+  - [**Design Sprint**](/docs/Product/DesignSprint/DesignSprint.md)
     - [Brainstorming](/docs/Product/DesignSprint/Brainstorming.md)
     - [Rich Picture](/docs/Product/DesignSprint/RichPicture.md)
     - [StoryBoard](/docs/Product/DesignSprint/StoryBoard.md)
@@ -12,11 +16,20 @@
     - [Mapa Mental](/docs/Product/MindMap.md)
   - [5W2H](/docs/Product/5W2H.md)
   - [Diagrama de Ishikawa](/docs/Product/IshikawaDiagram.md)
+  - [Léxicos](/docs/Product/Lexicons.md)
+- **Definição de Metodologia**
   - [Metodologia](/docs/Product/Methodology.md)
   - [BPMN](/docs/Product/BPMN.md)
-  - [Léxicos](/docs/Product/Lexicons.md)
 - **Projeto**
-  - [Backlog](/docs/Project/ProductBacklog.md)
-  - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan)
-  - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan)
   - [Entrevistas](/docs/Project/Interview.md)
+  - [Backlog](/docs/Project/ProductBacklog.md)
+  - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan.md)
+  - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan.md)
+- [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
+  - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
+  - [2020-08-24 - Abertura da Sprint 0](/docs/SprintsAndMeetings/2020-08-24-Sprint0Opening.md)
+  - [2020-08-29 - Fechamento da Sprint 0](/docs/SprintsAndMeetings/2020-08-29-Sprint0Closure.md)
+  - [2020-08-29 - Abertura da Sprint 1](/docs/SprintsAndMeetings/2020-08-29-Sprint1Opening.md)
+  - [2020-09-02 - Design Sprint e Metodologia](/docs/SprintsAndMeetings/2020-09-02-DesignSprintAndMethodology.md)
+  - [2020-09-05 - Fechamento da Sprint 1](/docs/SprintsAndMeetings/2020-09-05-Sprint1Closure.md)
+  - [2020-09-05 - Abertura da Sprint 2](/docs/SprintsAndMeetings/2020-09-05-Sprint2Opening.md)
