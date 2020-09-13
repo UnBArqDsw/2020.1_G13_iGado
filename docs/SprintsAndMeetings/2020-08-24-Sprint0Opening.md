@@ -2,7 +2,7 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 11/09/2020 |  1.0   | Criação do modelo de Abertura de Sprint | [Iuri Severo](https://github.com/iurisevero) |
+| 11/09/2020 |  1.0   | Transcrição do documento 20200824 do teams | [Iuri Severo](https://github.com/iurisevero) |
 
 **Data**: 24 de agosto de 2020
 
