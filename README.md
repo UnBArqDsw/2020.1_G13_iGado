@@ -4,13 +4,13 @@
 **Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| :-: | :-- |
-| 16/0133394 | Lucas Fellipe Carvalho Moreira |
-| 17/0145514 | Iuri de Souza Severo Alves |
-| 17/0129411 | Guilherme Mendes Pereira |
-| 17/0138798 | Caio Vinícius Fernandes de Araújo |
-| 17/0013910 | João Pedro José Santos da Silva Guedes |
+|Matrícula | Aluno | Git |
+| :-: | :-- | :-- |
+| 16/0133394 | Lucas Fellipe Carvalho Moreira| [@lucasfcm9](https://github.com/lucasfcm9) | 
+| 17/0145514 | Iuri de Souza Severo Alves| [@iurisevero](https://github.com/iurisevero) | 
+| 17/0129411 | Guilherme Mendes Pereira | [@guilherme-mendes](https://github.com/guilherme-mendes) | 
+| 17/0138798 | Caio Vinícius Fernandes de Araújo | [@caiovfernandes](https://github.com/caiovfernandes) | 
+| 17/0013910 | João Pedro José Santos da Silva Guedes | [@sudjoao](https://github.com/sudjoao) | 
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
