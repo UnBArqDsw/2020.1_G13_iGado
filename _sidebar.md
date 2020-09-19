@@ -22,6 +22,7 @@
   - [BPMN](/docs/Product/BPMN.md)
 - **Projeto**
   - [Backlog](/docs/Project/ProductBacklog.md)
+  - [Priorização](/docs/Project/BacklogPrioritization)
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan.md)
   - [Plano de Gerenciamento de Custos](/docs/Project/CostManagementPlan.md)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan.md)
