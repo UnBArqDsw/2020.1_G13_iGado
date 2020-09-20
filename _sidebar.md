@@ -26,6 +26,8 @@
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan.md)
   - [Plano de Gerenciamento de Custos](/docs/Project/CostManagementPlan.md)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan.md)
+- **Modelagem**
+  - [Modelagem de Banco de Dados](/docs/Modeling/DatabaseModeling.md)
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
   - [2020-08-24 - Abertura da Sprint 0](/docs/SprintsAndMeetings/2020-08-24-Sprint0Opening.md)
