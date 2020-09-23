@@ -17,7 +17,8 @@
 <p align="justify"> &emsp;&emsp; Construção utilizando o framework Flutter em Dart.</p>
 
 #### Versão 1
-<img src="docs/Assets/Img/Modeling/DiagramPackage/PackageDiagramFrontendV1.png">
+<img src="docs/Assets/Img/Modeling/DiagramPackage/PackageDiagramFrontendV1.png"><br><br>
+<img src="docs/Assets/Img/Modeling/DiagramPackage/PackageDiagramFrontV2.png">
 
 ## **Referências**
 
