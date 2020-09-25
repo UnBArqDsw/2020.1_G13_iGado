@@ -10,8 +10,8 @@
 | 25/09/2020 |  1.0   | Criação do documento <i>Diagrama de Sequência</i>  inicial | [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero) |
 
 
-## Cadastro e Login
-Detalha o módulo de *Cadastro e Login* do sistema, mostrando como funcionará o cadastro de um usuário, sua fazer e seus funcionários, respectivamente.
+## Cadastro
+Detalha o módulo de *Cadastro* do sistema, mostrando como funcionará o cadastro de um usuário, sua fazer e seus funcionários, respectivamente.
 
 <img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RegistroELogin.png">
 <a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RegistroELogin.png"> Clique aqui para ampliar</a>
@@ -53,8 +53,8 @@ Detalha o módulo *Estoque de Insumos*, que será responsável por gerenciar pro
 ## Relatório
 Demonstra o módulo de *Relatório*, que se trata de uma funcionalidade para auxiliar o Proprietário na tomada de decisão. Trazendo informções a partir de métricas utilizando os dados de seus recursos.
 
-<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-Relatório.png">
-<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-Relatório.png"> Clique aqui para ampliar</a>
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-Relatório.png">
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-Relatório.png"> Clique aqui para ampliar</a>
 
 **Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero)
 
@@ -65,3 +65,9 @@ Demonstra o módulo de *Relatório*, que se trata de uma funcionalidade para aux
 
 **Sequence Diagrams Reference**. Disponível em:
 https://www.uml-diagrams.org/sequence-diagrams-reference.html. Acesso em: 25 de set. 2020.
+
+PIMENTA, Matheus. **Diagramas de Sequência, PAX Wiki**. Acesso em: 25 de set. 2020. Disponível em: https://pax-app.github.io/Wiki/#/docs/DS/dinamica-e-seminario-3/DiagramaSequencia
+
+DEUSDERÁ, Guilherme. **Modelos Dinâmicos: API e Banco de Dados**. Acesso em: 25 de set. 2020. Disponível em: https://ads-unigrade-2019-1.github.io/Wiki/dinamica04/apiebanco/
+
+
