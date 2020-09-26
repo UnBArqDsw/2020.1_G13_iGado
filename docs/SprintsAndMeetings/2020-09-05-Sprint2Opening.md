@@ -1,4 +1,4 @@
-# Abertura da Sprint 1
+# Abertura da Sprint 2
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
