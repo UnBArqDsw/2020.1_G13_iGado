@@ -1,0 +1,73 @@
+# Diagrama de Sequência
+
+<p align="justify"> &emsp;&emsp; O <strong>diagrama de sequência</strong> é uma das soluções que a UML oferece, de maneira dinâmica para detalhar os fluxos de vida do sistema em desenvolvimento. O principal foco da elaboração desse diagrama é descrever sobre a interação entre componentes do sistema, processos e módulos que, de alguma maneira, vivem simultaneamente e trocam mensagens entre si.
+
+
+</p>
+
+|    Data    | Versão |                Descrição                |                     Autores                     |
+| :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
+| 25/09/2020 |  1.0   | Criação do documento <i>Diagrama de Sequência</i>  inicial | [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero) |
+| 26/09/2020| 1.1 | Colocando a imagem certa no módulo <i>Estoque de Insumos </i>| [João Pedro](https://github.com/sudjoao)
+
+## Cadastro
+Detalha o módulo de *Cadastro* do sistema, mostrando como funcionará o cadastro de um usuário, sua fazer e seus funcionários, respectivamente.
+
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RegistroELogin.png">
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RegistroELogin.png"> Clique aqui para ampliar</a>
+
+**Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero)
+
+---
+
+## Cadastro de Bovino
+Detalha o módulo de *Cadastro de Bovino*, demonstrando como este fluxo funcionará no app, com o proprietário podendo cadastrar diferentes tipos de bovinos (de corte, de leite e bezerros).
+
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-CadastroDeBovino.png">
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-CadastroDeBovino.png"> Clique aqui para ampliar</a>
+
+**Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero)
+
+---
+
+## Manejo
+Demonstra o módulo de *Manejo Bovino*, detalhando os diferentes tipos de manejo.
+
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-Manejo.png">
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-Manejo.png"> Clique aqui para ampliar</a>
+
+**Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero)
+
+---
+
+## Estoque de Insumos
+Detalha o módulo *Estoque de Insumos*, que será responsável por gerenciar produtos de uma fazenda.
+
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-EstoqueDeInsumos.png">
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-EstoqueDeInsumos.png"> Clique aqui para ampliar</a>
+
+**Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero)
+
+---
+
+## Relatório
+Demonstra o módulo de *Relatório*, que se trata de uma funcionalidade para auxiliar o Proprietário na tomada de decisão. Trazendo informções a partir de métricas utilizando os dados de seus recursos.
+
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-Relatório.png">
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-Relatório.png"> Clique aqui para ampliar</a>
+
+**Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero)
+
+---
+
+## Referências
+**O que é um diagrama de sequência UML?**. [S. l.]. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-sequencia-uml. Acesso em: 25 set. 2020.
+
+**Sequence Diagrams Reference**. Disponível em:
+https://www.uml-diagrams.org/sequence-diagrams-reference.html. Acesso em: 25 de set. 2020.
+
+PIMENTA, Matheus. **Diagramas de Sequência, PAX Wiki**. Acesso em: 25 de set. 2020. Disponível em: https://pax-app.github.io/Wiki/#/docs/DS/dinamica-e-seminario-3/DiagramaSequencia
+
+DEUSDERÁ, Guilherme. **Modelos Dinâmicos: API e Banco de Dados**. Acesso em: 25 de set. 2020. Disponível em: https://ads-unigrade-2019-1.github.io/Wiki/dinamica04/apiebanco/
+
+
