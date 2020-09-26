@@ -33,3 +33,7 @@
   - [2020-09-02 - Design Sprint e Metodologia](/docs/SprintsAndMeetings/2020-09-02-DesignSprintAndMethodology.md)
   - [2020-09-05 - Fechamento da Sprint 1](/docs/SprintsAndMeetings/2020-09-05-Sprint1Closure.md)
   - [2020-09-05 - Abertura da Sprint 2](/docs/SprintsAndMeetings/2020-09-05-Sprint2Opening.md)
+  - [2020-09-12 - Fechamento da Sprint 2](/docs/SprintsAndMeetings/2020-09-12-Sprint2Closure.md)
+  - [2020-09-12 - Abertura da Sprint 3](/docs/SprintsAndMeetings/2020-09-12-Sprint3Opening.md)
+  - [2020-09-19 - Fechamento da Sprint 3](/docs/SprintsAndMeetings/2020-09-19-Sprint3Closure.md)
+  - [2020-09-19 - Abertura da Sprint 4](/docs/SprintsAndMeetings/2020-09-19-Sprint4Opening.md)

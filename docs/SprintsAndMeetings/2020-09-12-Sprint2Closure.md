@@ -29,11 +29,11 @@ Antes da reunião foi levantado os pontos que o Iuri percebeu durante a transcri
 
 ### Gráfico de Burn-Down
 
-![Burn-Down](docs/Assets/Img/Sprints/BurnDownSprint2.png)
+<img src="docs/Assets/Img/Sprints/BurnDownSprint2.png" alt="Burn-Down">
 
 ### Gráfico de Velocity
 
-![Velocity](docs/Assets/Img/Sprints/VelocitySprint2.png)
+<img src="docs/Assets/Img/Sprints/VelocitySprint2.png" alt="Velocity">
 
 ## Retrospective
 
