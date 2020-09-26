@@ -8,7 +8,7 @@
 |    Data    | Versão |                Descrição                |                     Autores                     |
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
 | 25/09/2020 |  1.0   | Criação do documento <i>Diagrama de Sequência</i>  inicial | [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero) |
-
+| 26/09/2020| 1.1 | Colocando a imagem certa no módulo <i>Estoque de Insumos </i>| [João Pedro](https://github.com/sudjoao)
 
 ## Cadastro
 Detalha o módulo de *Cadastro* do sistema, mostrando como funcionará o cadastro de um usuário, sua fazer e seus funcionários, respectivamente.
@@ -43,8 +43,8 @@ Demonstra o módulo de *Manejo Bovino*, detalhando os diferentes tipos de manejo
 ## Estoque de Insumos
 Detalha o módulo *Estoque de Insumos*, que será responsável por gerenciar produtos de uma fazenda.
 
-<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-Manejo.png">
-<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-Manejo.png"> Clique aqui para ampliar</a>
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-EstoqueDeInsumos.png">
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-EstoqueDeInsumos.png"> Clique aqui para ampliar</a>
 
 **Autor(es):** [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero)
 
