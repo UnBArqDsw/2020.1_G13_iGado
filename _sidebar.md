@@ -27,8 +27,9 @@
   - [Plano de Gerenciamento de Custos](/docs/Project/CostManagementPlan.md)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan.md)
 - **Modelagem**
-  - [Modelagem de Banco de Dados](/docs/Modeling/DatabaseModeling.md)
+  - [Diagrama de Entidade Relacionamento](/docs/Modeling/DatabaseModeling.md)
   - [Diagrama de Pacotes](/docs/Modeling/PackageDiagram.md)
+  - [Diagrama de Classes](/docs/Modeling/ClassDiagram.md)
   - [Diagrama de Sequência](/docs/Modeling/SequenceDiagram.md)
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
