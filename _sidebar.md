@@ -17,6 +17,7 @@
   - [5W2H](/docs/Product/5W2H.md)
   - [Diagrama de Ishikawa](/docs/Product/IshikawaDiagram.md)
   - [Léxicos](/docs/Product/Lexicons.md)
+  - [Matriz de Relações](/docs/Product/RelationsMatrix.md)
 - **Definição de Metodologia**
   - [Metodologia](/docs/Product/Methodology.md)
   - [BPMN](/docs/Product/BPMN.md)
