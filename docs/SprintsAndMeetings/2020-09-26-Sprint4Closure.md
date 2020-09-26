@@ -1,8 +1,9 @@
-# Fechamento da Sprint 2
+# Fechamento da Sprint 4
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 26/09/2020 |  1.0   | Fechamento da Sprint 4 | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+| 26/09/2020 |  0.9   | Fechamento da Sprint 4 | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+| 26/09/2020 |  1.0   | Adição dos Gráficos de Burn-Down e Velocity da Sprint 4 | [Iuri Severo](https://github.com/iurisevero) |
 
 **Data**: 26 de setembro de 2020
 
@@ -25,11 +26,11 @@
 
 ### Gráfico de Burn-Down
 
-![Burn-Down](docs/Assets/Img/Sprints/BurnDownSprint2.png)
+<img src="docs/Assets/Img/Sprints/BurnDownSprint4.png" alt="Burn-Down">
 
 ### Gráfico de Velocity
 
-![Velocity](docs/Assets/Img/Sprints/VelocitySprint2.png)
+<img src="docs/Assets/Img/Sprints/VelocitySprint4.png" alt="Velocity">
 
 ## Retrospective
 
@@ -53,7 +54,3 @@
     * Positivos: Pareamento, organização do grupo, comunicação constante do grupo, todo mundo trabalhando bem, se dedicou a disciplina.
     * Negativos: Desanimo ter que descobrir e ser obrigado a fazer todos os artefatos, pelo tamanho do escopo da matéria.
     * Melhorar: Continuar melhorando organização e comunicação e melhoria dos artefatos citados pela professora Milene.
-
-## Notas pós reunião
-
-* Nenhuma.
