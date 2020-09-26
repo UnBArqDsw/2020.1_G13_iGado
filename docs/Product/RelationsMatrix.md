@@ -7,7 +7,7 @@
 
 <p align="justify"> &emsp;&emsp; Durante o projeto foram utilizadas algumas técnicas (Brainstorming, Entrevista, Storyboard, Questionário e 5W2H) que contribuiram para a definição dos requisitos funcionais e não funcionais, que irão auxiliar futuramente na definição das funcionalidades do sistema.   </p>
 
-## Requisitos funcionais
+## Requisitos Funcionais
 | ID   | Descrição                                                    | Backward From                                              |
 | ---- | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | RF01 | Realização de cadastro e login como proprietário.            | [Brainstorming](docs/Product/DesignSprint/Brainstorming)                                              |
@@ -32,4 +32,13 @@
 | RF20 | Geração de relatórios a respeito da produtividade de gados de leite. | [Brainstorming](docs/Product/DesignSprint/Brainstorming) <br />[Entrevista](/docs/Project/Interview) <br />[Storyboard](docs/Product/DesignSprint/StoryBoard)            |
 | RF21 | Inserção da quantidade de insumos para os bovinos.           | [Brainstorming](docs/Product/DesignSprint/Brainstorming) <br />[Entrevista](/docs/Project/Interview) <br />[Storyboard](docs/Product/DesignSprint/StoryBoard) <br />[5W2H](/docs/Product/5W2H) |
 | RF22 | Editar quantidade de insumos para os bovinos.                | [Brainstorming](docs/Product/DesignSprint/Brainstorming) <br />[Entrevista](/docs/Project/Interview)                             |
+
+## Requisitos Não Funcionais
+
+| ID   | Descrição                                                    | Backward From                                              |
+| ---- | ------------------------------------------------------------ | ---------------------------------------------------------- |
+|RNF01| Deve possuir uma interface prática e intuitiva.               | [Brainstorming](docs/Product/DesignSprint/Brainstorming) <br />[Entrevista](/docs/Project/Interview)<br />[Questionário](docs/Product/Questionary) |
+| RNF02 | Disponível em multiplataformas independentes.               | [Brainstorming](docs/Product/DesignSprint/Brainstorming)<br />[Storyboard](docs/Product/DesignSprint/StoryBoard) |
+| RNF03 | Disponibilidade off-line.                                   | [Brainstorming](docs/Product/DesignSprint/Brainstorming)     |
+| RNF04 | Relatórios de fácil entedimento.                            | [Entrevista](/docs/Project/Interview)                        |
 
