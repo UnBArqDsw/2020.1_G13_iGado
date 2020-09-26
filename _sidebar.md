@@ -17,6 +17,7 @@
   - [5W2H](/docs/Product/5W2H.md)
   - [Diagrama de Ishikawa](/docs/Product/IshikawaDiagram.md)
   - [Léxicos](/docs/Product/Lexicons.md)
+  - [Matriz de Relações](/docs/Product/RelationsMatrix.md)
 - **Definição de Metodologia**
   - [Metodologia](/docs/Product/Methodology.md)
   - [BPMN](/docs/Product/BPMN.md)
@@ -30,6 +31,7 @@
   - [Diagrama de Entidade Relacionamento](/docs/Modeling/DatabaseModeling.md)
   - [Diagrama de Pacotes](/docs/Modeling/PackageDiagram.md)
   - [Diagrama de Classes](/docs/Modeling/ClassDiagram.md)
+  - [Diagrama de Sequência](/docs/Modeling/SequenceDiagram.md)
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
   - [2020-08-24 - Abertura da Sprint 0](/docs/SprintsAndMeetings/2020-08-24-Sprint0Opening.md)
@@ -38,3 +40,7 @@
   - [2020-09-02 - Design Sprint e Metodologia](/docs/SprintsAndMeetings/2020-09-02-DesignSprintAndMethodology.md)
   - [2020-09-05 - Fechamento da Sprint 1](/docs/SprintsAndMeetings/2020-09-05-Sprint1Closure.md)
   - [2020-09-05 - Abertura da Sprint 2](/docs/SprintsAndMeetings/2020-09-05-Sprint2Opening.md)
+  - [2020-09-12 - Fechamento da Sprint 2](/docs/SprintsAndMeetings/2020-09-12-Sprint2Closure.md)
+  - [2020-09-12 - Abertura da Sprint 3](/docs/SprintsAndMeetings/2020-09-12-Sprint3Opening.md)
+  - [2020-09-19 - Fechamento da Sprint 3](/docs/SprintsAndMeetings/2020-09-19-Sprint3Closure.md)
+  - [2020-09-19 - Abertura da Sprint 4](/docs/SprintsAndMeetings/2020-09-19-Sprint4Opening.md)
