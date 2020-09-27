@@ -2,11 +2,14 @@
 
 - [Home](/)
 - [Políticas](/docs/Policies/Policies.md)
+
 - **Produto**
   - [Documento de Visão](/docs/Product/VisionDocument.md)
+
 - **Definação de Tema**
   - [Questionário](/docs/Product/Questionary.md)
   - [Entrevistas](/docs/Project/Interview.md)
+
 - **Definição de Escopo**
   - [**Design Sprint**](/docs/Product/DesignSprint/DesignSprint.md)
     - [Brainstorming](/docs/Product/DesignSprint/Brainstorming.md)
@@ -18,20 +21,25 @@
   - [Diagrama de Ishikawa](/docs/Product/IshikawaDiagram.md)
   - [Léxicos](/docs/Product/Lexicons.md)
   - [Matriz de Relações](/docs/Product/RelationsMatrix.md)
+
 - **Definição de Metodologia**
   - [Metodologia](/docs/Product/Methodology.md)
   - [BPMN](/docs/Product/BPMN.md)
+
 - **Projeto**
   - [Backlog](/docs/Project/ProductBacklog.md)
   - [Priorização](/docs/Project/BacklogPrioritization)
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan.md)
   - [Plano de Gerenciamento de Custos](/docs/Project/CostManagementPlan.md)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan.md)
+
 - **Modelagem**
   - [Diagrama de Entidade Relacionamento](/docs/Modeling/DatabaseModeling.md)
   - [Diagrama de Pacotes](/docs/Modeling/PackageDiagram.md)
   - [Diagrama de Classes](/docs/Modeling/ClassDiagram.md)
   - [Diagrama de Sequência](/docs/Modeling/SequenceDiagram.md)
+  - [Diagrama de Atividades](/docs/Modeling/ActivityDIagram.md)
+  
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
   - [2020-08-24 - Abertura da Sprint 0](/docs/SprintsAndMeetings/2020-08-24-Sprint0Opening.md)
