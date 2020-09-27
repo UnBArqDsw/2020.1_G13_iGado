@@ -31,6 +31,7 @@
   - [Diagrama de Entidade Relacionamento](/docs/Modeling/DatabaseModeling.md)
   - [Diagrama de Pacotes](/docs/Modeling/PackageDiagram.md)
   - [Diagrama de Classes](/docs/Modeling/ClassDiagram.md)
+  - [Diagrama de Componentes](/docs/Modeling/ComponentsDiagram.md)
   - [Diagrama de Sequência](/docs/Modeling/SequenceDiagram.md)
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
