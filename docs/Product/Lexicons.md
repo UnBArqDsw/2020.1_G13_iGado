@@ -3,6 +3,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 09/09/2020 |  1.0   | Criação do documento dos Léxicos Gerais |[Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 28/09/2020 |  1.1   | Adição das referências e revisão dos léxicos: Vacina, Bovino, Funcionário, Proprietário, Relatório, Fazenda, Pasto, Hectare, Taxa de Lotação, Prenhez, Gado de Corte, Gado de Leite | [Iuri Severo](http://github.com/iurisevero)
 
 <p align="justify"> &emsp;&emsp; Léxico é definido como um conjunto dos vocábulos de uma língua, dispostos em ordem alfabética e com as respectivas significações. Uma notação na modelagem de requisitos que usa a descrição de termos via léxico é o LAL (Léxico Ampliado da Linguagem). </p>
 
@@ -30,7 +31,7 @@
 | ----------------- | ------------------------------------------------------------ |
 | **Classificação** | Objeto                                                       |
 | **Sinônimos**     | Boi, Vaca, Gado, Animal, Rebanho                             |
-| **Noção**         | Objeto que será cadastrado no banco de dados no qual as suas informações serão extraídas |
+| **Noção**         | Objeto que será cadastrado no banco de dados do qual as suas informações serão extraídas |
 | **Impacto**       | Um [bovino](/docs/Product/Lexicons?id=bovino) pode ser cadastrado no aplicativo <br />O cadastro do [bovino](/docs/Product/Lexicons?id=bovino) será realizado por um [funcionário](/docs/Product/Lexicons?id=funcionário) ou pelo [proprietário](/docs/Product/Lexicons?id=proprietário)<br />As informações do [bovino](/docs/Product/Lexicons?id=bovino) poderão ser visualizadas a qualquer momento<br />As informações do [bovino](/docs/Product/Lexicons?id=bovino) poderão ser alteradas <br />Geração de [relatórios](/docs/Product/Lexicons?id=relatório) com os dados referentes aos [bovinos](/docs/Product/Lexicons?id=bovino) |
 
 ### Funcionário
@@ -38,16 +39,16 @@
 | ----------------- | ------------------------------------------------------------ |
 | **Classificação** | Sujeito                                                      |
 | **Sinônimos**     | Empregado rural, Caseiro                                     |
-| **Noção**         | [Funcionário](/docs/Product/Lexicons?id=funcionário) que trabalha na [fazenda](/docs/Product/Lexicons?id=fazenda) responsável por gerenciar o [gado](/docs/Product/Lexicons?id=bovino) |
-| **Impacto**       | O [funcionário](/docs/Product/Lexicons?id=funcionário) poderá coletar dados dos [bovinos](/docs/Product/Lexicons?id=bovino)  <br />O [funcionário](/docs/Product/Lexicons?id=funcionário) poderá inserir essas informações no aplicativo <br />Um [funcionário](/docs/Product/Lexicons?id=funcionário) pode cadastrar um [bovino](/docs/Product/Lexicons?id=bovino) <br />Um [funcionário](/docs/Product/Lexicons?id=funcionário) pode editar seus dados e dados do [bovino](/docs/Product/Lexicons?id=bovino) <br />Um [funcionário](/docs/Product/Lexicons?id=funcionário) pode gerar [relatórios](/docs/Product/Lexicons?id=relatório) referentes aos [bovinos](/docs/Product/Lexicons?id=bovino) |
+| **Noção**         | [Funcionário](/docs/Product/Lexicons?id=funcionário) que trabalha na [fazenda](/docs/Product/Lexicons?id=fazenda), responsável por gerenciar o [gado](/docs/Product/Lexicons?id=bovino) e os [insumos](/docs/Product/Leixcons?id=insumo) |
+| **Impacto**       | O [funcionário](/docs/Product/Lexicons?id=funcionário) poderá coletar dados dos [bovinos](/docs/Product/Lexicons?id=bovino)  <br />O [funcionário](/docs/Product/Lexicons?id=funcionário) poderá inserir informações sobre os [bovinos](/docs/Product/Lexicons?id=bovino) e os [insumos](/docs/Product/Leixcons?id=insumo) no aplicativo <br />Um [funcionário](/docs/Product/Lexicons?id=funcionário) pode cadastrar [bovinos](/docs/Product/Lexicons?id=bovino) e [insumos](/docs/Product/Leixcons?id=insumo) <br />Um [funcionário](/docs/Product/Lexicons?id=funcionário) pode editar seus dados, dados do [bovino](/docs/Product/Lexicons?id=bovino)  e do [insumo](/docs/Product/Leixcons?id=insumo)<br />Um [funcionário](/docs/Product/Lexicons?id=funcionário) pode gerar [relatórios](/docs/Product/Lexicons?id=relatório) referentes aos [bovinos](/docs/Product/Lexicons?id=bovino) |
 
 ### Proprietário
 | **Nome**          | [Proprietário](/docs/Product/Lexicons?id=proprietário)                                                 |
 | ----------------- | ------------------------------------------------------------ |
 | **Classificação** | Sujeito                                                      |
-| **Sinônimos**     | Fazendeiro, Dono da [fazenda](/docs/Product/Lexicons?id=fazenda), Pecuarista                      |
+| **Sinônimos**     | Fazendeiro, Dono da [fazenda](/docs/Product/Lexicons?id=fazenda), Pecuarista, Produtos Rural                      |
 | **Noção**         | Responsável por gerenciar a [fazenda](/docs/Product/Lexicons?id=fazenda)                          |
-| **Impacto**       | [Proprietário](/docs/Product/Lexicons?id=proprietário) pode coletar dados dos [bovinos](/docs/Product/Lexicons?id=bovino)<br />[Proprietário](/docs/Product/Lexicons?id=proprietário) pode inserir e remover esses dados no aplicativo <br />[Proprietário](/docs/Product/Lexicons?id=proprietário) pode visualizar seus gastos e ter um controle sobre eles <br />[Proprietário](/docs/Product/Lexicons?id=proprietário) pode editar seus dados e dados dos [bovinos](/docs/Product/Lexicons?id=bovino) <br />[Proprietário](/docs/Product/Lexicons?id=proprietário) pode gerar [relatórios](/docs/Product/Lexicons?id=relatório) referentes aos [bovinos](/docs/Product/Lexicons?id=bovino) e aos seus gastos<br />[Proprietário](/docs/Product/Lexicons?id=proprietário) pode adicionar mais de uma [fazenda](/docs/Product/Lexicons?id=fazenda) |
+| **Impacto**       | [Proprietário](/docs/Product/Lexicons?id=proprietário) pode coletar dados dos [bovinos](/docs/Product/Lexicons?id=bovino) e dos [insumos](/docs/Product/Leixcons?id=insumo)<br />[Proprietário](/docs/Product/Lexicons?id=proprietário) pode inserir e remover esses dados no aplicativo <br />[Proprietário](/docs/Product/Lexicons?id=proprietário) pode visualizar seus gastos e ter um controle sobre eles <br />[Proprietário](/docs/Product/Lexicons?id=proprietário) pode editar seus dados, dados dos [bovinos](/docs/Product/Lexicons?id=bovino) e dos [insumos](/docs/Product/Leixcons?id=insumo) <br />[Proprietário](/docs/Product/Lexicons?id=proprietário) pode gerar [relatórios](/docs/Product/Lexicons?id=relatório) referentes aos [bovinos](/docs/Product/Lexicons?id=bovino) e aos seus gastos<br />[Proprietário](/docs/Product/Lexicons?id=proprietário) pode adicionar mais de uma [fazenda](/docs/Product/Lexicons?id=fazenda) |
 
 ### Relatório
 | **Nome**          | Relatório                                                    |
@@ -73,12 +74,13 @@
 | **Noção**         | [Propriedade rural](/docs/Product/Lexicons?id=proprietário) de lavoura ou de criação de gado           |
 | **Impacto**       | Cadastrar uma [fazenda](/docs/Product/Lexicons?id=fazenda) <br />Editar os dados referentes a uma [fazenda](/docs/Product/Lexicons?id=fazenda) <br />Adicionar um [proprietário](/docs/Product/Lexicons?id=proprietário) para a [fazenda](/docs/Product/Lexicons?id=fazenda) |
 
-### Pasto
+<!-- Alterar -->
+### Pasto 
 | **Nome**          | Pasto                                                        |
 | ----------------- | ------------------------------------------------------------ |
 | **Classificação** | Objeto                                                       |
 | **Sinônimos**     | Alimento [bovino](/docs/Product/Lexicons?id=bovino), ração                                       |
-| **Noção**         | Vegetação utilizada para a alimentação do [gado](/docs/Product/Lexicons?id=bovino) e por extensão ou terreno onde o [gado](/docs/Product/Lexicons?id=bovino) é deixado para se alimentar. |
+| **Noção**         | Vegetação utilizada para a alimentação do [gado](/docs/Product/Lexicons?id=bovino) e extensão ou terreno onde o [gado](/docs/Product/Lexicons?id=bovino) é deixado para se alimentar. |
 | **Impacto**       | Cadastrar uma [fazenda](/docs/Product/Lexicons?id=fazenda) <br />Editar os dados referentes a uma [fazenda](/docs/Product/Lexicons?id=fazenda) <br />Cadastrar um [bovino](/docs/Product/Lexicons?id=bovino) <br />Coletar dados do [bovino](/docs/Product/Lexicons?id=bovino) <br />Geração de [relatórios](/docs/Product/Lexicons?id=relatório) |
 
 ### GMD
@@ -103,15 +105,15 @@
 | **Classificação** | Objeto                                                       |
 | **Sinônimos**     | Área, unidade de medida                                      |
 | **Noção**         | Unidade de medida de área equivalente a 100 ares ou a 10 000 metros quadrados |
-| **Impacto**       | Cadastrar [fazenda](/docs/Product/Lexicons?id=fazenda)<br />Geração de [relatórios](/docs/Product/Lexicons?id=relatório) <br />Lucro Por [Hectare](/docs/Product/Lexicons?id=hectare) Por Ano |
+| **Impacto**       | Ao cadastrar uma [fazenda](/docs/Product/Lexicons?id=fazenda) é necessário informar quantos [Hectares](/docs/Product/Lexicons?id=hectare) ela possui<br />A geração de [relatórios](/docs/Product/Lexicons?id=relatório) considera a [área](/docs/Product/Lexicons?id=hectare) da [fazenda](/docs/Product/Lexicons?id=fazenda) nos cálculos <br />Lucro Por [Hectare](/docs/Product/Lexicons?id=hectare) Por Ano |
 
 ### Taxa de Lotação
 | **Nome**          | Taxa de Lotação                                              |
 | ----------------- | ------------------------------------------------------------ |
 | **Classificação** | Objeto                                                       |
 | **Sinônimos**     | -                                                             |
-| **Noção**         | A [taxa de lotação](/docs/Product/Lexicons?id=taxa-de-lotacao) é definida pelo número de animais dividido pela área pastejada |
-| **Impacto**       | Cadastrar [fazenda](/docs/Product/Lexicons?id=fazenda) <br />Cadastrar [gado](/docs/Product/Lexicons?id=bovino) <br />Geração de [relatórios](/docs/Product/Lexicons?id=relatório) |
+| **Noção**         | A [taxa de lotação](/docs/Product/Lexicons?id=taxa-de-lotação) é definida pelo número de animais dividido pela área do [pasto](/docs/Product/Lexicons?id=pasto) |
+| **Impacto**       | A [taxa de lotação](/docs/Product/Lexicons?id=taxa-de-lotação) depende da [fazenda](/docs/Product/Lexicons?id=fazenda) para ser calculada <br />Cadastrar [gado](/docs/Product/Lexicons?id=bovino) altera o valor da [taxa de lotação](/docs/Product/Lexicons?id=taxa-de-lotação) <br />Geração de [relatórios](/docs/Product/Lexicons?id=relatório) utiliza a [taxa de lotação](/docs/Product/Lexicons?id=taxa-de-lotação) como um dos dados |
 
 ### Prenhez
 | **Nome**          | Prenhez                                                      |
@@ -135,7 +137,7 @@
 | **Classificação** | Objeto                                                       |
 | **Sinônimos**     | Pecuária de leite                                            |
 | **Noção**         | O [gado](/docs/Product/Lexicons?id=bovino) de leite é o [gado](/docs/Product/Lexicons?id=bovino) criado para a produção de leite.    |
-| **Impacto**       | Adicionar [gado](/docs/Product/Lexicons?id=bovino) de leite para obter métricas na geração de [relatórios](/docs/Product/Lexicons?id=relatório) e lucros com a venda de produtos lácteos. |
+| **Impacto**       | Adicionar [gado](/docs/Product/Lexicons?id=bovino) de leite para obter métricas na geração de [relatórios](/docs/Product/Lexicons?id=relatório) e lucros com a venda de produtos lácteos. O [gado de leite](/docs/Product/Lexicons?id=gado-de-leite) pode entrar em estado de [prenhez](/docs/Product/Lexicons?id=prenhez) após sofrer um [manejo](/docs/Product/Lexicons?id=manejar) de reprodução|
 
 ### Taxa de Desmama   
 | **Nome**          | Taxa de Desmama                                              |
@@ -143,6 +145,8 @@
 | **Classificação** | Objeto                                                       |
 | **Sinônimos**     | -                                                            |
 | **Noção**         | Representa o total de [bovinos](/docs/Product/Lexicons?id=bovino) desmamados em relação às [vacas](/docs/Product/Lexicons?id=bovino) expostas em reprodução dentro de um determinado período. |
-| **Impacto**       | Geração de [relatórios](/docs/Product/Lexicons?id=relatório)                                              |
+| **Impacto**       | A geração de [relatórios](/docs/Product/Lexicons?id=relatório) utilizará a [Taxa de Desmama](/docs/Product/Lexicons?id=taxa-de-desmama) como um dos dados para cálculo|
 
- 
+## Referências
+* Julio Leite. A Strategy for Conceptual Model Acquisition. IEEE 1992.
+* Requisitos de Software - Wire, Léxicos. Disponível em: <https://requisitos-de-software.github.io/2019.2-Wire/#/docs/modeling/lexicons>
