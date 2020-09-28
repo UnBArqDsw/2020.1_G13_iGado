@@ -38,7 +38,8 @@
   - [Diagrama de Pacotes](/docs/Modeling/PackageDiagram.md)
   - [Diagrama de Classes](/docs/Modeling/ClassDiagram.md)
   - [Diagrama de Sequência](/docs/Modeling/SequenceDiagram.md)
-  - [Diagrama de Atividades](/docs/Modeling/ActivityDIagram.md)
+  - [Diagrama de Atividades](/docs/Modeling/ActivityDiagram.md)
+  - [Diagrama de Coleboração](/docs/Modeling/ColaborationDiagram.md)
   
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
