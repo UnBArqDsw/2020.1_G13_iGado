@@ -19,10 +19,10 @@
 ## Review
 
 * Caio: Nessa sprint assistiu as aulas de UML estático e dinâmico, pareou com o Iuri quarta, quinta e sexta para a realização do diagrama de sequência. (diagrama dinâmico)
-* Guilherme: Nessa sprint elaborou o digrama de pacotes na quarta-feira e a matriz de relações.
-* Iuri: Nessa sprint assistiu as aulas de modelagem, pareou com o Caio quarta, quinta e sexta para realizar o diagrama de sequência. E finalizar a documentação da sprint passada.
-* João: Nessa sprint, eu o Lucas pareamos para realizar o diagrama de classes, ontem conseguiram finalizar a ultima versão e subi-la para o GitHub pages, assistiu as aulas do diagramas estáticos.
-* Lucas: Nessa sprint eu o João para realizar o diagrama de classes, 3 vezes durante a semana, o João finalizou o diagrama ontem e subi para a wiki com o PR já aprovado e assistiu as primeiras aulas de modelagem.
+* Guilherme: Nessa sprint elaborou o diagrama de pacotes na quarta-feira e a matriz de relações.
+* Iuri: Nessa sprint assistiu as aulas de modelagem, pareou com o Caio quarta, quinta e sexta para realizar o diagrama de sequência. Alêm disso, se reuniram para finalizar a documentação da sprint passada.
+* João: Nessa sprint, eu e o Lucas pareamos para realizar o diagrama de classes. Ontem conseguiram finalizar a última versão e subiram para o GitHub pages. Assistiu as aulas dos diagramas estáticos.
+* Lucas: Nessa sprint, eu e o João pareamos para realizar o diagrama de classes, 3 vezes durante a semana. o João finalizou o diagrama ontem e eu subi para a wiki com o PR já aprovado. Além disso, assistiu as primeiras aulas de modelagem.
 
 ### Gráfico de Burn-Down
 
@@ -49,8 +49,8 @@
 * João
     * Positivo: Pareamento, comunicação e organização. Todos trabalhando bem durante a semana, como foram ditos na <i>dailies</i>.
     * Negativo: Desânimo ao descobrir que terão mais artefatos a serem feitos, trazendo uma grande carga na equipe pelo tamanho do nosso escopo.
-    * Melhorar: Melhoria dos artefatos de acordo com o feedback da professora a respeito da primeira entrega.
+    * Melhorar: Melhoria dos artefatos de acordo com o <i>feedback</i> da professora a respeito da primeira entrega.
 * Lucas
     * Positivos: Pareamento, organização do grupo, comunicação constante do grupo, todo mundo trabalhando bem, se dedicou a disciplina.
     * Negativos: Desânimo em ter que descobrir e ser obrigado a fazer todos os artefatos, pelo tamanho do escopo da matéria.
-    * Melhorar: Continuar melhorando organização e comunicação e melhoria dos artefatos citados pela professora Milene.
+    * Melhorar: Continuar melhorando organização e comunicação, além da melhoria dos artefatos citados pela professora Milene.

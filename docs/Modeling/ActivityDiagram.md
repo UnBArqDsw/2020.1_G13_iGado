@@ -7,14 +7,13 @@
 | 26/09/2020 |  0.3   | Criação do fluxo de Gerenciar Gados | [João Guedes](https://github.com/sudjoao) |
 | 26/09/2020 |  0.4   | Criação do fluxo de Manejar Gados  | [João Guedes](https://github.com/sudjoao) |
 | 26/09/2020 |  0.5   | Criação do fluxo de Gerar Relatórios  | [João Guedes](https://github.com/sudjoao) |
-| 26/09/2020 |  0.6   | Criação do fluxo de Gerencair Relatórios  | [João Guedes](https://github.com/sudjoao) |
+| 26/09/2020 |  0.6   | Criação do fluxo de Gerenciar Relatórios  | [João Guedes](https://github.com/sudjoao) |
 | 26/09/2020 |  0.7   | Criação do fluxo de Visualizar Insumos  | [João Guedes](https://github.com/sudjoao) |
 | 26/09/2020 |  0.8   | Criação do fluxo de Gerenciar Insumos  | [João Guedes](https://github.com/sudjoao) |
 | 26/09/2020 |  1.0   | Criação do documento de Diagrama de Atividades | [João Guedes](https://github.com/sudjoao) |
 
-## Descrição
 
-<p align="justify"> &emsp;&emsp; O Diagrama de atividades é o diagrama que tem como objetivo mostrar o fluxo de atividades do software, mostrando os objetos envolvidos, como eles se envolvem e quais são as atividades realizadas. </p>
+<p align="justify"> &emsp;&emsp; O Diagrama de Atividades tem como objetivo mostrar o fluxo de atividades do <i>software</i>, mostrando os objetos envolvidos, como eles se envolvem e quais são as atividades realizadas. </p>
 
 ## Entrar no aplicativo
 

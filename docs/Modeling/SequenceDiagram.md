@@ -1,14 +1,12 @@
 # Diagrama de Sequência
 
-<p align="justify"> &emsp;&emsp; O <strong>diagrama de sequência</strong> é uma das soluções que a UML oferece, de maneira dinâmica para detalhar os fluxos de vida do sistema em desenvolvimento. O principal foco da elaboração desse diagrama é descrever sobre a interação entre componentes do sistema, processos e módulos que, de alguma maneira, vivem simultaneamente e trocam mensagens entre si.
-
-
-</p>
 
 |    Data    | Versão |                Descrição                |                     Autores                     |
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
-| 25/09/2020 |  1.0   | Criação do documento <i>Diagrama de Sequência</i>  inicial | [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero) |
-| 26/09/2020| 1.1 | Colocando a imagem certa no módulo <i>Estoque de Insumos </i>| [João Pedro](https://github.com/sudjoao)
+| 25/09/2020 |  1.0   | Criação do documento Diagrama de Sequência inicial | [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero) |
+| 26/09/2020| 1.1 | Colocando a imagem certa no módulo Estoque de Insumos| [João Pedro](https://github.com/sudjoao)
+
+<p align="justify"> &emsp;&emsp; O Diagrama de Sequência é uma das soluções que a UML oferece, de maneira dinâmica para detalhar os fluxos de vida do sistema em desenvolvimento. O principal foco da elaboração desse diagrama é descrever sobre a interação entre componentes do sistema, processos e módulos que, de alguma maneira, vivem simultaneamente e trocam mensagens entre si.</p>
 
 ## Cadastro
 Detalha o módulo de *Cadastro* do sistema, mostrando como funcionará o cadastro de um usuário, sua fazer e seus funcionários, respectivamente.

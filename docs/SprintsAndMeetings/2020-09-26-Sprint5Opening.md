@@ -28,13 +28,13 @@
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
 | ------------------- | ---------------- | --------- | -------------- |
 | Digrama de componentes | Iuri Severo | 8 | 0 |
-| Diagrama de estados | Guilherme e Lucas | 13 | 0 |
+| Diagrama de estados | Guilherme e Lucas Fellipe | 13 | 0 |
 | Diagrama de atividades | João Pedro | 8 | 0 |
-| Diagrama de comunicação | Caio | 8 | 0 |
+| Diagrama de comunicação | Caio Vinícius | 8 | 0 |
 | Avaliação por pares | Todos | 3 | 0 |
 | Refatoração Plano de custos | Guilherme Mendes e Lucas Fellipe | 5 | 0 |
 | Refatoração Plano de Léxicos | Iuri Severo | 3 | 0 |
-| Refatoração Plano de Design Sprint e Protótipo de Alta fidelidade | João Pedro e Caio Vinicius | 3 | 0 | 
+| Refatoração Plano de Design Sprint e Protótipo de Alta fidelidade | João Pedro e Caio Vinícius | 3 | 0 | 
 
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Backlog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
 
