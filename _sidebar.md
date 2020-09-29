@@ -40,6 +40,7 @@
   - [Diagrama de Componentes](/docs/Modeling/ComponentsDiagram.md)
   - [Diagrama de Sequência](/docs/Modeling/SequenceDiagram.md)
   - [Diagrama de Atividades](/docs/Modeling/ActivityDiagram.md)
+  - [Diagrama de Colaboração](/docs/Modeling/ColaborationDiagram.md)
   - [Diagrama de Estados](/docs/Modeling/StateDiagram.md)
 
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
