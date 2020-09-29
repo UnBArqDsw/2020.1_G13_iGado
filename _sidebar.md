@@ -37,6 +37,7 @@
   - [Diagrama de Entidade Relacionamento](/docs/Modeling/DatabaseModeling.md)
   - [Diagrama de Pacotes](/docs/Modeling/PackageDiagram.md)
   - [Diagrama de Classes](/docs/Modeling/ClassDiagram.md)
+  - [Diagrama de Componentes](/docs/Modeling/ComponentsDiagram.md)
   - [Diagrama de Sequência](/docs/Modeling/SequenceDiagram.md)
   - [Diagrama de Atividades](/docs/Modeling/ActivityDiagram.md)
   - [Diagrama de Estados](/docs/Modeling/StateDiagram.md)
