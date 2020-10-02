@@ -5,6 +5,7 @@
 | 09/09/2020 |  1.0   | Criação do documento dos Léxicos Gerais |[Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 28/09/2020 |  1.1   | Adição das referências e revisão dos léxicos: Vacina, Bovino, Funcionário, Proprietário, Relatório, Fazenda, Pasto, Hectare, Taxa de Lotação, Prenhez, Gado de Corte, Gado de Leite | [Iuri Severo](http://github.com/iurisevero) |
 | 29/09/2020 |  1.2   | Adição do léxico Insumo e revisão dos léxicos: Manejar, GMD e RGD | [Iuri Severo](http://github.com/iurisevero) |
+| 02/10/2020 | 1.2 | Revisão do documento | [João Guedes](http://github.com/sudjoao) |
 
 <p align="justify"> &emsp;&emsp; Léxico é definido como um conjunto dos vocábulos de uma língua, dispostos em ordem alfabética e com as respectivas significações. Uma notação na modelagem de requisitos que usa a descrição de termos via léxico é o LAL (Léxico Ampliado da Linguagem). </p>
 
