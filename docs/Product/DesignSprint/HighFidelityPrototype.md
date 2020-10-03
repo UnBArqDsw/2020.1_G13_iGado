@@ -6,18 +6,19 @@
 | 08/09/2020 |  1.2   | Pequenos ajustes na página  |[Lucas Fellipe](https://github.com/lucasfcm9)|
 | 30/09/2020 | 1.3 | Mudando a descrição do protótipo de alta fidelidade e adicionando referências | [João Guedes](https://github.com/sudjoao)|
 | 30/09/2020| 1.4 | Adição de print com todas as telas do protótipo e link para acessá-las|[João Guedes](https://github.com/sudjoao)|
+| 03/10/2020| 1.5 | Revisão do documento |[Iuri Severo](https://github.com/iurisevero)|
 
 <p align="justify"> &emsp;&emsp;A partir dos Requisitos coletados durante a execução da <i>Design Sprint</i>, entrevistas e no questionário, o grupo resolveu fazer o primeiro protótipo de alta fidelidade do aplicativo. A ideia do protótipo de alta fidelidade foi realmente saber como o aplicativo funcionará e, também, ter uma base para seguirmos no desenvolvimento dele. Além disso, o grupo optou por fazer um protótipo com algumas animações para que ele se aproxime ao máximo do desejado.
 
 &emsp;&emsp;O protótipo foi feito no framer e ele permite que os campos de texto, botões, animações(como arrastar e as animações de troca de tela) e entre outras coisas possam ser adicionadas, ou seja, o protótipo está completamente funcional como se fosse um aplicativo já feito, na versão 1.0 todas as telas inicias já tinham sido feitas e é possível acessa-las a partir da barra de navegação inferior.
 
-&emsp;&emsp;O grupo planeja mostrar estes protótipos para alguns stakeholder para fazer um teste de usabilidade para que antes de começar a implementar o software em si tenham certeza de que o protótipo está de acordo com o esperado. 
+&emsp;&emsp;O grupo planeja mostrar estes protótipos para alguns stakeholder para fazer um teste de usabilidade para que, antes de começar a implementar o software em si, tenham certeza de que o protótipo está de acordo com o esperado. 
 
 </p>
 
 ## Versão 1.0 - Protótipo de Alta Fidelidade
 
-* Clique na imagem para abrir o protótipo de alta fidelidade em funcionamento, todos os botões, barras de navegações e inputs são funcionais
+* Clique na imagem para abrir o protótipo de alta fidelidade em funcionamento. Todos os botões, barras de navegações e inputs são funcionais
 
 <a href="https://www.framer.com/share/iGado--2dX1EiFNGm3s5mrfVxLK">
 <img src="docs/Assets/Img/Artefacts/Splash.png" width=190px>
