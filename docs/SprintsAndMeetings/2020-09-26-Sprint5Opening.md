@@ -32,7 +32,7 @@
 | Diagrama de atividades | João Pedro | 8 | 0 |
 | Diagrama de comunicação | Caio Vinícius | 8 | 0 |
 | Avaliação por pares | Todos | 3 | 0 |
-| Refatoração Plano de custos | Guilherme Mendes e Lucas Fellipe | 5 | 0 |
+| Refatoração Plano de Custos | Guilherme Mendes e Lucas Fellipe | 5 | 0 |
 | Refatoração Plano de Léxicos | Iuri Severo | 3 | 0 |
 | Refatoração Plano de Design Sprint e Protótipo de Alta fidelidade | João Pedro e Caio Vinícius | 3 | 0 | 
 
