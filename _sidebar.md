@@ -43,6 +43,9 @@
   - [Diagrama de Colaboração](/docs/Modeling/ColaborationDiagram.md)
   - [Diagrama de Estados](/docs/Modeling/StateDiagram.md)
 
+- **Estudos**
+  - [Estudo sobre Padrões de Projeto Emergentes](/docs/Studies/EmergingDesignPatterns.md)
+
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
   - [2020-08-24 - Abertura da Sprint 0](/docs/SprintsAndMeetings/2020-08-24-Sprint0Opening.md)
