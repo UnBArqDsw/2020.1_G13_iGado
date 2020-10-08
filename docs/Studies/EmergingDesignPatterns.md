@@ -4,6 +4,7 @@
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 07/10/2020 |  0.1   | Definições iniciais e referências | [Iuri Severo](https://github.com/iurisevero) |
 | 07/10/2020 |  0.2   | Adição do padrão Singleton | [Iuri Severo](https://github.com/iurisevero) |
+| 07/10/2020 |  0.3   | Adição do padrão Composite | [Iuri Severo](https://github.com/iurisevero) |
 
 <p align="justify"> &emsp;&emsp; Padrões de projetos são pricípior e soluções adotadas para resolver problemas comuns encontrados durante o desenvolvimento de um projeto de software. Esse padrões são documentados e visam seguir uma estrutura e um comportamento regular para solucionar um problema específico a partir de sua aplicação. <br />
 &emsp;&emsp; No entanto, fatores como: <i>(i)</i> falta de conhecimento da implementação do padrão por parte do desenvolvedor; <i>(ii)</i> sucessivas mudanças em outras classes e refletidas nessa parte do código; <i>(iii)</i> falta de refatoração no código; ou, <i>(iv)</i> característica do problema e não necessita implementar o padrão <i>(Job, 2014, p. 27)</i>, podem resultar em situações onde se tem um padrão comportamental não estruturado, aspecto comum de padrões emergentes. <br />
@@ -41,7 +42,32 @@ public class Licences {
 ```
 _Fonte: Job, 2014, p.28~29_
 
+## Composite
+
+<p align="justify"> &emsp;&emsp; O padrão Composite é adotado quando é necessário tratar um conjunto de objetos como uma singularidade. Um exemplo dessa ação pode ser encontrado em diversos softwares de edição de imagem e desenho, na função de agrupamento: diversos objetos distintos passam a ser tratados como um só, o grupo, o qual é possível movimentar, redimensionar, duplicar, etc..</p><br />
+<p align="justify"> &emsp;&emsp; A solução adotada para isso é uma hierarquia de classes baseada em dois objetos, um <i>Composite</i> e uma <i>Leaf</i>, onde o <i>Composite</i> é uma combinação de elementos individuais e outros <i>Composites</i> e a <i>Leaf</> é o objeto individual. O resultado disso é uma estrutura de árvore, onde as folhas são os objetos. </p>
+
+_Figura 1.2: Exemplo de Padrão Composite_
+<br /><img src="docs/Assets/Img/Studies/EmergingDesignPatterns/CompositePatternExample.png" alt="Exemplo de Padrão Composite"><br />
+_Fonte: Gamma, Helm, Johnson, Vlissides, 1994, p. A-11_
+
+_Código Fonte 1.2: Pseucodigo do padrão Composite_
+```
+class Figura {
+    Figura[] atributo; // Deve ser um conjunto de elementos do tipo Figura
+    void desenhar() {
+        for (atributo.lenght()) {
+            atributo.desenhar(); // Para cada elemento do conjunto
+        }
+    }
+} 
+```
+_Fonte: Job, 2014, p.34_
+
+
+
 ## Referências
 * JOB, Ricardo de Sousa. Uma abordagem para detecção de padrões emergentes. Disponível em: <http://dspace.sti.ufcg.edu.br:8080/jspui/handle/riufcg/944>. Acessado em setembro de 2020.
 * SERRANO, Milene. Arquitetura e Desenho de Software AULA - GRASP – PARTE I. Acessado em setembro de 2020.
 * LOVISCACH, Jörn. Design Patterns. Events. Disponível em: <https://doi.org/10.5446/9689>. Acessado em setembro de 2020.
+* GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Design Patterns: Elements of Reusable Object-Oriented Software Addison-Wesley Professional (1994)
