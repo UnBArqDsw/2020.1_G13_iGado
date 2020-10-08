@@ -4,6 +4,7 @@
 | 06/10/2020 |  0.1   | Criação dos Diagramas iniciais da estrutura do front | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
 | 08/10/2020 |  0.2   | Cronograma do Dojo | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
 | 08/10/2020 |  0.3   | Detalhamento do Dojo | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
+| 08/10/2020 | 0.4 | Adição dos tópicos Stateless e Stateful Widgets e Arquivo de Constantes | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
 
 ## Cronograma de Conteúdos
 
@@ -51,7 +52,18 @@ Basicamente, Widgets são estruturas que se constroem a partir de um estado desc
 ### Pubspec.yaml pra que serve?
 É um arquivo que guarda o metadata dos pacotes utilizados pela aplicação, assim como suas dependências. Nele é possível realizar diversas alterações, como o nome do aplicativo, seu ícone e a adição de Assets.
 
-### Statefull e Stateless
+### Stateful e Stateless
+Em flutter podemos separar os widgets em widgets que podem mudar de estado(Stateful) e widgets que não mudam de estado(Stateless). 
+
+Um widget stateless é um widget estático, que vai sempre continuar do mesmo jeito independente da interação que o usuário faz, um exemplo disso pode ser um texto que aparece na tela.
+
+
+Dizer que um widget é stateful significa que ele tem a capacidade de mudar de estado a partir de alguma interação externa, como um clique em um botão etc, ou seja a principal característica de um widget stateful é ele ser dinâmico.
+
+As mudanças de estado ocorridas em um stateful widget são causadas a partir da utilização da função setState() que pode ser utilizada , por exemplo, para uma aplicação de uma calculadora, onde a pessoa vai clicando nos números e operações e os mesmos vão aparecendo na tela de forma que quase instantânea.  
+
+Mais informações sobre em: <https://flutter.dev/docs/development/ui/interactive>
+
 
 ### Fazendo outras telas
 Nesse dojo serão elaboradas duas telas, a de Login e a de Registro. Elas seguirão as árvores abaixo:
@@ -66,6 +78,10 @@ A navegação entre telas do Flutter é feita a partir de um _widget_ que gerenc
 Mais informações sobre o sistema de navegação do Flutter estão disponível em <https://flutter.dev/docs/development/ui/navigation/>
 
 ### Arquivo de constantes
+
+Para facilitar a utilização de alguns estilizações que ocorrem em várias partes do aplicativo e evitar repetição de código o grupo viu a necessidade de ter um arquivo onde guardarão todas essas constantes de estilo para quando forem utilizar simplesmente importarem.
+
+A ideia deste arquivo foi tirada do curso [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_77879424134_._ad_437497333833_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9074205_._pd__._&matchtype=b&gclid=Cj0KCQjw8fr7BRDSARIsAK0Qqr5Idg1WmuFhvV1o3gNf_u_WEedhlAQ4TCG1G-2MnomMMxuuDl1LMhAaAmRvEALw_wcB) da Dr. Angela Yu.
 
 ## Referências
 
