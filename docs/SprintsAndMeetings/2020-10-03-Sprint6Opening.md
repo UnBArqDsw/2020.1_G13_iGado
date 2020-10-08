@@ -32,7 +32,12 @@
 | Estudo dirigido sobre GoFs Criacionais | Guilherme Mendes | 5 | 0 |
 | Estudo dirigido sobre GoFs Estruturais | Lucas Fellipe | 5 | 0 |
 | Estudo dirigido sobre GoFs Comportamentais | João Pedro | 5 | 0 |
-| Estudo dirigido sobre GRASPs Especialista | Iuri Severo | 5 | 0 |
-| Estudo dirigido sobre padrões de projetos emergentes | Caio Vinícius, Guilherme Mendes e Lucas Fellipe | 8 | 0 |
+| Estudo dirigido sobre GRASPs Especialista | Caio Vinícius | 5 | 0 |
+| Estudo dirigido sobre padrões de projetos emergentes | Iuri Severo | 8 | 0 |
 
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Backlog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
+
+## Notas pós reunião
+
+Durante a <i>Daily</i> que ocorreu na segunda-feira, depois de assistirmos as vídeo-aulas sobre GRASPs, o grupo decidiu deixar o estudo dirigido relacionado as GRASPs para o Caio Vinícius e o estudo dirigido referente
+aos padrões de projetos emergentes acabou ficando apenas para o Iuri Severo.
