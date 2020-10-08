@@ -5,6 +5,7 @@
 | 08/10/2020 |  0.2   | Cronograma do Dojo | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
 | 08/10/2020 |  0.3   | Detalhamento do Dojo | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
 | 08/10/2020 | 0.4 | Adição dos tópicos Stateless e Stateful Widgets e Arquivo de Constantes | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
+| 08/10/2020 |  0.5 | Adição das árvores de login e registro | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
 
 ## Cronograma de Conteúdos
 
@@ -68,9 +69,9 @@ Mais informações sobre em: <https://flutter.dev/docs/development/ui/interactiv
 ### Fazendo outras telas
 Nesse dojo serão elaboradas duas telas, a de Login e a de Registro. Elas seguirão as árvores abaixo:
 
-<img src="docs/Assets/Img/Studies/DojoFlutter/LoginScreenTree.png" alt="Login Screen Tree">
-
-<img src="docs/Assets/Img/Studies/DojoFlutter/RegisterScreenTree.png" alt="Register Screen Tree">
+<img src="docs/Assets/Img/Studies/DojoFlutter/LoginScreenTree.png" alt="Login Screen Tree" height=500>
+<br /><br />
+<img src="docs/Assets/Img/Studies/DojoFlutter/RegisterScreenTree.png" alt="Register Screen Tree" height=500>
 
 ### Navegação entre telas
 A navegação entre telas do Flutter é feita a partir de um _widget_ que gerencia _widgets_ "filhos" em um comportamento de pilha. Esse _widget_ é o **Navigator**, enquanto seus "filhos" são as **Rotas**. 
