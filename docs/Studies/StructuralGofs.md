@@ -3,11 +3,13 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 09/10/2020 |  0.1   | Criação do Documento sobre GoFs Estruturais | [Lucas Fellipe](https://github.com/lucasfcm9) |
-| 09/10/2020 |  0.4   | Adição do Padrão Adapter e do Padrão Composite | [Lucas Fellipe](https://github.com/lucasfcm9) |
-| 09/10/2020 |  0.6   | Adição do Padrão Decorator | [Lucas Fellipe](https://github.com/lucasfcm9) |
-| 10/10/2020 |  1.0   | Adição do Padrão Bridge, Facade, Proxy e FlyWeight | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 09/10/2020 |  0.2   | Adição do Padrão Adapter e do Padrão Composite | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 09/10/2020 |  0.3   | Adição do Padrão Decorator | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 10/10/2020 |  0.4   | Adição do Padrão Bridge, Facade, Proxy e FlyWeight | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 10/10/2020 |  1.0   | Revisão do documento | [Iuri Severo](https://github.com/iurisevero) |
 
-<p align="justify"> &emsp;&emsp; Os GoFs Estruturais explicam como montar objetos e classes em estruturas maiores, porém mantendo essas estruturas flexíveis e eficientes. Eles mexem na estrutura dos modelos presentes e em como esses modelos estão interagindo. São padrões que atuam de forma significante nas correlações entre as classes e nas relações de depedência. Os Padrões Estruturais se preocupam com as interações entre os objetos. Dessa forma, os Padrões Estruturais têm como objetivo diminuir essa dependência entre os objetos. Serão apresentados os seguintes Padrões Estruturais: Adapter, Composite, FlyWeight, Decorator, Proxy, Bridge e o Facade. </p>
+<p align="justify"> &emsp;&emsp; Os GoFs Estruturais explicam como montar objetos e classes em estruturas maiores, porém mantendo essas estruturas flexíveis e eficientes. Eles mexem na estrutura dos modelos presentes e em como esses modelos estão interagindo. São padrões que atuam de forma significante nas correlações entre as classes e nas relações de depedência. <br /> &emsp;&emsp;
+Os Padrões Estruturais se preocupam com as interações entre os objetos. Dessa forma, os Padrões Estruturais têm como objetivo diminuir essa dependência entre os objetos. Serão apresentados os seguintes Padrões Estruturais: Adapter, Composite, FlyWeight, Decorator, Proxy, Bridge e o Facade. </p>
 
 ## Adapter
 <p align="justify"> &emsp;&emsp; O Adapter permite que um objeto seja substituído por outro e, apesar de realizarem a mesma tarefa, possuem interfaces diferentes. Ele serve como um adaptador, ou seja, é um objeto especial que converte a interface principal de um objeto para que outro objeto possa entendê-lo. Você pode utilizar o Adapter quando você quer usar uma classe existente, porém a sua interface não é compatível com o restante do código. O Adapter ajuda que objetos com diferentes interfaces colaborem entre si, por exemplo: </p>
@@ -57,7 +59,7 @@ Pode-se ver que há um Decorator Base, que servirá como um ponte entre o Client
 <img src="https://user-images.githubusercontent.com/40740008/95658783-5a1b4780-0af3-11eb-841e-4eafd430aa9a.png" width="500px">
 
 ## Bridge
-<p align="justify"> &emsp;&emsp; O Bridge é um padrão de projeto que permite que você divida uma classa grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas que podem ser desenvolvidas separadaamente, sem uma depender da outra. De forma simplificada, esse padrão permite a divisão de uma classe em implementações menores.</p>
+<p align="justify"> &emsp;&emsp; O Bridge é um padrão de projeto que permite que você divida uma classa grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas que podem ser desenvolvidas separadamente, sem uma depender da outra. De forma simplificada, esse padrão permite a divisão de uma classe em implementações menores.</p>
 
 ### Estrutura
 
@@ -105,10 +107,3 @@ Você pode desenvolver as classes de controle remoto independentemente das class
 * REFACTORING GURU: Padrões de projeto estruturais. 2014-2020. Disponível em: <https://refactoring.guru/pt-br/design-patterns/structural-patterns>. Acesso em: 09 out. 2020.
 * DEVMEDIA. Entendendo os conceitos dos Padrões de Projetos em Java. Disponível em: <https://www.devmedia.com.br/entendendo-os-conceitos-dos-padroes-de-projetos-em-java/29083>. Acesso em: 09 out. 2020.
 * DEVMEDIA. Design Patterns: Padrões “GoF”. Disponível em: <https://www.devmedia.com.br/design-patterns-padroes-gof/16781>. Acesso em: 09 out. 2020.
-
-
-
-
-
-
-
