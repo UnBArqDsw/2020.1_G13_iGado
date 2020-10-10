@@ -6,11 +6,7 @@
 | 07/10/2020 |  0.2   | Adição do padrão Singleton | [Iuri Severo](https://github.com/iurisevero) |
 | 07/10/2020 |  0.3   | Adição do padrão Composite | [Iuri Severo](https://github.com/iurisevero) |
 | 07/10/2020 |  0.4   | Adição do padrão State e Factory Method | [Iuri Severo](https://github.com/iurisevero) |
-<<<<<<< HEAD
 | 10/10/2020 |  1.0   | Revisão do estudo de Padroões de Projeto Emergentes | [Guilherme Mendes](https://github.com/guilherme-mendes) |
-=======
-| 07/10/2020 |  0.5   | Adição de descrição dos exemplos apresentados | [Iuri Severo](https://github.com/iurisevero) |
->>>>>>> 0bda079cb6e37317df969ea2d4a45c6f90e5d85f
 
 <p align="justify"> &emsp;&emsp; Padrões de projetos são pricípios e soluções adotadas para resolver problemas comuns encontrados durante o desenvolvimento de um projeto de software. Esse padrões são documentados e visam seguir uma estrutura e um comportamento regular para solucionar um problema específico a partir de sua aplicação. <br />
 &emsp;&emsp; No entanto, fatores como: <i>(i)</i> falta de conhecimento da implementação do padrão por parte do desenvolvedor; <i>(ii)</i> sucessivas mudanças em outras classes e refletidas nessa parte do código; <i>(iii)</i> falta de refatoração no código; ou, <i>(iv)</i> característica do problema e não necessita implementar o padrão <i>(Job, 2014, p. 27)</i>, podem resultar em situações onde se tem um padrão comportamental não estruturado, aspecto comum de padrões emergentes. <br />
@@ -52,13 +48,8 @@ _Fonte: Job, 2014, p.28~29_
 
 ## Composite
 
-<<<<<<< HEAD
 <p align="justify"> &emsp;&emsp; O padrão <b>Composite</b> é adotado quando é necessário tratar um conjunto de objetos como uma singularidade. Um exemplo dessa ação pode ser encontrado em diversos softwares de edição de imagem e desenho, na função de agrupamento: diversos objetos distintos passam a ser tratados como um só, o grupo, o qual é possível movimentar, redimensionar, duplicar, etc..</p>
 <p align="justify"> &emsp;&emsp; A solução adotada para isso é uma hierarquia de classes baseada em dois objetos, um <i>Composite Object</i> e uma <i>Leaf Object</i>, onde o <i>Composite Object</i> é uma combinação de elementos individuais e outros <i>Composites Objects</i>, e a <i>Leaf Object</i> é o objeto individual. O resultado disso é uma estrutura de árvore, onde as folhas são os objetos. </p>
-=======
-<p align="justify"> &emsp;&emsp; O padrão <b>Composite</b> é adotado quando é necessário tratar um conjunto de objetos como uma singularidade. Um exemplo dessa ação pode ser encontrado em diversos softwares de edição de imagem e desenho, na função de agrupamento: diversos objetos distintos passam a ser tratados como um só, o grupo, o qual é possível movimentar, redimensionar, duplicar, etc..
-<br /> &emsp;&emsp; A solução adotada para isso é uma hierarquia de classes baseada em dois objetos, um <i>Composite Object</i> e uma <i>Leaf Object</i>, onde o <i>Composite Object</i> é uma combinação de elementos individuais e outros <i>Composites Objects</i>, e a <i>Leaf Object</> é o objeto individual. O resultado disso é uma estrutura de árvore, onde as folhas são os objetos. </p>
->>>>>>> 0bda079cb6e37317df969ea2d4a45c6f90e5d85f
 
 _Figura 1.2: Exemplo do padrão Composite_
 <br /><img src="docs/Assets/Img/Studies/EmergingDesignPatterns/CompositePatternExample.png" alt="Exemplo do padrão Composite"><br />
