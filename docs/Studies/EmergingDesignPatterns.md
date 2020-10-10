@@ -6,9 +6,13 @@
 | 07/10/2020 |  0.2   | Adição do padrão Singleton | [Iuri Severo](https://github.com/iurisevero) |
 | 07/10/2020 |  0.3   | Adição do padrão Composite | [Iuri Severo](https://github.com/iurisevero) |
 | 07/10/2020 |  0.4   | Adição do padrão State e Factory Method | [Iuri Severo](https://github.com/iurisevero) |
+<<<<<<< HEAD
 | 10/10/2020 |  1.0   | Revisão do estudo de Padroões de Projeto Emergentes | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+=======
+| 07/10/2020 |  0.5   | Adição de descrição dos exemplos apresentados | [Iuri Severo](https://github.com/iurisevero) |
+>>>>>>> 0bda079cb6e37317df969ea2d4a45c6f90e5d85f
 
-<p align="justify"> &emsp;&emsp; Padrões de projetos são pricípior e soluções adotadas para resolver problemas comuns encontrados durante o desenvolvimento de um projeto de software. Esse padrões são documentados e visam seguir uma estrutura e um comportamento regular para solucionar um problema específico a partir de sua aplicação. <br />
+<p align="justify"> &emsp;&emsp; Padrões de projetos são pricípios e soluções adotadas para resolver problemas comuns encontrados durante o desenvolvimento de um projeto de software. Esse padrões são documentados e visam seguir uma estrutura e um comportamento regular para solucionar um problema específico a partir de sua aplicação. <br />
 &emsp;&emsp; No entanto, fatores como: <i>(i)</i> falta de conhecimento da implementação do padrão por parte do desenvolvedor; <i>(ii)</i> sucessivas mudanças em outras classes e refletidas nessa parte do código; <i>(iii)</i> falta de refatoração no código; ou, <i>(iv)</i> característica do problema e não necessita implementar o padrão <i>(Job, 2014, p. 27)</i>, podem resultar em situações onde se tem um padrão comportamental não estruturado, aspecto comum de padrões emergentes. <br />
 
 ## Singleton
@@ -19,7 +23,7 @@ _Figura 1.1: Padrão Singleton_
 <br /><img src="docs/Assets/Img/Studies/EmergingDesignPatterns/SingletonPattern.png" alt="Padrão Singleton"><br />
 _Fonte: Job, 2014, p.2_
 
-_Código Fonte 1.1: O padrão Singleton na classe Licences_
+_Código Fonte 1.1: O padrão Singleton em estado emergente na classe Licences_
 ```
 // Os imports , atributo s e demais métodos foram omitido s
 public class Licences {
@@ -48,14 +52,19 @@ _Fonte: Job, 2014, p.28~29_
 
 ## Composite
 
+<<<<<<< HEAD
 <p align="justify"> &emsp;&emsp; O padrão <b>Composite</b> é adotado quando é necessário tratar um conjunto de objetos como uma singularidade. Um exemplo dessa ação pode ser encontrado em diversos softwares de edição de imagem e desenho, na função de agrupamento: diversos objetos distintos passam a ser tratados como um só, o grupo, o qual é possível movimentar, redimensionar, duplicar, etc..</p>
 <p align="justify"> &emsp;&emsp; A solução adotada para isso é uma hierarquia de classes baseada em dois objetos, um <i>Composite Object</i> e uma <i>Leaf Object</i>, onde o <i>Composite Object</i> é uma combinação de elementos individuais e outros <i>Composites Objects</i>, e a <i>Leaf Object</i> é o objeto individual. O resultado disso é uma estrutura de árvore, onde as folhas são os objetos. </p>
+=======
+<p align="justify"> &emsp;&emsp; O padrão <b>Composite</b> é adotado quando é necessário tratar um conjunto de objetos como uma singularidade. Um exemplo dessa ação pode ser encontrado em diversos softwares de edição de imagem e desenho, na função de agrupamento: diversos objetos distintos passam a ser tratados como um só, o grupo, o qual é possível movimentar, redimensionar, duplicar, etc..
+<br /> &emsp;&emsp; A solução adotada para isso é uma hierarquia de classes baseada em dois objetos, um <i>Composite Object</i> e uma <i>Leaf Object</i>, onde o <i>Composite Object</i> é uma combinação de elementos individuais e outros <i>Composites Objects</i>, e a <i>Leaf Object</> é o objeto individual. O resultado disso é uma estrutura de árvore, onde as folhas são os objetos. </p>
+>>>>>>> 0bda079cb6e37317df969ea2d4a45c6f90e5d85f
 
 _Figura 1.2: Exemplo do padrão Composite_
 <br /><img src="docs/Assets/Img/Studies/EmergingDesignPatterns/CompositePatternExample.png" alt="Exemplo do padrão Composite"><br />
 _Fonte: Gamma, Helm, Johnson, Vlissides, 1994, p. A-30_
 
-_Código Fonte 1.2: Pseucodigo do padrão Composite_
+_Código Fonte 1.2: Pseucodigo do padrão Composite em estado emergente_
 ```
 class Figura {
     Figura[] atributo; // Deve ser um conjunto de elementos do tipo Figura
@@ -68,14 +77,17 @@ class Figura {
 ```
 _Fonte: Job, 2014, p.34_
 
+<p align="justify"> &emsp;&emsp; É possível perceber que a classe <code>Figura</code> tem o comportamento do padrão Composite, no entanto não segue a estruturação proposta pelo padrão.</p>
+
 ## State
 <p align="justify"> &emsp;&emsp; O padrão <b>State</b> permite que um objeto mude seu comportamento conforme um estado interno. Por exemplo, uma classe <code>C</code> possui um atributo <code>a</code> que pode ser alterado a qualquer momento da execução dessa classe; Essa alteração é validada conforme o estado atual da classe e, após isso, atualizado, alterando o estado da classe.
+<br /> &emsp;&emsp; No exemplo de <i>Código 1.3</i>, pode-se perceber que o comportamento do State é seguido, porém dentro de uma única função que trata todos estados possíveis. </p>
 
 _Figura 1.3: Exemplo do padrão State_
 <br /><img src="docs/Assets/Img/Studies/EmergingDesignPatterns/StatePatternExample.png" alt="Exemplo do padrão State"><br />
 _Fonte: Gamma, Helm, Johnson, Vlissides, 1994, p. A-11_
 
-_Código Fonte 1.3: Pseucodigo do padrão State_
+_Código Fonte 1.3: Pseucodigo do padrão State em estado emergente_
 ```
 class C{
     A state ;
@@ -101,7 +113,7 @@ _Fonte: Gamma, Helm, Johnson, Vlissides, 1994, p. A-4_
 
 <p align="justify"> &emsp;&emsp; O <i>Código Fonte 1.4</i> demonstra um padrão emergente derivado do Factory Method. Nele, a classe <code>StackTraceElementFactory</code> não possui uma subclasse definida para instanciar o objeto do tipo <code>StackTraceElement</code>, o que foge das restrições estruturais do padrão seguido.
 
-_Código Fonte 1.4: O padrão Factory Method na classe ```StackTraceElementFactory```_
+_Código Fonte 1.4: O padrão Factory Method em estado emergente na classe ```StackTraceElementFactory```_
 ```
 // Os imports , atributo s e demais métodos foram omitido s
 public class StackTraceElementFactory {
