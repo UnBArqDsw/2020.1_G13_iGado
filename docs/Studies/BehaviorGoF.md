@@ -2,17 +2,16 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 10/10/2020 |  0.1   | Criação do Documento de GoFs Comportamentais |[João Pedro José](https://github.com/sudjoao) |
-| 10/10/2020 |  0.2   | Criação da Introdução do Documento |[João Pedro José](https://github.com/sudjoao)|
+| 10/10/2020 | 0.1 | Criação do Documento de GoFs Comportamentais |[João Pedro José](https://github.com/sudjoao) |
+| 10/10/2020 | 0.2 | Criação da Introdução do Documento |[João Pedro José](https://github.com/sudjoao)|
 | 10/10/2020 | 0.3 | Adição dos padrões comportamentais |[João Pedro José](https://github.com/sudjoao)|
 | 10/10/2020 | 0.4 | Adição das padrões Referências |[João Pedro José](https://github.com/sudjoao)|
-
+| 10/10/2020 | 1.0 | Revisão do documento |[Iuri Severo](https://github.com/iurisevero)|
 
 ## Introdução
 
-Segundo o livro *Design Patterns: Elements of Reusable Object-Oriented Software*,  os padrões comportamentais estão preocupados com algoritmos e a atribuição de responsabilidades entre objetos. Os padrões comportamentais descrevem não apenas os padrões de objetos ou classes, mas também os padrões de comunicação entre eles. Estes padrões caracterizam o fluxo de controle complexo que é difícil de seguir em tempo de execução. Eles mudam seu foco do fluxo de controle para permitir que você se concentre apenas em os objetos do caminho estão interconectados.
-
-Existem vários padrões que são abordados na parte comportamental, cada um preocupado com uma coisa e que tem um objetivo específico, como será específicado logo abaixo.
+<p align="justify"> &emsp;&emsp; Segundo o livro <i>Design Patterns: Elements of Reusable Object-Oriented Software</i>,  os padrões comportamentais estão preocupados com algoritmos e a atribuição de responsabilidades entre objetos. Os padrões comportamentais descrevem não apenas os padrões de objetos ou classes, mas também os padrões de comunicação entre eles. Estes padrões caracterizam o fluxo de controle complexo que é difícil de seguir em tempo de execução. Eles mudam seu foco do fluxo de controle para permitir que você se concentre apenas em objetos do caminho que estão interconectados. <br />&emsp;&emsp;
+Existem vários padrões que são abordados na parte comportamental, cada um preocupado com uma coisa e que tem um objetivo específico, como será específicado logo abaixo.</p>
 
 ## Padrões Comportamentais
 
@@ -47,7 +46,7 @@ Definição de um mecanismo eficiente, normalmente utilizando uma dependência d
 <img src='/docs/Assets/Img/Studies/GoFs/Observer.png'>
 
 ### State
-Permitir um objeto alterar seu comportamento quando um estado interno é alterado.
+Permite um objeto alterar seu comportamento quando um estado interno é alterado.
 
 <img src='/docs/Assets/Img/Studies/GoFs/State.png'>
 
@@ -62,7 +61,7 @@ Define uma ordem lógica, ou esqueleto, de ações que devem ser realizadas no s
 <img src='/docs/Assets/Img/Studies/GoFs/TemplateMethod.png' height=350>
 
 ### Visitor
-Representa uma operação a ser executada em elementos de um objeto. O padrão visitor permite a definição de uma nova operação ser fazer alterações nos elementos das classes onde ele opera.
+Representa uma operação a ser executada em elementos de um objeto. O padrão visitor permite a definição de uma nova operação sem fazer alterações nos elementos das classes onde ele opera.
 
 <img src='/docs/Assets/Img/Studies/GoFs/Visitor.png'>
 
