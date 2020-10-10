@@ -5,15 +5,22 @@
 | 09/10/2020 |  0.1   | Criação do Documento sobre GoFs Estruturais | [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 09/10/2020 |  0.4   | Adição do Padrão Adapter e do Padrão Composite | [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 09/10/2020 |  0.6   | Adição do Padrão Decorator | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 10/10/2020 |  1.0   | Adição do Padrão Bridge, Facade, Proxy e FlyWeight | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 <p align="justify"> &emsp;&emsp; Os GoFs Estruturais explicam como montar objetos e classes em estruturas maiores, porém mantendo essas estruturas flexíveis e eficientes. Eles mexem na estrutura dos modelos presentes e em como esses modelos estão interagindo. São padrões que atuam de forma significante nas correlações entre as classes e nas relações de depedência. Os Padrões Estruturais se preocupam com as interações entre os objetos. Dessa forma, os Padrões Estruturais têm como objetivo diminuir essa dependência entre os objetos. Serão apresentados os seguintes Padrões Estruturais: Adapter, Composite, FlyWeight, Decorator, Proxy, Bridge e o Facade. </p>
 
 ## Adapter
-<p align="justify"> &emsp;&emsp; O Adapter permite que um objeto seja substituído por outro e, apesar de realizarem a mesma tarefa, possuem interfaces diferentes. Ele serve como um adaptador, ou seja, É um objeto especial que converte a interface principal de um objeto para que outro objeto possa entendê-lo. Você pode utilizar o Adapter quando você quer usar uma classe existente, porém a sua interface não é compatível com o restante do código. O Adapter ajuda que objetos com diferentes interfaces colaborem entre si, por exemplo: </p>
+<p align="justify"> &emsp;&emsp; O Adapter permite que um objeto seja substituído por outro e, apesar de realizarem a mesma tarefa, possuem interfaces diferentes. Ele serve como um adaptador, ou seja, é um objeto especial que converte a interface principal de um objeto para que outro objeto possa entendê-lo. Você pode utilizar o Adapter quando você quer usar uma classe existente, porém a sua interface não é compatível com o restante do código. O Adapter ajuda que objetos com diferentes interfaces colaborem entre si, por exemplo: </p>
 
 - O Adapter obtém uma interface, compatível com um dos objetos existentes;
 - Usando essa interface, o objeto existente pode chamar os métodos do Adapter com segurança;
 - Ao receber a chamada, o Adapter passa o pedido para o segundo objeto, mas em um formato e ordem que o segundo objeto espera.
+
+### Estrutura
+
+<img src="https://user-images.githubusercontent.com/40740008/95658637-563af580-0af2-11eb-8822-b5515342fc72.png" width="600px"/>
+
+### Exemplo
 
 <img src="https://user-images.githubusercontent.com/40740008/95642285-f276e500-0a7d-11eb-92f9-914cb8a2ebb8.jpg" width="500px"/> <br>
 
@@ -22,7 +29,9 @@ Este é um exemplo do padrão Adapter, onde adaptamos a Entrada PS2 para a Entra
 ## Composite
 <p align="justify"> &emsp;&emsp; O Composite é um padrão de projeto estrutural que tem como objetivo agrupar objetos que fazem parte de uma relação parte-todo de forma a tratá-los sem distinção. Uma interface, ou até mesmo uma classe abstrata, é implementada por diversas outras classes. Ele permite com que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais. Você pode utilizar o padrão Composite quando você tem que implementar uma estruturas de objetos tipo árvore.</p>
 
-<img src="https://user-images.githubusercontent.com/40740008/95642804-48995780-0a81-11eb-82f3-7c57304f23ed.png" width="600px"> <br>
+### Estrutura
+
+<img src="https://user-images.githubusercontent.com/40740008/95658693-b467d880-0af2-11eb-832f-c2a6c55373f5.png" width="600px"> <br>
 A estrutura do Composite é formada por uma <i>Interface</i>, por <i>leafs</i> e pela classe Composite.
 
 
@@ -38,14 +47,64 @@ A estrutura do Composite é formada por uma <i>Interface</i>, por <i>leafs</i> e
 ## Decorator
 <p align="justify"> &emsp;&emsp; O Decorator é um padrão de projeto estrutural que permite adicionar responsabilidades a um objeto de maneira dinâmica, criando algo similar a uma extensão do objeto. Ele permite, a partir de uma base, anexar novos comportamentos aos objetos. </p>
 
-<img src="https://user-images.githubusercontent.com/40740008/95643225-52708a00-0a84-11eb-9470-6c6456df50cd.png" width="600px"/> <br>
+### Estrutura
+
+<img src="https://user-images.githubusercontent.com/40740008/95658753-19bbc980-0af3-11eb-88ed-4f396de3a49c.png" width="600px"/> <br>
 
 Pode-se ver que há um Decorator Base, que servirá como um ponte entre o Client e os Decorators que realmente irão alterar o comportamento do objeto concreto.
 
 ### Exemplo
-<img src="https://user-images.githubusercontent.com/40740008/95643304-cad74b00-0a84-11eb-8dfc-d106ac0b4770.png" width="500px">
+<img src="https://user-images.githubusercontent.com/40740008/95658783-5a1b4780-0af3-11eb-841e-4eafd430aa9a.png" width="500px">
+
+## Bridge
+<p align="justify"> &emsp;&emsp; O Bridge é um padrão de projeto que permite que você divida uma classa grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas que podem ser desenvolvidas separadaamente, sem uma depender da outra. De forma simplificada, esse padrão permite a divisão de uma classe em implementações menores.</p>
+
+### Estrutura
+
+<img src="https://user-images.githubusercontent.com/40740008/95658553-ae252c80-0af1-11eb-8156-f9b64b0b355e.png" width="600px"/>
+
+### Exemplo
+<img src="https://user-images.githubusercontent.com/40740008/95659021-d2363d00-0af4-11eb-8aa7-17a927538c2d.png" width="500px"/>
+
+<!-- A classe de controle remoto base declara um campo de referência que liga ela com um objeto de dispositivo. Todos os controles trabalham com dispositivos através da interface geral de dispositivo, que permite que o mesmo controle suporte múltiplos tipos de dispositivo.</p>
+
+Você pode desenvolver as classes de controle remoto independentemente das classes de dispositivo. -->
+
+## Facade
+<p align="justify"> &emsp;&emsp; O Facade é um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, um framework ou qualquer conjunto complexo de classes.</p>
+
+### Estrutura
+<img src="https://user-images.githubusercontent.com/40740008/95660103-fcd7c400-0afb-11eb-84d7-34f4c95b38c2.png" width="600px"/>
+
+### Exemplo
+<img src="https://user-images.githubusercontent.com/40740008/95660157-53450280-0afc-11eb-8251-41378fbbecc3.png" width="500px"/>
+
+<!-- Pensa em uma biblioteca disponível no C++, por exemplo, pensa na biblioteca string.h. Ela possui diversas funções disponíveis, ela é um facade. Pensa também no Flask, que é um Framework usado para desenvolvimento web, por exemplo. -->
+
+## Proxy
+<p align="justify"> &emsp;&emsp; O Proxy é um padrão de projeto estrutural que permite que você forneça um substituto para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo antes ou depois do pedido chegar ao objeto original.</p>
+
+### Estrutura
+<img src="https://user-images.githubusercontent.com/40740008/95660406-11b55700-0afe-11eb-9fda-17e8572c504d.png" width="600px"/>
+
+### Exemplo
+<img src="https://user-images.githubusercontent.com/40740008/95660433-46291300-0afe-11eb-8b9c-6e7939937ff9.png" width="500px"/>
+
+<!-- Um cartão de crédito é um proxy para uma conta bancária, que é um proxy para uma porção de dinheiro. Ambos implementam a mesma interface porque não há necessidade de carregar uma porção de dinheiro por aí. Um cliente se sente bem porque não precisa ficar carregando montanhas de dinheiro por aí. Um dono de loja também fica feliz uma vez que a renda da transação é adicionada eletronicamente para sua conta sem o risco de perdê-la no depósito ou de ser roubado quando estiver indo ao banco. -->
+
+## Flyweight
+<p align="justify"> &emsp;&emsp; O método do FlyWeight surgiu para solucionar o problema de gerenciamento de memória em programas que consomem bastante RAM. Basicamente, ele é uma otimização.</p>
+
+### Estrutura
+<img src="https://user-images.githubusercontent.com/40740008/95660658-aff5ec80-0aff-11eb-9661-e325e481cc40.png" width="600px"/>
+
+<p align="justify"> &emsp;&emsp; A classe FlyWeight fica responsável por guardar as instâncias dos objetos que antes eram repetidas. Dessa forma, o consumo de memória reduz drasticamente e a classe FlyWeight compartilha, via métodos, para as demais partes do sistema.</p>
 
 
+## Referências
+* REFACTORING GURU: Padrões de projeto estruturais. 2014-2020. Disponível em: <https://refactoring.guru/pt-br/design-patterns/structural-patterns>. Acesso em: 09 out. 2020.
+* DEVMEDIA. Entendendo os conceitos dos Padrões de Projetos em Java. Disponível em: <https://www.devmedia.com.br/entendendo-os-conceitos-dos-padroes-de-projetos-em-java/29083>. Acesso em: 09 out. 2020.
+* DEVMEDIA. Design Patterns: Padrões “GoF”. Disponível em: <https://www.devmedia.com.br/design-patterns-padroes-gof/16781>. Acesso em: 09 out. 2020.
 
 
 
