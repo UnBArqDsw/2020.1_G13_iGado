@@ -44,6 +44,7 @@
   - [Diagrama de Estados](/docs/Modeling/StateDiagram.md)
 
 - **Estudos**
+  - [Estudo sobre Padrões de Projeto Emergentes](/docs/Studies/EmergingDesignPatterns.md)
   - [Estudo sobre GoFs Comportamentais](/docs/Studies/BehaviorGoF.md)
 
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
