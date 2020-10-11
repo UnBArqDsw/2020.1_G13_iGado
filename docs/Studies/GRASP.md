@@ -7,6 +7,7 @@
 | 10/10/2020 |  0.2  | Adição dos  <i>GRASP's</i> Criador e Especialista | [Caio Fernandes](https://github.com/caiovfernandes) |
 | 10/10/2020 |  0.3  | Adição dos  <i>GRASP's</i> Alta Coesão e Baixo Acoplamento | [Caio Fernandes](https://github.com/caiovfernandes) |
 | 10/10/2020 |  0.4  | Adição dos  <i>GRASP's</i> Controladora e Polimorfismo | [Caio Fernandes](https://github.com/caiovfernandes) |
+| 10/10/2020 |  0.5  | Adição dos  <i>GRASP's</i> Invenção pura ou Fabricação Própria e Variações Protegidas | [Caio Fernandes](https://github.com/caiovfernandes) |
 
 
 <p align="justify"> &emsp;&emsp; <i>Design Patterns</i> são ferramentas incrivelmente importantes para desenvolvedores de software. Acima de resolver problemas comuns, eles fornecem às pessoas um vernáculo padrão para se comunicarem e oferecem abstrações conceituais valiosas em um amplo conjunto de circunstâncias.
@@ -80,3 +81,22 @@ A <i>Controller</i> também é um padrão importante em frameworks modernos de d
 No GRASP, utiliza-se o polimorfismo ao notar que mais de uma de nossas classes tem métodos que se comportam de maneira muito parecida.
 
 Então, cria-se um classe abstrata para ser utilizada como base. </p>
+
+### Invenção pura ou Fabricação Própria
+
+<p align="justify"> &emsp;&emsp;Este GRASP ocorre quando você aplica no seu projeto um serviço próprio, com um módulo novo.<br>
+Ex: 
+
+- Classes para cuidar da segurança
+- Módulo de persistência no banco (DAO)
+- Módulo de Autenticação de usuários
+- Entre outras.. </p>
+
+
+### Variações Protegidas
+
+<p align="justify"> &emsp;&emsp;
+Geralmente ocorre quando se tem Polimorfismo
+
+A <strong>Variação Protegida (VP)</strong> é um princípio básico na motivação da maioria dos mecanismos e padrões na programação e no projeto para fornecer flexibilidade e proteção contra variações.<br>
+O encapsulamento de dados, das interfaces, e o polimorfismo são mecanismos básicos para se obter a VP. As técnicas de linguagens baseada em regras, interpretadores de regra, projetos reflexivos e de metadados, máquinas virtuais, etc, são mecanismos mais avançados para se obter a VP. </p>
