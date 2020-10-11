@@ -1,6 +1,6 @@
 # Abertura da Sprint 6
 
-|    Data    | Vers„o |         DescriÁ„o         |           Autor(es)           |
+|    Data    | Vers√£o |         Descri√ß√£o         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 19/09/2020 |  1.0   | Abertura da Sprint 6 | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
@@ -12,32 +12,32 @@
 * Caio Fernandes
 * Guilherme Mendes
 * Iuri Severo
-* Jo„o Pedro
+* Jo√£o Pedro
 * Lucas Fellipe
 
 ## Planning
 
-### DuraÁ„o
+### Dura√ß√£o
 
-| DuraÁ„o |   InÌcio   |     Fim    |
+| Dura√ß√£o |   In√≠cio   |     Fim    |
 | ------- | ---------- | ---------- |
 | 7 dias  | 04/10/2020 | 10/10/2020 |
 
 ### Sprint Backlog
 
-| DescriÁ„o da Tarefa | Respons·vel(eis) | PontuaÁ„o | DÈbito TÈcnico |
+| Descri√ß√£o da Tarefa | Respons√°vel(eis) | Pontua√ß√£o | D√©bito T√©cnico |
 | ------------------- | ---------------- | --------- | -------------- |
-| Dojo de Flutter | Jo„o Pedro e Iuri Severo | 8 | 0 |
-| Estudo dirigido sobre GRASPs Criador | Caio VinÌcius | 5 | 0 |
+| Dojo de Flutter | Jo√£o Pedro e Iuri Severo | 8 | 0 |
+| Estudo dirigido sobre GRASPs Criador | Caio Vin√≠cius | 5 | 0 |
 | Estudo dirigido sobre GoFs Criacionais | Guilherme Mendes | 5 | 0 |
 | Estudo dirigido sobre GoFs Estruturais | Lucas Fellipe | 5 | 0 |
-| Estudo dirigido sobre GoFs Comportamentais | Jo„o Pedro | 5 | 0 |
-| Estudo dirigido sobre GRASPs Especialista | Caio VinÌcius | 5 | 0 |
-| Estudo dirigido sobre padrıes de projetos emergentes | Iuri Severo | 8 | 0 |
+| Estudo dirigido sobre GoFs Comportamentais | Jo√£o Pedro | 5 | 0 |
+| Estudo dirigido sobre GRASPs Especialista | Caio Vin√≠cius | 5 | 0 |
+| Estudo dirigido sobre padr√µes de projetos emergentes | Iuri Severo | 8 | 0 |
 
-> Se houver dÈbito tÈcnico ele dever· ser incluso na tabela de Sprint Backlog e a coluna de DÈbito TÈcnico dever· ser alterada para "1" (true)
+> Se houver d√©bito t√©cnico ele dever√° ser incluso na tabela de Sprint Backlog e a coluna de D√©bito T√©cnico dever√° ser alterada para "1" (true)
 
-## Notas pÛs reuni„o
+## Notas p√≥s reuni√£o
 
-Durante a <i>Daily</i> que ocorreu na segunda-feira, depois de assistirmos as vÌdeo-aulas sobre GRASPs, o grupo decidiu deixar o estudo dirigido relacionado as GRASPs para o Caio VinÌcius e o estudo dirigido referente
-aos padrıes de projetos emergentes acabou ficando apenas para o Iuri Severo.
+Durante a <i>Daily</i> que ocorreu na segunda-feira, depois de assistirmos as v√≠deo-aulas sobre GRASPs, o grupo decidiu deixar o estudo dirigido relacionado as GRASPs para o Caio Vin√≠cius e o estudo dirigido referente
+aos padr√µes de projetos emergentes para o Iuri Severo.

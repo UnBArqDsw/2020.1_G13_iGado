@@ -1,6 +1,6 @@
 # Fechamento da Sprint 5
 
-|    Data    | Vers„o |         DescriÁ„o         |           Autor(es)           |
+|    Data    | Vers√£o |         Descri√ß√£o         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 03/10/2020 |  0.9   | Fechamento da Sprint 5 | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
@@ -12,42 +12,46 @@
 * Caio Fernandes
 * Guilherme Mendes
 * Iuri Severo
-* Jo„o Pedro
+* Jo√£o Pedro
 * Lucas Fellipe
 
 ## Review
 
-* Caio: Fez a refatoraÁ„o de dois documentos do Desing Sprint, o primeiro foi o documento da Desing Sprint e o segundo foi o do Brainstorming, tambÈm participou da avaliaÁ„o por pares. Elaborou o diagrama de comunicaÁ„o.
-* Guilherme: Na segunda-feira pareou com o Lucas para realizar o diagrama de estados, participou da avaliaÁ„o por pares e hoje (s·bado) finalizou a refatoraÁ„o do plano de custos junto com o Lucas.
-* Iuri: No domingo elaborou o diagrama de componentes, na segunda refatorou os lÈxicos e participou da avaliaÁ„o por pares.
-* Jo„o: Domingo fez o diagrama de atividades, terÁa-feira fez a refatoraÁ„o da documentaÁ„o do protÛtipo de alta fidelidade, quinta-feira fez a refatoraÁ„o do documento de mapa mental e sexta partipou da avaliaÁ„o por pares.
-* Lucas: Na segunda-feira pareou com o Guilherme para a realizaÁ„o do diagrama de estados, participou da avaliaÁ„o por pares e (s·bado) finalizou a refatoraÁ„o do plano de custos junto com o Guilherme.
+* Caio: Fez a refatora√ß√£o de dois documentos do Desing Sprint, o primeiro foi o documento da Desing Sprint e o segundo foi o do Brainstorming, tamb√©m participou da avalia√ß√£o por pares. Elaborou o diagrama de comunica√ß√£ao.
+* Guilherme: Na segunda-feira pareou com o Lucas para realizar o diagrama de estados, participou da avalia√ß√£o por pares e hoje (s√°bado) finalizou a refatora√ß√£o do plano de custos junto com o Lucas.
+* Iuri: No domingo elaborou o diagrama de componentes, na segunda refatorou os l√©xicos e participou da avalia√ß√£o por pares.
+* Jo√£o: Domingo fez o diagrama de atividades, ter√ßa-feira fez a refatora√ß√£o da documenta√ß√£o do prot√≥tipo de alta fidelidade, quinta-feira fez a refatora√ß√£o do documento de mapa mental e sexta partipou da avalia√ß√£o por pares.
+* Lucas: Na segunda-feira pareou com o Guilherme para a realiza√ß√£o do diagrama de estados, participou da avalia√ß√£o por pares e (s√°bado) finalizou a refatora√ß√£o do plano de custos junto com o Guilherme.
 
-### Gr·fico de Burn-Down
+### Gr√°fico de Burn-Down
+
+<img src="https://user-images.githubusercontent.com/40740008/95667839-f5d3a480-0b41-11eb-83d6-2ee9c3c029de.png"/>
 
 
-### Gr·fico de Velocity
+### Gr√°fico de Velocity
+
+<img src="https://user-images.githubusercontent.com/40740008/95667898-a2158b00-0b42-11eb-9c24-07f19265d47e.png"/>
 
 
 ## Retrospective
 
 * Caio
-    * Positivos: Uni„o da equipe.
+    * Positivos: Uni√£o da equipe.
     * Negativos: Teve muita demanda do trabalho, atrasou muito para realizar a issue do Design Sprint.
-    * Melhorias: N„o tem melhorias.
+    * Melhorias: N√£o tem melhorias.
 * Guilherme
     * Positivos: Conseguimos entregar todos os diagramas na data certa.
-    * Negativos: Teve muitos impedimentos nessa semana, muitos trabalhos de outras disciplinas, sÛ que n„o chegou a afetar a disciplina de desenho.
+    * Negativos: Teve muitos impedimentos nessa semana, muitos trabalhos de outras disciplinas, s√≥ que n√£o chegou a afetar a disciplina de desenho.
     * Melhorias: Lembrar de usar o KanBan.
 * Iuri
-    * Positivo: O burn-down ficou mais bonito, conseguimos entregar os diagramas na segunda, j· que era o prazo.
-    * Negativo: A sprint foi mais tranquila e, devido a isso, a prÛxima sprint vai pesar, ou seja, vai ser mais difÌcil.
+    * Positivo: O burn-down ficou mais bonito, conseguimos entregar os diagramas na segunda, j√° que era o prazo.
+    * Negativo: A sprint foi mais tranquila e, devido a isso, a pr√≥xima sprint vai pesar, ou seja, vai ser mais dif√≠cil.
     * Melhorar: Lembrar de usar o KanBan e as estimativas referentes as issues.
-* Jo„o
+* Jo√£o
     * Positivo: A entrega dos diagramas com qualidade e o burn-down ficou bonito.
     * Negativo: Demorou para terminar a outra issue (Design Sprint).
-    * Melhorar: OrganizaÁ„o, como sempre.
+    * Melhorar: Organiza√ß√£o, como sempre.
 * Lucas
     * Positivos: A entrega dos diagramas e o burn-down que ficou bonito.
     * Negativos: Muitos impedimentos durante a semana, muitos trabalhos, uma carga muito alto sobre os integrantes do grupo.
-    * Melhorar: OrganizaÁ„o e comunicaÁ„o. 
+    * Melhorar: Organiza√ß√£o e comunica√ß√£o. 
