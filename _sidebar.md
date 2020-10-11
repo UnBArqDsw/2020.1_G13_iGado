@@ -45,6 +45,7 @@
 
 - **Estudos**
   - [Estudo sobre Padrões de Projeto Emergentes](/docs/Studies/EmergingDesignPatterns.md)
+  - [Estudo sobre GRASP's](/docs/Studies/GRASP.md)
   - [Estudo sobre GoFs Estruturais](/docs/Studies/StructuralGofs.md)
   - [Estudo sobre GoFs Comportamentais](/docs/Studies/BehaviorGoF.md)
   - [Estudo sobre GoFs Criacionais](/docs/Studies/CreationalGoF.md)
