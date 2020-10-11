@@ -47,6 +47,7 @@
   - [Estudo sobre Padrões de Projeto Emergentes](/docs/Studies/EmergingDesignPatterns.md)
   - [Estudo sobre GoFs Estruturais](/docs/Studies/StructuralGofs.md)
   - [Estudo sobre GoFs Comportamentais](/docs/Studies/BehaviorGoF.md)
+  - [Estudo sobre GoFs Criacionais](/docs/Studies/CreationalGoF.md)
 
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
