@@ -3,6 +3,7 @@
 |    Data    | Versão |                Descrição                |                     Autor(es)                     |
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
 | 10/10/2020 |  1.0   | Criação do estudo de GoFs Criacionais | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+| 10/10/2020 |  1.1   | Revisão do documento | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 <p align="justify"> &emsp;&emsp; Os GoF's são padrões de design que visam prover soluções para problemas recorrentes no desenvolvimento e manutenção de software orientado a objetos. Buscando sempre boas práticas de programação.</p>
 <p align="justify"> &emsp;&emsp; Os Padrões de Design Criacionais (Creational Patterns) fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente.</p>
@@ -202,5 +203,5 @@ class Singleton(meteclass->SingletonMeta):
 
 ### Referências
 
-- LARMAN, Craig. Utilizando UML e Padrões: Uma Introdução a Análise e ao Projeto
+- LARMAN, Craig. Utilizando UML e Padrões: Uma Introdução a Análise e ao Projeto.
 - Refactoring Guru. Design Patterns. [S. l.], 2020. Disponível em: [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns). Acesso em: 09 out. 2020.
