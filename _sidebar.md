@@ -45,6 +45,7 @@
 
 - **Estudos**
   - [Estudo sobre Padrões de Projeto Emergentes](/docs/Studies/EmergingDesignPatterns.md)
+  - [Estudo sobre GoFs Estruturais](/docs/Studies/StructuralGofs.md)
   - [Estudo sobre GoFs Comportamentais](/docs/Studies/BehaviorGoF.md)
 
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)

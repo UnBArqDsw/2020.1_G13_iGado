@@ -130,7 +130,7 @@ public class StackTraceElementFactory {
 _Fonte: Job, 2014, p.29~30_
 
 ## Referências
-* JOB, Ricardo de Sousa. Uma abordagem para detecção de padrões emergentes. Disponível em: <http://dspace.sti.ufcg.edu.br:8080/jspui/handle/riufcg/944>. Acessado em setembro de 2020.
-* LOVISCACH, Jörn. Design Patterns. Events. Disponível em: <https://doi.org/10.5446/9689>. Acessado em setembro de 2020.
-* GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Design Patterns: Elements of Reusable Object-Oriented Software Addison-Wesley Professional (1994)
-* SERRANO, Milene. Arquitetura e Desenho de Software AULA - GRASP – PARTE I. Acessado em setembro de 2020.
+* JOB, Ricardo de Sousa. Uma abordagem para detecção de padrões emergentes. Disponível em: <http://dspace.sti.ufcg.edu.br:8080/jspui/handle/riufcg/944>. Acessado em Outubro de 2020.
+* LOVISCACH, Jörn. Design Patterns. Events. Disponível em: <https://doi.org/10.5446/9689>. Acessado em Outubro de 2020.
+* GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Design Patterns: Elements of Reusable Object-Oriented Software Addison-Wesley Professional (1994).
+* SERRANO, Milene. Arquitetura e Desenho de Software AULA - GRASP – PARTE I. Acessado em Outubro de 2020.

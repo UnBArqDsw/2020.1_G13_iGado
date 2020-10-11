@@ -67,9 +67,9 @@ Representa uma operação a ser executada em elementos de um objeto. O padrão v
 
 
 ## Referências
-* GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Design Patterns: Elements of Reusable Object-Oriented Software Addison-Wesley Professional (1994). Acesso em: 10 de outubro de 2020.
-* CARR, Richard. Gang of Four Design Patterns. Disponível em: http://www.blackwasp.co.uk/gofpatterns.aspx. Acesso em: 10 de outubro de 2020.
-* DEVMEDIA. Design Patterns: Padrões "GoF". Disponível em: https://www.devmedia.com.br/design-patterns-padroes-gof/16781. Acesso em: 10 de outubro de 2020.
-* SERRANO, Milene. Arquitetura e Desenho de Software AULA - GoFs Comportamentais. Acessado em 10 de outubro de 2020.
+* GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Design Patterns: Elements of Reusable Object-Oriented Software Addison-Wesley Professional (1994). Acesso em: 10 out. 2020.
+* CARR, Richard. Gang of Four Design Patterns. Disponível em: http://www.blackwasp.co.uk/gofpatterns.aspx. Acesso em: 10 out. 2020.
+* DEVMEDIA. Design Patterns: Padrões "GoF". Disponível em: https://www.devmedia.com.br/design-patterns-padroes-gof/16781. Acesso em: 10 out. 2020.
+* SERRANO, Milene. Arquitetura e Desenho de Software AULA - GoFs Comportamentais. Acesso em: 10 out. 2020.
 
 
