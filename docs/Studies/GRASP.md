@@ -6,6 +6,7 @@
 | 09/10/2020 |  0.1   | Criação do Documento sobre <i>GRASP's</i> | [Caio Fernandes](https://github.com/caiovfernandes) |
 | 10/10/2020 |  0.2  | Adição dos  <i>GRASP's</i> Criador e Especialista | [Caio Fernandes](https://github.com/caiovfernandes) |
 | 10/10/2020 |  0.3  | Adição dos  <i>GRASP's</i> Alta Coesão e Baixo Acoplamento | [Caio Fernandes](https://github.com/caiovfernandes) |
+| 10/10/2020 |  0.4  | Adição dos  <i>GRASP's</i> Controladora e Polimorfismo | [Caio Fernandes](https://github.com/caiovfernandes) |
 
 
 <p align="justify"> &emsp;&emsp; <i>Design Patterns</i> são ferramentas incrivelmente importantes para desenvolvedores de software. Acima de resolver problemas comuns, eles fornecem às pessoas um vernáculo padrão para se comunicarem e oferecem abstrações conceituais valiosas em um amplo conjunto de circunstâncias.
@@ -62,3 +63,20 @@ Coesão está ligada ao princípio da responsabilidade única, que foi introduzi
 <p align="justify"> &emsp;&emsp;O acoplamento significa o quanto uma classe depende da outra para funcionar. E quanto maior for esta dependência entre ambas, dizemos que estas classes estão fortemente acopladas.
 
 O forte acoplamento também nos traz muitos problemas, problemas semelhantes aos que um cenário pouco coeso nos traz. </p>
+
+### Controladora
+
+<p align="justify"> &emsp;&emsp;O <strong>Controlador</strong> é responsável por lidar com as solicitações dos atores. Ele é o intermediário entre o clique do usuário em “Enviar” e o back-end que faz isso acontecer. 
+
+O Controlador sabe como interpretar as ações das interfaces de usuário e como conectar essas ações aos comportamentos em seu sistema. Este padrão permite que as interfaces de usuário sejam separadas de forma limpa dos “objetos de negócios” e tenham ambas as alterações independentementes umas das outras. Nisso está implícito que um sistema também pode suportar muitas interfaces de usuário diferentes ao mesmo tempo.
+
+Podemos imaginar um controlador como o volante de um carro, ele conecta as intenções de um motorista às ações do veículo. Mudar o motor do carro não precisa mudar a forma como o carro é usado em alto nível. E da mesma forma, a substituição de um volante não requer que nenhum componente interno seja modificado.
+A <i>Controller</i> também é um padrão importante em frameworks modernos de desenvolvimento web, formando um pilar do padrão arquitetônico <i>Model-View-Controller</i>.</p>
+
+### Polimorfismo
+
+<p align="justify"> &emsp;&emsp;Um conceito já conhecido e aplicado em Orientação por Objetos.
+
+No GRASP, utiliza-se o polimorfismo ao notar que mais de uma de nossas classes tem métodos que se comportam de maneira muito parecida.
+
+Então, cria-se um classe abstrata para ser utilizada como base. </p>
