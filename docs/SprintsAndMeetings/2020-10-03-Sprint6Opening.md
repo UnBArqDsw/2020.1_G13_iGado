@@ -2,7 +2,8 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 19/09/2020 |  1.0   | Abertura da Sprint 6 | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 03/10/2020 |  0.9   | Abertura da Sprint 6 | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 10/10/2020 |  1.0   | Revisão do documento | [Iuri Severo](https://github.com/iurisevero) |
 
 **Data**: 03 de outubro de 2020
 

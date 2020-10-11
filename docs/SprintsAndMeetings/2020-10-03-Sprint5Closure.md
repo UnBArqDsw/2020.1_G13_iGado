@@ -2,7 +2,9 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 03/10/2020 |  0.9   | Fechamento da Sprint 5 | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 03/10/2020 |  0.8   | Fechamento da Sprint 5 | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 10/10/2020 |  0.9   | Adição dos gráficos de burndown e velocity | [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 10/10/2020 |  1.0   | Revisão do documento | [Iuri Severo](https://github.com/iurisevero) |
 
 **Data**: 03 de outubro de 2020
 
