@@ -4,7 +4,8 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 09/10/2020 |  0.1   | Criação do Documento sobre <i>GRASP's</i> | [Caio Fernandes](https://github.com/caiovfernandes) |
-| 10/10/2020 |  0.2  | Adição do  <i>GRASP</i> Criador e Especialista | [Caio Fernandes](https://github.com/caiovfernandes) |
+| 10/10/2020 |  0.2  | Adição dos  <i>GRASP's</i> Criador e Especialista | [Caio Fernandes](https://github.com/caiovfernandes) |
+| 10/10/2020 |  0.3  | Adição dos  <i>GRASP's</i> Alta Coesão e Baixo Acoplamento | [Caio Fernandes](https://github.com/caiovfernandes) |
 
 
 <p align="justify"> &emsp;&emsp; <i>Design Patterns</i> são ferramentas incrivelmente importantes para desenvolvedores de software. Acima de resolver problemas comuns, eles fornecem às pessoas um vernáculo padrão para se comunicarem e oferecem abstrações conceituais valiosas em um amplo conjunto de circunstâncias.
@@ -48,3 +49,16 @@ Esta transação requer muito trabalho por parte do Controlador. A autenticaçã
 Este módulo sabe exatamente como autenticar um usuário, e o Controlador precisa apenas delegar a solicitação de autenticação a este módulo para saber que a autenticação será tratada corretamente.<br><br>
 Solicitação de login → Controlador → Módulo de autenticação → Banco de dados<br><br>
 Dessa forma, o padrão <strong>GRASP Especialista</strong> é muito parecido com um especialista no mundo real. Quando desejamos construir uma casa, podemos contar com a ajuda de um arquiteto. É possível para uma pessoa projetar sua própria casa (e muitas pessoas fazem), mas na maioria das vezes preferiríamos terceirizar essa tarefa. As pessoas já têm o suficiente para administrar ao construir uma casa, e um arquiteto certamente está mais bem equipado para projetar casas.</p>
+
+
+### Coesão 
+
+<p align="justify"> &emsp;&emsp; Siginifica que suas classes estão coesas. Isso é garantido por atribuir de forma coerente a distribuição das classes utilizando padrões de projeto.
+
+Coesão está ligada ao princípio da responsabilidade única, que foi introduzido por <i>Robert C. Martin</i> no inicio dos anos 2000 e diz que uma classe deve ter apenas uma única responsabilidade e realizá-la de maneira satisfatória, ou seja, uma classe não deve assumir responsabilidades que não são suas</p>
+
+### Acoplamento
+
+<p align="justify"> &emsp;&emsp;O acoplamento significa o quanto uma classe depende da outra para funcionar. E quanto maior for esta dependência entre ambas, dizemos que estas classes estão fortemente acopladas.
+
+O forte acoplamento também nos traz muitos problemas, problemas semelhantes aos que um cenário pouco coeso nos traz. </p>
