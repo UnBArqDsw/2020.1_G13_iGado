@@ -43,6 +43,13 @@
   - [Diagrama de Colaboração](/docs/Modeling/ColaborationDiagram.md)
   - [Diagrama de Estados](/docs/Modeling/StateDiagram.md)
 
+- **Estudos**
+  - [Estudo sobre Padrões de Projeto Emergentes](/docs/Studies/EmergingDesignPatterns.md)
+  - [Estudo sobre GRASP's](/docs/Studies/GRASP.md)
+  - [Estudo sobre GoFs Estruturais](/docs/Studies/StructuralGofs.md)
+  - [Estudo sobre GoFs Comportamentais](/docs/Studies/BehaviorGoF.md)
+  - [Estudo sobre GoFs Criacionais](/docs/Studies/CreationalGoF.md)
+
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
   - [2020-08-24 - Abertura da Sprint 0](/docs/SprintsAndMeetings/2020-08-24-Sprint0Opening.md)
@@ -57,3 +64,5 @@
   - [2020-09-19 - Abertura da Sprint 4](/docs/SprintsAndMeetings/2020-09-19-Sprint4Opening.md)
   - [2020-09-26 - Fechamento da Sprint 4](/docs/SprintsAndMeetings/2020-09-26-Sprint4Closure.md)
   - [2020-09-26 - Abertura da Sprint 5](/docs/SprintsAndMeetings/2020-09-26-Sprint5Opening.md)
+  - [2020-10-03 - Fechamento da Sprint 5](/docs/SprintsAndMeetings/2020-10-03-Sprint5Closure.md)
+  - [2020-10-03 - Abertura da Sprint 6](/docs/SprintsAndMeetings/2020-10-03-Sprint6Opening.md)
