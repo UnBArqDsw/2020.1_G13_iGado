@@ -4,6 +4,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 10/10/2020 |  0.9   | Fechamento da Sprint 6 | [Caio Fernandes](https://github.com/caiovfernandes) |
+| 14/10/2020 |  1.0   | Revisão do documento | [Iuri Severo](https://github.com/iurisevero) |
 
 **Data**: 10 de Outubro de 2020
 
@@ -41,11 +42,11 @@
 * Guilherme
     * Positivos: Iniciativa do DOJO de Flutter, muito bom e explicativo. Empenho dos membros para assistir as aulas e elaborar os estudos dirigidos.
     * Negativos: Time não começou a implementar códigos.
-    * Melhorias: Fatoração dos artefatos, mesmo com o feedback não planejamos ainda.
+    * Melhorias: Refatoração dos artefatos, mesmo com o feedback não planejamos ainda.
 * Iuri
     * Positivo: Estudos dos membros e Dojo de Flutter.
     * Negativo: Fizemos pouco ponto nesta sprint e o gráfico de burndown ficou ruim. Receber o feedback depois da sprint já planejada também foi um ponto negativo. Confusão com padrões de projetos emergentes, dificuldade em entender o que seriam esses padrões.
-    * Melhorar: Criar issue, pontuar, adicionar a label e atualizar o KanBan. Grupos está esquecendo disso.
+    * Melhorar: Criar issue, pontuar, adicionar a label e atualizar o KanBan. Grupo está esquecendo disso.
 * João
     * Positivo: Planejamento da semana foi muito bom. Conteúdo deste módulo também e Dojo de Flutter. Feedback da professora, foi bom.
     * Negativo: Organização, também estava desanimado no começo da semana.

@@ -2,7 +2,8 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 10/10/2020 |  1.0   | Abertura da Sprint 7 | [Caio Fernandes](https://github.com/caiovfernandes) |
+| 10/10/2020 |  0.9   | Abertura da Sprint 7 | [Caio Fernandes](https://github.com/caiovfernandes) |
+| 14/10/2020 |  1.0   | Revisão do documento | [Iuri Severo](https://github.com/iurisevero) |
 
 **Data**: 10 de setembro de 2020
 
@@ -43,6 +44,6 @@
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Backlog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
 
 ## Notas pós reunião
-
-Refatorar o DER.
-Refatoração dos documentos
+Próxima sprint seria interessante realizar:
+* Refatoração do DER.
+* Refatoração dos documentos
