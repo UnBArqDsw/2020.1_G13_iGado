@@ -6,6 +6,7 @@
 | 08/10/2020 |  0.3   | Detalhamento do Dojo | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
 | 08/10/2020 | 0.4 | Adição dos tópicos Stateless e Stateful Widgets e Arquivo de Constantes | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
 | 08/10/2020 |  0.5 | Adição das árvores de login e registro | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
+| 20/10/2020 |  0.6 | Adição do texto de aplicação do dojo | [Iuri Severo](https://github.com/iurisevero) |
 
 ## Cronograma de Conteúdos
 
@@ -83,6 +84,14 @@ Mais informações sobre o sistema de navegação do Flutter estão disponível 
 Para facilitar a utilização de alguns estilizações que ocorrem em várias partes do aplicativo e evitar repetição de código o grupo viu a necessidade de ter um arquivo onde guardarão todas essas constantes de estilo para quando forem utilizar simplesmente importarem.
 
 A ideia deste arquivo foi tirada do curso [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_77879424134_._ad_437497333833_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9074205_._pd__._&matchtype=b&gclid=Cj0KCQjw8fr7BRDSARIsAK0Qqr5Idg1WmuFhvV1o3gNf_u_WEedhlAQ4TCG1G-2MnomMMxuuDl1LMhAaAmRvEALw_wcB) da Dr. Angela Yu.
+
+## Aplicação
+
+A primeira parte do dojo de Flutter aconteceu no dia 10 de outubro, porém, como havia muito conteúdo, não foi possível finalizá-lo durante a reunião. Por conta disso, foi feito um vídeo com a explicação dos conteúdos restantes.
+
+O vídeo de ambas as partes podem ser acessados abaixo:
+* [Dojo de Fluter - Parte 1]()
+* [Dojo de Fluter - Parte 2]()
 
 ## Referências
 
