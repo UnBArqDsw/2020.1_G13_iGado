@@ -3,6 +3,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 17/10/2020  |  0.9   | Abertura da Sprint 8 | [João Pedro Guedes](https://github.com/sudjoao) |
+| 21/10/2020  |  1.0   | Revisão do documento | [Iuri Severo](https://github.com/iurisevero) |
 
 **Data**: 17 de outubro de 2020
 
@@ -27,8 +28,8 @@
 
 | Descrição da Tarefa | Responsável(eis) | Pontuação | Débito Técnico |
 | ------------------- | ---------------- | --------- | -------------- |
-| US41 - Cadastro de usuário | João Pedro | 8 | -1 |
-| US45 - Login Autenticação | Caio Fernandes, Lucas Fellipe e João Pedro| 21 | -1 |
+| US41 - Cadastro de usuário | João Pedro | 8 | 1 |
+| US45 - Login Autenticação | Caio Fernandes, Lucas Fellipe e João Pedro| 21 | 1 |
 | US46 - Eu, como desenvolvedor desejo aplicar padrões de projetos no Relatório |Iuri, João Pedro e Lucas  |21  | 0 |
 | US48 - Eu, como desenvolvedor desejo aplicar padrões de projetos no Bovino |Caio e Guilherme  |13  | 0 |
 |Refatoração de Diagrama de Classes| Caio |  5 | 0 |
@@ -39,5 +40,3 @@
 |Refatoração de Diagrama de Atividades| Guilherme |2| 0 |
 |Refatoração de Diagrama de Sequencia| João Pedro |2| 0 |
 > Se houver débito técnico ele deverá ser incluso na tabela de Sprint Backlog e a coluna de Débito Técnico deverá ser alterada para "1" (true)
-
-## Notas pós reunião
