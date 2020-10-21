@@ -44,11 +44,12 @@
   - [Diagrama de Estados](/docs/Modeling/StateDiagram.md)
 
 - **Estudos**
-  - [Estudo sobre Padrões de Projeto Emergentes](/docs/Studies/EmergingDesignPatterns.md)
   - [Estudo sobre GRASP's](/docs/Studies/GRASP.md)
   - [Estudo sobre GoFs Estruturais](/docs/Studies/StructuralGofs.md)
   - [Estudo sobre GoFs Comportamentais](/docs/Studies/BehaviorGoF.md)
   - [Estudo sobre GoFs Criacionais](/docs/Studies/CreationalGoF.md)
+  - [Estudo sobre Padrões de Projeto Emergentes](/docs/Studies/EmergingDesignPatterns.md)
+  - [Dojo de Flutter](/docs/Studies/DojoFlutter.md)
 
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
