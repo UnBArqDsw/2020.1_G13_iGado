@@ -7,6 +7,7 @@
 | 08/10/2020 | 0.4 | Adição dos tópicos Stateless e Stateful Widgets e Arquivo de Constantes | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
 | 08/10/2020 |  0.5 | Adição das árvores de login e registro | [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
 | 20/10/2020 |  0.6 | Adição do texto de aplicação do dojo | [Iuri Severo](https://github.com/iurisevero) |
+| 21/10/2020 | 0.7 | Adição dos vídeos relacionados a aplicação do dojo | [João Pedro Guedes](https://github.com/sudjoao) |
 
 ## Cronograma de Conteúdos
 
@@ -90,9 +91,9 @@ A ideia deste arquivo foi tirada do curso [The Complete 2020 Flutter Development
 A primeira parte do dojo de Flutter aconteceu no dia 10 de outubro, porém, como havia muito conteúdo, não foi possível finalizá-lo durante a reunião. Por conta disso, foi feito um vídeo com a explicação dos conteúdos restantes.
 
 O vídeo de ambas as partes podem ser acessados abaixo:
-* [Dojo de Fluter - Parte 1]()
-* [Dojo de Fluter - Parte 2]()
-
+* [Dojo de Fluter - Parte 1](https://www.youtube.com/watch?v=SkqbhFcSHNU&feature=youtu.be)
+* [Dojo de Fluter - Parte 2](https://www.youtube.com/watch?v=EfFaBSJyg5Y&feature=youtu.be)
+* [Dojo de Flutter - Parte 3](https://www.youtube.com/watch?v=MNhuDkiHJJE&feature=youtu.be)
 ## Referências
 
 * https://flutter.dev/ , acessado em setembro de 2020;
