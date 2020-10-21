@@ -18,52 +18,52 @@ Existem vários padrões que são abordados na parte comportamental, cada um pre
 ### Command
 Padrão responsável pela chamada de um determinado componente, além disso ele é responsável por controlar suas requisições, muito ligado a questão de encapsulamento.
 
-<img src='/docs/Assets/Img/Studies/GoFs/Command.png'>
+<img src='docs/Assets/Img/Studies/GoFs/Command.png'>
 
 ### Chain of Responsibility
 Tem como objetivo evitar a dependência entre um objeto receptor e um objeto solicitante. Mantém guardado um ponteiro com o seu sucessor.
 
-<img src='/docs/Assets/Img/Studies/GoFs/ChainOfResponsibility.png'>
+<img src='docs/Assets/Img/Studies/GoFs/ChainOfResponsibility.png'>
 
 ### Iterator
 Fornece uma maneira de acessar elementos de uma agregação de objetos sequencialmente.
 
-<img src='/docs/Assets/Img/Studies/GoFs/Iterator.png'>
+<img src='docs/Assets/Img/Studies/GoFs/Iterator.png'>
 
 ### Mediator 
 Responsável por diminuir a ligação entre vários objetos, faz isso a partir da criação de um mediador que ficará responsável por fazer todas essa comunicação.
 
-<img src='/docs/Assets/Img/Studies/GoFs/Mediator.png'>
+<img src='docs/Assets/Img/Studies/GoFs/Mediator.png'>
 
 ### Memento
 Armazena um estado interno de um objeto em um determinado momento para que depois seja possível você voltar para aquele estado anterior do objeto.
 
-<img src='/docs/Assets/Img/Studies/GoFs/Memento.png'>
+<img src='docs/Assets/Img/Studies/GoFs/Memento.png'>
 
 ### Observer
 Definição de um mecanismo eficiente, normalmente utilizando uma dependência de *um para muitos*, para reagir às alterações realizadas em determinados objetos.
 
-<img src='/docs/Assets/Img/Studies/GoFs/Observer.png'>
+<img src='docs/Assets/Img/Studies/GoFs/Observer.png'>
 
 ### State
 Permite um objeto alterar seu comportamento quando um estado interno é alterado.
 
-<img src='/docs/Assets/Img/Studies/GoFs/State.png'>
+<img src='docs/Assets/Img/Studies/GoFs/State.png'>
 
 ### Strategy
 Define uma família de algoritmos que têm um mesmo objetivo, mas dependendo do contexto inserido será selecionado o algortimo que faz mais sentido para resolver aquele problema.
 
-<img src='/docs/Assets/Img/Studies/GoFs/Strategy.png' height=350>
+<img src='docs/Assets/Img/Studies/GoFs/Strategy.png' height=350>
 
 ### Template Method
 Define uma ordem lógica, ou esqueleto, de ações que devem ser realizadas no sistema, a ordem sempre continuará a mesma mas os ações realizadas podem ser realizadas de maneira diferente dependendo da sub-classe que a está executando.
 
-<img src='/docs/Assets/Img/Studies/GoFs/TemplateMethod.png' height=350>
+<img src='docs/Assets/Img/Studies/GoFs/TemplateMethod.png' height=350>
 
 ### Visitor
 Representa uma operação a ser executada em elementos de um objeto. O padrão visitor permite a definição de uma nova operação sem fazer alterações nos elementos das classes onde ele opera.
 
-<img src='/docs/Assets/Img/Studies/GoFs/Visitor.png'>
+<img src='docs/Assets/Img/Studies/GoFs/Visitor.png'>
 
 
 ## Referências
