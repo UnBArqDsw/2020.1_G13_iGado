@@ -12,7 +12,7 @@
 | 26/09/2020 |  0.8   | Criação do fluxo de Gerenciar Insumos  | [João Guedes](https://github.com/sudjoao) |
 | 26/09/2020 |  1.0   | Criação do documento de Diagrama de Atividades | [João Guedes](https://github.com/sudjoao) |
 | 21/10/2020 |  1.9   | Refatoração do documento de Diagrama de Atividades | [Guilherme Mendes](https://github.com/guilherme-mendes) |
-
+| 21/10/2020 |  2.0   | Revisão do Documento | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 <p align="justify"> &emsp;&emsp; O Diagrama de Atividades tem como objetivo mostrar o fluxo de atividades do <i>software</i>, mostrando os objetos envolvidos, como eles se envolvem e quais são as atividades realizadas. </p>
 
