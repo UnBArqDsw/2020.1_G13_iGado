@@ -8,6 +8,7 @@
 | 26/09/2020 |  1.0   | Criação do documento do Diagrama de Classes | [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 26/09/2020 |  1.1   | Adição das versões anteriores do diagrama de classes e refatoração da tabela de versionamento | [João Guedes](https://github.com/sudjoao)|
 | 22/10/2020 |  1.2   | Adição da versão 1.2 do Diagrama de Classes | [Caio Fernandes](https://github.com/caiovfernandes)|
+| 22/10/2020 |  2.0   | Revisão do Diagrama de Classes 1.2 | [Guilherme Mendes](https://github.com/guilherme-mendes)|
 
 <p align="justify"> &emsp;&emsp; O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos. Consiste em um conjunto de objetos com as mesmas características. Dessa forma, consegue-se identificar os objetos e agrupá-los, de forma a encontrar suas respectivas classes.</p>
 
