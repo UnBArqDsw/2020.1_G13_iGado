@@ -6,6 +6,7 @@
 | 25/09/2020 |  1.1   | Adicionando diagramas v1.0 | [Guilherme Mendes](https://github.com/guilherme-mendes) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 23/10/2020 |  1.2   | Adicionando diagramas v1.1 | [Iuri Severo](https://github.com/iurisevero) |
 | 23/10/2020 |  1.3   | Ajustando apresentação dos diagramas v1.0 | [Iuri Severo](https://github.com/iurisevero) |
+| 23/10/2020 |  2.0   | Revisão dos diagramas v1.1 |[Guilherme Mendes](https://github.com/guilherme-mendes) |
 
 <p align="justify"> &emsp;&emsp; O Diagrama de Estado consiste na representação de um estado ou situação em que um objeto se encontra no decorrer da execução dos processos de um sistema. É definido como um diagrama que descreve os comportamentos de um sistema. É uma maneira eficiente e clara de descrever todos os possíveis estados de um sistema, assim como quais eventos levam transição de um estado para o outro. </p>
 
