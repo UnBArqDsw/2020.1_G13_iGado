@@ -51,6 +51,12 @@
   - [Estudo sobre Padrões de Projeto Emergentes](/docs/Studies/EmergingDesignPatterns.md)
   - [Dojo de Flutter](/docs/Studies/DojoFlutter.md)
 
+- **Padrões de Projeto**
+  - [GRASP(s)](/docs/DesignPatterns/GRASP.md)
+  - [GoF(s) Estruturais](/docs/DesignPatterns/StructuralGofs.md)
+  - [GoF(s) Comportamentais](/docs/DesignPatterns/BehaviorGoFs.md)
+  - [GoF(s) Criacionais](/docs/DesignPatterns/CreationalGoFs.md)
+
 - [**Sprints e Reuniões**](/docs/SprintsAndMeetings/SprintsAndMeetings.md)
   - [2020-08-21 - Técnicas Elicitação de Requisitos e Tecnologias](/docs/SprintsAndMeetings/2020-08-21-RequirementsElicitationTechniquesAndTechnologies.md)
   - [2020-08-24 - Abertura da Sprint 0](/docs/SprintsAndMeetings/2020-08-24-Sprint0Opening.md)
