@@ -53,7 +53,7 @@
 
 - **Padrões de Projeto**
   - [GRASP(s)](/docs/DesignPatterns/GRASP.md)
-  - [GoF(s) Estruturais](/docs/DesignPatterns/StructuralGofs.md)
+  - [GoF(s) Estruturais](/docs/DesignPatterns/StructuralGoFs.md)
   - [GoF(s) Comportamentais](/docs/DesignPatterns/BehaviorGoFs.md)
   - [GoF(s) Criacionais](/docs/DesignPatterns/CreationalGoFs.md)
 
