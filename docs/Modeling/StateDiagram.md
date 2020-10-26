@@ -4,32 +4,43 @@
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
 | 24/09/2020 |  1.0   | Criação do documento | [Guilherme Mendes](https://github.com/guilherme-mendes) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 25/09/2020 |  1.1   | Adicionando diagramas v1.0 | [Guilherme Mendes](https://github.com/guilherme-mendes) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 23/10/2020 |  1.2   | Adicionando diagramas v1.1 | [Iuri Severo](https://github.com/iurisevero) |
+| 23/10/2020 |  1.3   | Ajustando apresentação dos diagramas v1.0 | [Iuri Severo](https://github.com/iurisevero) |
+| 23/10/2020 |  2.0   | Revisão dos diagramas v1.1 |[Guilherme Mendes](https://github.com/guilherme-mendes) |
 
 <p align="justify"> &emsp;&emsp; O Diagrama de Estado consiste na representação de um estado ou situação em que um objeto se encontra no decorrer da execução dos processos de um sistema. É definido como um diagrama que descreve os comportamentos de um sistema. É uma maneira eficiente e clara de descrever todos os possíveis estados de um sistema, assim como quais eventos levam transição de um estado para o outro. </p>
 
 
-## Bovino - v1.0
+## Bovino - v1.1
 
-<img src="https://user-images.githubusercontent.com/40740008/94444904-349a4f80-017d-11eb-8196-459f5a93b866.png">
-<a href="https://user-images.githubusercontent.com/40740008/94444904-349a4f80-017d-11eb-8196-459f5a93b866.png"> Clique aqui para ampliar</a>
+<img src="docs/Assets/Img/Modeling/StateDiagram/CattleStateDiagramV1.1.png">
+<a href="docs/Assets/Img/Modeling/StateDiagram/CattleStateDiagramV1.1.png"> Clique aqui para ampliar</a><br />
+<b>Autor(es): <b><a href="https://github.com/iurisevero"> Iuri Severo </a>
 
-**Autor(es):** [Guilherme Mendes](https://github.com/guilherme-mendes) e [Lucas Fellipe](https://github.com/lucasfcm9)
+<a href="docs/Assets/Img/Modeling/StateDiagram/CattleStateDiagramV1.png"> Clique aqui para visualizar a versão 1.0</a> <br />
+<b>Autor(es): <b><a href="https://github.com/guilherme-mendes"> Guilherme Mendes </a> e <a href="https://github.com/lucasfcm9"> Lucas Fellipe </a>
 
-## Autenticação do Usuário - v1.0
 
-<img src="https://user-images.githubusercontent.com/40740008/94444936-3f54e480-017d-11eb-8718-28c7b6326297.png">
-<a href="https://user-images.githubusercontent.com/40740008/94444936-3f54e480-017d-11eb-8718-28c7b6326297.png"> Clique aqui para ampliar</a>
+## Autenticação do Usuário - v1.1
 
-**Autor(es):** [Guilherme Mendes](https://github.com/guilherme-mendes) e [Lucas Fellipe](https://github.com/lucasfcm9)
+<img src="docs/Assets/Img/Modeling/StateDiagram/UserAuthStateDiagramV1.1.png">
+<a href="docs/Assets/Img/Modeling/StateDiagram/UserAuthStateDiagramV1.1.png"> Clique aqui para ampliar</a><br />
+<b>Autor(es): <b><a href="https://github.com/iurisevero"> Iuri Severo </a>
 
-## Relatório - v1.0
+<a href="docs/Assets/Img/Modeling/StateDiagram/UserAuthStateDiagramV1.png"> Clique aqui para visualizar a versão 1.0</a> <br />
+<b>Autor(es): <b><a href="https://github.com/guilherme-mendes"> Guilherme Mendes </a> e <a href="https://github.com/lucasfcm9"> Lucas Fellipe </a>
 
-<img src="https://user-images.githubusercontent.com/40740008/94444944-424fd500-017d-11eb-9a4a-7dc153f21d7b.png">
-<a href="https://user-images.githubusercontent.com/40740008/94444944-424fd500-017d-11eb-9a4a-7dc153f21d7b.png"> Clique aqui para ampliar</a>
+## Relatório - v1.1
 
-**Autor(es):** [Guilherme Mendes](https://github.com/guilherme-mendes) e [Lucas Fellipe](https://github.com/lucasfcm9)
+<img src="docs/Assets/Img/Modeling/StateDiagram/ReportStateDiagramV1.1.png">
+<a href="docs/Assets/Img/Modeling/StateDiagram/ReportStateDiagramV1.1.png"> Clique aqui para ampliar</a><br />
+<b>Autor(es): <b><a href="https://github.com/iurisevero"> Iuri Severo </a>
+
+<a href="docs/Assets/Img/Modeling/StateDiagram/ReportStateDiagramV1.png"> Clique aqui para visualizar a versão 1.0</a> <br />
+<b>Autor(es): <b><a href="https://github.com/guilherme-mendes"> Guilherme Mendes </a> e <a href="https://github.com/lucasfcm9"> Lucas Fellipe </a>
 
 ## Referências
 
 * UML. State Machine Diagrams. [S. l.], 2020. Disponível em: <https://www.uml-diagrams.org/state-machine-diagrams.html>. Acesso em: 27 set. 2020.
 * MICREIROS. Diagramas Comportamentais da UML: Diagrama de Estados. 2020. Disponível em: <https://micreiros.com/diagramas-comportamentais-da-uml-diagrama-de-estados/>. Acesso em: 27 set. 2020.
+* Unified Modeling Language (UML) | State Diagrams. Disponível em: <https://www.geeksforgeeks.org/unified-modeling-language-uml-state-diagrams/>. Acesso em 23 de out. 2020.
