@@ -4,6 +4,9 @@
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 17/10/2020  |  0.9   | Abertura da Sprint 8 | [João Pedro Guedes](https://github.com/sudjoao) |
 | 21/10/2020  |  1.0   | Revisão do documento | [Iuri Severo](https://github.com/iurisevero) |
+| 26/10/2020 | 1.1 | Adição do vídeo de apresentação dos padrões para o grupo | [João Pedro Guedes](https://github.com/sudjoao)|
+
+<a href="https://youtu.be/XgBCL_-JXhM">Gravação da Sprint Review, Retrospective e Planning</a>
 
 **Data**: 17 de outubro de 2020
 

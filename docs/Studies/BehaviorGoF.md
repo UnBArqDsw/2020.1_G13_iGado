@@ -7,11 +7,14 @@
 | 10/10/2020 | 0.3 | Adição dos padrões comportamentais |[João Pedro José](https://github.com/sudjoao)|
 | 10/10/2020 | 0.4 | Adição das padrões Referências |[João Pedro José](https://github.com/sudjoao)|
 | 10/10/2020 | 1.0 | Revisão do documento |[Iuri Severo](https://github.com/iurisevero)|
+| 26/10/2020 | 1.1 | Adição do vídeo de apresentação dos padrões para o grupo | [João Pedro Guedes](https://github.com/sudjoao)|
 
 ## Introdução
 
 <p align="justify"> &emsp;&emsp; Segundo o livro <i>Design Patterns: Elements of Reusable Object-Oriented Software</i>,  os padrões comportamentais estão preocupados com algoritmos e a atribuição de responsabilidades entre objetos. Os padrões comportamentais descrevem não apenas os padrões de objetos ou classes, mas também os padrões de comunicação entre eles. Estes padrões caracterizam o fluxo de controle complexo que é difícil de seguir em tempo de execução. Eles mudam seu foco do fluxo de controle para permitir que você se concentre apenas em objetos do caminho que estão interconectados. <br />&emsp;&emsp;
 Existem vários padrões que são abordados na parte comportamental, cada um preocupado com uma coisa e que tem um objetivo específico, como será específicado logo abaixo.</p>
+
+<a href="https://www.youtube.com/watch?v=-vcKeqCAaS8">Vídeo de Apresentação dos Padrões para o grupo</a>
 
 ## Padrões Comportamentais
 
@@ -64,6 +67,7 @@ Define uma ordem lógica, ou esqueleto, de ações que devem ser realizadas no s
 Representa uma operação a ser executada em elementos de um objeto. O padrão visitor permite a definição de uma nova operação sem fazer alterações nos elementos das classes onde ele opera.
 
 <img src='docs/Assets/Img/Studies/GoFs/Visitor.png'>
+
 
 
 ## Referências

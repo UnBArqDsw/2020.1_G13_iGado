@@ -4,6 +4,9 @@
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 10/10/2020 |  0.9   | Abertura da Sprint 7 | [Caio Fernandes](https://github.com/caiovfernandes) |
 | 14/10/2020 |  1.0   | Revisão do documento | [Iuri Severo](https://github.com/iurisevero) |
+| 26/10/2020 | 1.1 | Adição do vídeo de apresentação dos padrões para o grupo | [João Pedro Guedes](https://github.com/sudjoao)|
+
+<a href="https://youtu.be/Cs7ZEfI3KL4">Gravação da Sprint Review, Retrospective e Planning</a>
 
 **Data**: 10 de setembro de 2020
 

@@ -9,9 +9,14 @@
 | 10/10/2020 |  0.4  | Adição dos  <i>GRASP's</i> Controladora e Polimorfismo | [Caio Fernandes](https://github.com/caiovfernandes) |
 | 10/10/2020 |  0.5  | Adição dos  <i>GRASP's</i> Invenção pura ou Fabricação Própria e Variações Protegidas | [Caio Fernandes](https://github.com/caiovfernandes) |
 | 13/10/2020| 1.0| Revisão do documento | [João Guedes](https://github.com/sudjoao)|
+| 26/10/2020 | 1.1 | Adição do vídeo de apresentação dos padrões para o grupo | [João Pedro Guedes](https://github.com/sudjoao)|
 
+## Introdução
 
 <p align="justify"> &emsp;&emsp; <i>Design Patterns</i> são ferramentas incrivelmente importantes para desenvolvedores de software. Acima de resolver problemas comuns, eles fornecem às pessoas um vernáculo padrão para se comunicarem e oferecem abstrações conceituais valiosas em um amplo conjunto de circunstâncias.
+
+<a href="https://youtu.be/mw5YWz3mhXg">Vídeo de Apresentação dos Padrões para o grupo</a>
+
 &emsp;&emsp;GRASP significa General Responsability Assignment Software Patterns. Esses padrões, como o nome sugere, visam principalmente responder à pergunta: "Quem faz o quê?"</p>
 
 <p align="justify"> &emsp;&emsp; GRASP é um conjunto de 9 padrões de software de atribuição de responsabilidade geral. São eles:</p>
