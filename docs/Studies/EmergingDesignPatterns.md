@@ -7,9 +7,14 @@
 | 07/10/2020 |  0.3   | Adição do padrão Composite | [Iuri Severo](https://github.com/iurisevero) |
 | 07/10/2020 |  0.4   | Adição do padrão State e Factory Method | [Iuri Severo](https://github.com/iurisevero) |
 | 10/10/2020 |  1.0   | Revisão do estudo de Padroões de Projeto Emergentes | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+| 26/10/2020 | 1.1 | Adição do vídeo de apresentação dos padrões para o grupo | [João Pedro Guedes](https://github.com/sudjoao)|
+
+## Introdução
 
 <p align="justify"> &emsp;&emsp; Padrões de projetos são pricípios e soluções adotadas para resolver problemas comuns encontrados durante o desenvolvimento de um projeto de software. Esse padrões são documentados e visam seguir uma estrutura e um comportamento regular para solucionar um problema específico a partir de sua aplicação. <br />
 &emsp;&emsp; No entanto, fatores como: <i>(i)</i> falta de conhecimento da implementação do padrão por parte do desenvolvedor; <i>(ii)</i> sucessivas mudanças em outras classes e refletidas nessa parte do código; <i>(iii)</i> falta de refatoração no código; ou, <i>(iv)</i> característica do problema e não necessita implementar o padrão <i>(Job, 2014, p. 27)</i>, podem resultar em situações onde se tem um padrão comportamental não estruturado, aspecto comum de padrões emergentes. <br />
+
+<a href="https://www.youtube.com/watch?v=_3oL4v1HCIc&feature=youtu.be">Vídeo de Apresentação dos Padrões para o grupo</a>
 
 ## Singleton
 

@@ -3,6 +3,9 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 11/09/2020 |  1.0   | Transcrição do documento 20200829 do teams | [Iuri Severo](https://github.com/iurisevero) |
+| 26/10/2020 | 1.1 | Adição do vídeo de apresentação dos padrões para o grupo | [João Pedro Guedes](https://github.com/sudjoao)|
+
+<a href="https://youtu.be/SgGRvg8ZGkQ">Gravação da Sprint Review, Retrospective e Planning</a>
 
 **Data**: 29 de agosto de 2020
 

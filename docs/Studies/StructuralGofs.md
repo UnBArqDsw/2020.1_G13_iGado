@@ -7,9 +7,13 @@
 | 09/10/2020 |  0.3   | Adição do Padrão <i>Decorator</i> | [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 10/10/2020 |  0.4   | Adição do Padrão <i>Bridge</i>, <i>Facade</i>, <i>Proxy</i> e <i>FlyWeight</i> | [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 10/10/2020 |  1.0   | Revisão do documento | [Iuri Severo](https://github.com/iurisevero) |
+| 26/10/2020 | 1.1 | Adição do vídeo de apresentação dos padrões para o grupo | [João Pedro Guedes](https://github.com/sudjoao)|
 
+## Introdução
 <p align="justify"> &emsp;&emsp; Os <i>GoFs Estruturais</i> explicam como montar objetos e classes em estruturas maiores, porém mantendo essas estruturas flexíveis e eficientes. Eles mexem na estrutura dos modelos presentes e em como esses modelos estão interagindo. São padrões que atuam de forma significante nas correlações entre as classes e nas relações de depedência. <br /> &emsp;&emsp;
 Os Padrões Estruturais se preocupam com as interações entre os objetos. Dessa forma, os Padrões Estruturais têm como objetivo diminuir essa dependência entre os objetos. Serão apresentados os seguintes Padrões Estruturais: <i>Adapter</i>, <i>Composite</i>, <i>FlyWeight</i>, <i>Decorator</i>, <i>Proxy</i>, <i>Bridge</i> e o <i>Facade</i>. </p>
+
+<a href="https://www.youtube.com/watch?v=wKXm9As171k&feature=youtu.be">Vídeo de Apresentação dos Padrões para o grupo</a>
 
 ## Adapter
 <p align="justify"> &emsp;&emsp; O <i>Adapter</i> permite que um objeto seja substituído por outro e, apesar de realizarem a mesma tarefa, possuem interfaces diferentes. Ele serve como um adaptador, ou seja, é um objeto especial que converte a interface principal de um objeto para que outro objeto possa entendê-lo. Você pode utilizar o <i>Adapter</i> quando você quer usar uma classe existente, porém a sua interface não é compatível com o restante do código. O <i>Adapter</i> ajuda que objetos com diferentes interfaces colaborem entre si, por exemplo: </p>

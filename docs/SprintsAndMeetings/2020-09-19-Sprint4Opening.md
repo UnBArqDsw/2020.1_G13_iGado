@@ -3,6 +3,9 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 19/09/2020 |  1.0   | Abertura da Sprint 4 | [Iuri Severo](https://github.com/iurisevero) |
+| 26/10/2020 | 1.1 | Adição do vídeo de apresentação dos padrões para o grupo | [João Pedro Guedes](https://github.com/sudjoao)|
+
+<a href="https://youtu.be/n5uTycEEXMU">Gravação da Sprint Review, Retrospective e Planning</a>
 
 **Data**: 19 de setembro de 2020
 

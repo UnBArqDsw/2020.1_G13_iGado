@@ -4,11 +4,17 @@
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
 | 10/10/2020 |  1.0   | Criação do estudo de GoFs Criacionais | [Guilherme Mendes](https://github.com/guilherme-mendes) |
 | 10/10/2020 |  1.1   | Revisão do documento | [Lucas Fellipe](https://github.com/lucasfcm9) |
-| 26/10/2020 |  1.2   | Refatoração do estudo de GoFs Criacionais | [Guilherme Mendes](https://github.com/guilherme-mendes) |
-| 26/10/2020 | 1.3 | Revisão do documento | [João Pedro Guedes](https://github.com/sudjoao)|
+| 26/10/2020 | 1.2 | Adição do vídeo de apresentação dos padrões para o grupo | [João Pedro Guedes](https://github.com/sudjoao)|
+| 26/10/2020 |  1.3   | Refatoração do estudo de GoFs Criacionais | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+| 26/10/2020 | 1.4 | Revisão do documento | [João Pedro Guedes](https://github.com/sudjoao)|
+
+
+## Introdução
 
 <p align="justify"> &emsp;&emsp; Os GoF's são padrões de design que visam prover soluções para problemas recorrentes no desenvolvimento e manutenção de software orientado a objetos. Buscando sempre boas práticas de programação.</p>
 <p align="justify"> &emsp;&emsp; Os Padrões de Design Criacionais (Creational Patterns) fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente.</p>
+
+<a href="https://www.youtube.com/watch?v=qQ-j0ol2r-g">Vídeo de Apresentação dos Padrões para o grupo</a>
 
 - Problemáticas:
   - Definir qual classe concreta deve ser utilizada para criar o objeto (instâncias de um objeto);
