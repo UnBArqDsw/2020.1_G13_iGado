@@ -5,6 +5,9 @@
 | 10/10/2020 |  1.0   | Criação do estudo de GoFs Criacionais | [Guilherme Mendes](https://github.com/guilherme-mendes) |
 | 10/10/2020 |  1.1   | Revisão do documento | [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 26/10/2020 | 1.2 | Adição do vídeo de apresentação dos padrões para o grupo | [João Pedro Guedes](https://github.com/sudjoao)|
+| 26/10/2020 |  1.3   | Refatoração do estudo de GoFs Criacionais | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+| 26/10/2020 | 1.4 | Revisão do documento | [João Pedro Guedes](https://github.com/sudjoao)|
+
 
 ## Introdução
 
@@ -27,6 +30,8 @@
 ### Factory Method
 
 <p align="justify"> &emsp;&emsp; O Factory Method é um padrão criacional de projeto que fornece uma interface para criar objetos em uma superclasse e permitir delegar a instanciação às subclasses.</p>
+
+<img src='docs/Assets/Img/Studies/GoFs/Creational/creational.png'>
 
 - Vantagens:
 
@@ -73,6 +78,8 @@ def create_app(script_info=None):
 
 <p align="justify"> &emsp;&emsp; Permitir a criação de famílias de objetos relacionados ou dependentes por meio de uma única interface e sem que a classe concreta seja especificada.</p>
 
+<img src='docs/Assets/Img/Studies/GoFs/Creational/creational1.png'>
+
 - Vantagens:
 
   - Os produtos obtidos de uma fábrica são compatíveis entre si.
@@ -95,6 +102,8 @@ class WinFactory implements GUIFactory is
 ```
 
 ### Builder
+
+<img src='docs/Assets/Img/Studies/GoFs/Creational/creational2.png'>
 
 <p align="justify"> &emsp;&emsp; Separar o processo de construção de um objeto de sua apresentação e permitir a sua criação passo a passo. Diferentes tipos de objetos podem ser criados com implementações distintas de cada passo.</p>
 
@@ -153,6 +162,8 @@ class WinFactory implements GUIFactory is
 
 <p align="justify"> &emsp;&emsp; Criação de novos objetos a partir da cópia de objetos existentes.</p>
 
+<img src='docs/Assets/Img/Studies/GoFs/Creational/creational3.png'>
+
 - Vantagens:
 
   - Clonar objetos sem acoplá-los a suas classes concretas.
@@ -183,6 +194,8 @@ abstract class Shape is
 
 <p align="justify"> &emsp;&emsp; Criação de uma única instância de uma classe e fornecer um modo de recuperá-la.</p>
 
+<img src='docs/Assets/Img/Studies/GoFs/Creational/creational6.png'>
+
 - Vantagens:
 
   - Uma classe só terá uma única instância.
@@ -206,7 +219,21 @@ class Singleton(meteclass->SingletonMeta):
 		#code
 ```
 
+### Multiton
+
+<p align="justify"> &emsp;&emsp; Criação limitada de instancias para que haja um controle maior do que esta sendo consumido. </p>
+
+<img src='docs/Assets/Img/Studies/GoFs/Creational/creational4.png'>
+
+
+### Object Pool
+
+<p align="justify"> &emsp;&emsp; Possibilita o reaproveitamentos de objetos. </p>
+
+<img src='docs/Assets/Img/Studies/GoFs/Creational/creational5.png'>
+
 ### Referências
 
 - LARMAN, Craig. Utilizando UML e Padrões: Uma Introdução a Análise e ao Projeto.
 - Refactoring Guru. Design Patterns. [S. l.], 2020. Disponível em: [https://refactoring.guru/design-patterns](https://refactoring.guru/design-patterns). Acesso em: 09 out. 2020.
+- SERRANO, Milene. Arquitetura e Desenho de Software AULA - GoFs Comportamentais. Acesso em: 10 out. 2020.
