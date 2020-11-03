@@ -4,6 +4,7 @@
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 26/10/2020  |  0.8  | Abertura da Sprint 9 | [Iuri Severo](https://github.com/iurisevero) |
 | 02/11/2020  |  0.9  | Correção do título do documento e duração | [Iuri Severo](https://github.com/iurisevero) |
+| 03/11/2020 |  1.0   | Revisão do Documento | [Lucas Fellipe](https://github.com/lucasfcm9)  |
 
 **Data**: 26 de outubro de 2020
 

@@ -4,6 +4,7 @@
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 26/10/2020 |  0.8   | Fechamento da Sprint 8 | [Iuri Severo](https://github.com/iurisevero)  |
 | 02/11/2020 |  0.9   | Adição dos gráficos | [Iuri Severo](https://github.com/iurisevero)  |
+| 03/11/2020 |  1.0   | Revisão do Documento | [Lucas Fellipe](https://github.com/lucasfcm9)  |
 
 **Data**: 26 de outubro de 2020
 
@@ -36,7 +37,7 @@
 ## Retrospective
 
 * Caio
-    * Positivos: Como sempre, todo mundo trabalhando muito bem e num ritmo constante; Estamos evoluindo bem no projeto. Tivemos problema com sqlalchemy no inicio e agora não estamos mais com tanta dificuldade
+    * Positivos: Como sempre, todo mundo trabalhando muito bem e num ritmo constante. Estamos evoluindo bem no projeto. Tivemos problema com sqlalchemy no inicio e agora não estamos mais com tanta dificuldade
     * Negativos: Essa semana teve muita coisa da faculdade
     * Melhorias: Nenhuma
 * Guilherme
