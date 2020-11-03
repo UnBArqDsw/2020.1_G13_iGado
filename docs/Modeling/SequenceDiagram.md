@@ -5,7 +5,7 @@
 | :--------: | :----: | :-------------------------------------: | :-------------------------------------------: |
 | 25/09/2020 |  1.0   | Criação do documento Diagrama de Sequência inicial | [Caio Vinícius](https://github.com/caiovfernandes) e [Iuri Severo](https://github.com/iurisevero) |
 | 26/09/2020| 1.1 | Colocando a imagem certa no módulo Estoque de Insumos| [João Pedro](https://github.com/sudjoao) |
-| 26/09/2020| 1.2 | Adição do Diagrama de Sequencia V2 | [João Pedro](https://github.com/sudjoao) |
+| 02/11/2020| 1.2 | Adição do Diagrama de Sequencia V2 | [João Pedro](https://github.com/sudjoao) |
 
 <p align="justify"> &emsp;&emsp; O Diagrama de Sequência é uma das soluções que a UML oferece, de maneira dinâmica para detalhar os fluxos de vida do sistema em desenvolvimento. O principal foco da elaboração desse diagrama é descrever sobre a interação entre componentes do sistema, processos e módulos que, de alguma maneira, vivem simultaneamente e trocam mensagens entre si.</p>
 
