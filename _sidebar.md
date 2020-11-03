@@ -77,3 +77,5 @@
   - [2020-10-10 - Abertura da Sprint 7](/docs/SprintsAndMeetings/2020-10-10-Sprint7Opening.md)
   - [2020-10-10 - Fechamento da Sprint 7](/docs/SprintsAndMeetings/2020-10-17-Sprint7Closure.md)
   - [2020-10-10 - Abertura da Sprint 8](/docs/SprintsAndMeetings/2020-10-17-Sprint8Opening.md)
+  - [2020-10-10 - Fechamento da Sprint 8](/docs/SprintsAndMeetings/2020-10-26-Sprint8Closure.md)
+  - [2020-10-10 - Abertura da Sprint 9](/docs/SprintsAndMeetings/2020-10-26-Sprint9Opening.md)

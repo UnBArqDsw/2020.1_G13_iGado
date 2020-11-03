@@ -1,8 +1,9 @@
-# Abertura da Sprint 8
+# Abertura da Sprint 9
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 26/10/2020  |  0.9   | Abertura da Sprint 9 | [Iuri Severo](https://github.com/iurisevero) |
+| 26/10/2020  |  0.8  | Abertura da Sprint 9 | [Iuri Severo](https://github.com/iurisevero) |
+| 02/11/2020  |  0.9  | Correção do título do documento e duração | [Iuri Severo](https://github.com/iurisevero) |
 
 **Data**: 26 de outubro de 2020
 
@@ -21,7 +22,7 @@
 
 | Duração |   Início   |     Fim    |
 | ------- | ---------- | ---------- |
-| 5 dias  | 27/10/2020 | 02/10/2020 |
+| 7 dias  | 27/10/2020 | 02/10/2020 |
 
 ### Sprint Backlog
 
