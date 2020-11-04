@@ -3,6 +3,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 02/11/2020 |  0.9   | Fechamento da Sprint 9 | [Lucas Fellipe](https://github.com/lucasfcm9)  |
+| 04/11/2020  |  1.0   | Revisão do Documento | [Caio Fernandes](https://github.com/caiovfernandes) |
 
 **Data**: 02 de Novembro de 2020
 
