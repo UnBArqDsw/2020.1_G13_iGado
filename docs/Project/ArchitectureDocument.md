@@ -12,11 +12,12 @@ _[Para personalizar campos automáticos no Microsoft Word (que exibem um fundo c
 
 | **Data** | **Versão** | **Descrição** | **Autor** |
 | --- | --- | --- | --- |
-| 04/11/2020 | 0.1 | Criação do documento | Todos |
-| 04/11/2020 | 0.2 | Tópico 1 - introdução | Todos |
-| 04/11/2020 | 0.3 | Tópico 2 - representação arquitetural | Todos |
-| 04/11/2020 | 0.4 | Tópico 3 – metas e restrições de arquitetura | Todos |
-| 05/11/2020 | 0.5 | Tópico 4 – Casos de Uso - Diagramas e Fluxos básicos | Iuri Severo e João Pedro |
+| 04/11/2020 | 0.1 | Criação do documento | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 04/11/2020 | 0.2 | Tópico 1 - introdução | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 04/11/2020 | 0.3 | Tópico 2 - representação arquitetural | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 04/11/2020 | 0.4 | Tópico 3 – metas e restrições de arquitetura | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 05/11/2020 | 0.5.1 | Tópico 4 – Casos de Uso - Diagramas e Fluxos básicos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
+| 05/11/2020 | 0.5.2 | Tópico 4 – Casos de Uso - Descrição dos casos de uso e fluxos alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
 
 ## **Índice Analítico**
 
@@ -152,11 +153,11 @@ Para representação dos Casos de Uso do sistema especificado, foram criados tr�
 
 | Caso de Uso | Ator | Descrição |
 | --- | --- | --- |
-| **UC01 –** Register Cattle | User | |
-| **UC02 –** Visualize Cattle | User | |
-| **UC03 –** Perform Management | User | |
-| **UC04 –** Edit Cattle | User | |
-| **UC05 –** Delete Cattle | User | |
+| **UC01 –** Register Cattle | User | Este caso de uso ocorre quando o usuário registra um novo gado |
+| **UC02 –** Visualize Cattle | User | Este caso de uso ocorre quando o usuário seleciona um gado para visualizar os dados |
+| **UC03 –** Perform Management | User | Este caso de uso permite o usuário realizar uma manejo no bovino |
+| **UC04 –** Edit Cattle | User | Este caso de uso permite o usuário editar os dados do bovino |
+| **UC05 –** Delete Cattle | User | Este caso de uso permite o usuário deletar um bovino |
 
 **Fluxo de Eventos**
 
@@ -164,13 +165,21 @@ Para representação dos Casos de Uso do sistema especificado, foram criados tr�
 
 **Fluxo básico**
 
-Descrição do fluxo básico
+O usuário registra um novo gado e visualiza os dados cadastrados na tela do bovino.
 
 **Fluxos alternativos**
 
-**FA1 –** Fluxo alternativo
+**FA1 –** Perform Management
 
-Descrição do Fluxo alternativo
+O usuário seleciona um bovino para visualizar e, após isso, seleciona a opção de realizar um manejo.
+
+**FA2 –** Edit Cattle
+
+O usuário seleciona um bovino para visualizar e, após isso, edita os dados daquele bovino.
+
+**FA3 –** Delete Cattle
+
+O usuário seleciona um bovino para visualizar e, após isso, deleta o bovino.
 
 **4.2 - Módulo de Manejos**
 
@@ -182,16 +191,16 @@ Descrição do Fluxo alternativo
 
 | Caso de Uso | Ator | Descrição |
 | --- | --- | --- |
-| **UC03 –** Perform Management | User | |
-| **UC06 –** Select desired management | User | |
-| **UC07 –** Perform reproduction management | User | |
-| **UC08** – Select reproduction type | User | |
-| **UC09** – Perform weighing management | User | |
-| **UC10** – Inform Cattle actual status | User | |
-| **UC11** – Get average weight per Cattle | User | |
-| **UC12** – Get average weight per batch | User | |
-| **UC13** – Perform sanitary management | User | |
-| **UC14** – Select medicine | User | |
+| **UC03 –** Perform Management | User | Este caso de uso permite o usuário realizar uma manejo no bovino |
+| **UC06 –** Select desired management | User | Este caso de uso ocorre quando o usuário seleciona um manejo para realizar |
+| **UC07 –** Perform reproduction management | User | Este caso de uso se refere a realização dos manejos de reprodução |
+| **UC08** – Select reproduction type | User | Este caso de uso ocorre quando o usuário seleciona o tipo de reprodução realizado no manejo de reprodução |
+| **UC09** – Perform weighing management | User | Este caso de uso se refere a realização dos manejos de pesagem |
+| **UC10** – Inform Cattle actual status | User |  |
+| **UC11** – Get average weight per Cattle | User |  |
+| **UC12** – Get average weight per batch | User |  |
+| **UC13** – Perform sanitary management | User | Este caso de uso se refere a realização dos manejos sanitários |
+| **UC14** – Select medicine | User | Este caso de uso ocorre quando o usuário seleciona o tipo de medicamento aplicado no manejo sanitário |
 
 **Fluxo de Eventos**
 
@@ -199,7 +208,7 @@ Descrição do Fluxo alternativo
 
 **Fluxo básico**
 
-Descrição do fluxo básico
+O usuário decide realizar um manejo e seleciona o manejo que ele deseja realizar
 
 **Fluxos alternativos**
 
@@ -234,7 +243,7 @@ Descrição do Fluxo alternativo
 
 **Fluxo básico**
 
-Descrição do fluxo básico
+O usuário decide gerar um relatório e seleciona o tipo de relatório que será gerado
 
 **Fluxos alternativos**
 
