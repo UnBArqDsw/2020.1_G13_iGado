@@ -196,9 +196,9 @@ O usuário seleciona um bovino para visualizar e, após isso, deleta o bovino.
 | **UC07 –** Perform reproduction management | User | Este caso de uso se refere a realização dos manejos de reprodução |
 | **UC08** – Select reproduction type | User | Este caso de uso ocorre quando o usuário seleciona o tipo de reprodução realizado no manejo de reprodução |
 | **UC09** – Perform weighing management | User | Este caso de uso se refere a realização dos manejos de pesagem |
-| **UC10** – Inform Cattle actual status | User |  |
-| **UC11** – Get average weight per Cattle | User |  |
-| **UC12** – Get average weight per batch | User |  |
+| **UC10** – Inform Cattle actual status | User | Este caso de uso se refere ao usuário inserir as informações necessárias para o manejo de pesagem |
+| **UC11** – Get average weight per Cattle | User | Este caso de uso se refere ao usuário gerar o manejo para um bovino específico |
+| **UC12** – Get average weight per batch | User |  Este caso de uso se refere ao usuário gerar o manejo para todo um lote de bovinos |
 | **UC13** – Perform sanitary management | User | Este caso de uso se refere a realização dos manejos sanitários |
 | **UC14** – Select medicine | User | Este caso de uso ocorre quando o usuário seleciona o tipo de medicamento aplicado no manejo sanitário |
 
@@ -226,16 +226,16 @@ Descrição do Fluxo alternativo
 
 | Caso de Uso | Ator | Descrição |
 | --- | --- | --- |
-| **UC15 –** Generate report | User | |
-| **UC16** – Select data report | User | |
-| **UC17** – Generate general report | User | |
-| **UC18** – Generate GMD report | User | |
-| **UC19** – Generate IABCZ report | User | |
-| **UC20** – Generate PMGZ report | User | |
-| **UC21** – Select management report | User | |
-| **UC22** – Generate reproductive management report | User | |
-| **UC23** – Generate weighing management report | User | |
-| **UC24** – Generate sanitary management report | User | |
+| **UC15 –** Generate report | User | Este caso de uso permite o usuário gerar um relatório|
+| **UC16** – Select data report | User | Este caso de uso se refere ao usuário selecionar qual tipo de relatório quer gerar |
+| **UC17** – Generate general report | User | Este caso de uso se refere ao usuário gerar o relatório geral da fazenda |
+| **UC18** – Generate GMD report | User | Este caso de uso se refere ao usuário gerar o relatório com as informações do ganho de massa diário do bovino|
+| **UC19** – Generate IABCZ report | User | Este caso de uso se refere ao usuário gerar o relatório com as informações indice ABCZ|
+| **UC20** – Generate PMGZ report | User | Este caso de uso se refere ao usuário gerar o relatório com as informações do índice PMGZ|
+| **UC21** – Select management report | User | Este caso de uso se refere ao usuário selecionar um relatório do tipo manejo |
+| **UC22** – Generate reproductive management report | User | Este caso de uso se refere ao usuário gerar o relatório com as informações do manejo reprodutivo |
+| **UC23** – Generate weighing management report | User |Este caso de uso se refere ao usuário gerar o relatório com as informações do manejo de pesagem|
+| **UC24** – Generate sanitary management report | User |Este caso de uso se refere ao usuário gerar o relatório com as informações do manejo sanitário |
 
 **Fluxo de Eventos**
 
