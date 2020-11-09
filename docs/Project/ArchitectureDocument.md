@@ -18,6 +18,7 @@ _[Para personalizar campos automáticos no Microsoft Word (que exibem um fundo c
 | 04/11/2020 | 0.4 | Tópico 3 – metas e restrições de arquitetura | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 05/11/2020 | 0.5.1 | Tópico 4 – Casos de Uso - Diagramas e Fluxos básicos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
 | 05/11/2020 | 0.5.2 | Tópico 4 – Casos de Uso - Descrição dos casos de uso e fluxos alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
+| 09/11/2020 | 0.6 | Tópico 5 – Lógico:  Diagrama de classes e de Pacotes | [Caio Fernandes](https://github.com/caiovfernandes)|
 
 ## **Índice Analítico**
 
@@ -96,6 +97,7 @@ Modelo de representação da arquitetura e as interações estabelecidas entre o
 #### **2.1 - Visão Geral**
 
 <img src="docs/Assets/Img/Project/ArchitectureDocument/ArchitecturalRepresentation.png"> <br />
+
 
 #### **2.2 - Tecnologias**
 
@@ -253,46 +255,44 @@ Descrição do Fluxo alternativo
 
 ### **5. Visão Lógica**
 
-_[Esta seção descreve as partes significativas do ponto de vista da arquitetura do modelo de design, como sua divisão em subsistemas e pacotes. Além disso, para cada pacote significativo, ela mostra sua divisão em classes e utilitários de classe. Apresente as classes significativas do ponto de vista da arquitetura e descreva suas responsabilidades, bem como alguns relacionamentos, operações e atributos de grande importância.]_
+A visão lógica descreve como o sistema é estruturado, em termos de unidade e implementação. Mostra como está a organização conceitual do sistema em termos de camadas, pacotes, classes e interfaces. O relacionamento entre os elementos mostra as dependências, as realizações de interface, os relacionamento parte-todo e assim por diante.  
 
-    a. **Visão Geral**
+#### **5.1 Diagrama de Pacotes** 
 
-_[Esta subseção descreve toda a decomposição do modelo de design em termos de camadas e de hierarquia de pacotes.]_
+Os diagramas de pacotes mostram a interação entre as relações das pastas e seus arquivos. Tem como objetivo estruturar hierarquicamente as pastas que compõem o projeto. 
 
-    b. **Pacotes de Design Significativos do Ponto de Vista da Arquitetura**
+A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/PackageDiagram)
 
-_[Para cada pacote significativo, inclua uma subseção com o respectivo nome, uma breve descrição e um diagrama com todos os pacotes e classes significativos nele contidos._
+<img src="docs/Assets/Img/Modeling/PackageDiagram/PackageDiagramV2.0.png"> <br />
 
-_Para cada classe significativa no pacote, inclua o respectivo nome, uma breve descrição e, opcionalmente, uma descrição de algumas das suas principais responsabilidades, operações e atributos.]_
+<br>
+<br>
+<br>
+<br>
+
+#### **5.2 Diagrama de Classes** 
+O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos. Consiste em um conjunto de objetos com as mesmas características. Dessa forma, consegue-se identificar os objetos e agrupá-los, de forma a encontrar suas respectivas classes.
+
+A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/ClassDiagram)
+
+<img src="https://unbarqdsw.github.io/2020.1_G13_iGado/docs/Assets/Img/Modeling/ClassDiagram/ClassDiagramV1.2.png"> <br />
+
+#### **5.3 Diagrama de Entidade Relacionamento**
+ O Diagrama de Entidade-Relacionamento (DER) é um tipo de fluxograma que ilustra como “entidades”, como pessoas, objetos ou conceitos, se relacionam entre si dentro de um sistema. Diagramas de Entidade Relacionamento são mais utilizados para projetar ou depurar bancos de dados relacionais nas áreas de engenharia de software. Também conhecidos como DERs, ou modelos ER, usam um conjunto definido de símbolos, tais como retângulos, diamantes, ovais e linhas de conexão para representar a interconectividade de entidades, relacionamentos e seus atributos. Eles espelham estruturas gramaticais, onde entidades são substantivos e relacionamentos são verbos.
+
+A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/DatabaseModeling)
+
+<img src="docs/Assets/Img/Modeling/DatabaseModeling/DER_v1.png"> <br />
 
 ### **6. Visão de Processos**
 
 _[Esta seção descreve a decomposição do sistema em processos leves (threads simples de controle) e processos pesados (agrupamentos de processos leves). Organize a seção em grupos de processos que se comunicam ou interagem. Descreva os modos principais de comunicação entre processos, como transmissão de mensagens e interrupções.]_
 
-### **7. Visão de Implantação**
 
-_[Esta seção descreve uma ou mais configurações da rede física (hardware) na qual o software é implantado e executado. Ela é uma visão do Modelo de Implantação. No mínimo, para cada configuração, ela deve indicar os nós físicos (computadores, CPUs) que executam o software e suas interconexões (barramento, LAN, ponto a ponto, etc.) É incluído também um mapeamento dos processos da_ _ **Visão de Processos** _ _nos nós físicos.]_
-
-### **8. Visão da Implementação**
-
-_[Esta seção descreve a estrutura geral do modelo de implementação, a divisão do software em camadas e os subsistemas no modelo de implementação e todos os componentes significativos do ponto de vista da arquitetura.]_
-
-    a. **Visão Geral**
-
-_[Esta subseção nomeia e define as diversas camadas e o seu conteúdo, as regras que determinam a inclusão em uma camada específica e as fronteiras entre as camadas. Inclua um diagrama de componentes que mostre os relacionamentos entre as camadas.]_
-
-    b. **Camadas**
-
-_[Para cada camada, inclua uma subseção com o respectivo nome, uma lista dos subsistemas localizados na camada e um diagrama de componentes.]_
-
-### **9. Visão de Dados (opcional)**
-
-_[Uma descrição da perspectiva de armazenamento de dados persistentes do sistema. Esta seção será opcional se os dados persistentes forem poucos ou inexistentes ou se a conversão entre o Modelo de Design e o Modelo de Dados for trivial.]_
-
-### **10. Tamanho e Desempenho**
+### **7. Tamanho e Desempenho**
 
 _[Uma descrição das principais características de dimensionamento do software que têm um impacto na arquitetura, bem como as restrições do desempenho desejado.]_
 
-### **11. Qualidade**
+### **8. Qualidade**
 
 _[Uma descrição de como a arquitetura do software contribui para todos os recursos (exceto a funcionalidade) do sistema: extensibilidade, confiabilidade, portabilidade e assim por diante. Se essas características possuírem significado especial, como implicações de segurança, garantia ou privacidade, elas deverão ser delineadas claramente.]_
