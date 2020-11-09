@@ -19,6 +19,7 @@ _[Para personalizar campos automáticos no Microsoft Word (que exibem um fundo c
 | 05/11/2020 | 0.5.1 | Tópico 4 – Casos de Uso - Diagramas e Fluxos básicos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
 | 05/11/2020 | 0.5.2 | Tópico 4 – Casos de Uso - Descrição dos casos de uso e fluxos alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
 | 09/11/2020 | 0.6 | Tópico 5 – Lógico:  Diagrama de classes e de Pacotes | [Caio Fernandes](https://github.com/caiovfernandes)|
+| 09/11/2020 | 0.7 | Tópico 6 - Visão de Processos  | [Guilherme Mendes](https://github.com/guilherme-mendes) |
 
 ## **Índice Analítico**
 
@@ -286,7 +287,52 @@ A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github
 
 ### **6. Visão de Processos**
 
-_[Esta seção descreve a decomposição do sistema em processos leves (threads simples de controle) e processos pesados (agrupamentos de processos leves). Organize a seção em grupos de processos que se comunicam ou interagem. Descreva os modos principais de comunicação entre processos, como transmissão de mensagens e interrupções.]_
+#### **6.1 Visão Geral**
+
+A Visão de Processos tem como objetivo descrever a estrutura de processos do sistema. Tendo como base uma visualização em sequência para mostrar como será feito o modelo do projeto. 
+
+#### **6.2 Diagrama de Sequência**
+
+O Diagrama de Sequência é uma das soluções que a UML oferece, de maneira dinâmica para detalhar os fluxos de vida do sistema em desenvolvimento. O principal foco da elaboração desse diagrama é descrever sobre a interação entre componentes do sistema, processos e módulos que, de alguma maneira, vivem simultaneamente e trocam mensagens entre si. Os ciclos de vida podem ser Classes, atores ou até mesmo abstrações que ocorrem entre as classes. 
+
+#### **6.2.1 Cadastro de Usuário**
+
+Detalha o módulo de Cadastro de Usuário do sistema, mostrando como funcionará o cadastro de um usuário, sua fazer e seus funcionários, respectivamente. 
+
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RegistroELoginV2.png">
+
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RegistroELoginV2.png"> Clique aqui para ampliar</a>
+
+#### **6.2.2 Cadastro de Bovino**
+
+Detalha o módulo de Cadastro de Bovino, demonstrando como este fluxo funcionará no app, com o proprietário podendo cadastrar diferentes tipos de bovinos (de corte, de leite e bezerros). 
+
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-CadastroDeBovinoV2.png">
+
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-CadastroDeBovinoV2.png"> Clique aqui para ampliar</a>
+
+#### **6.2.3 Manejo**
+
+Demonstra o módulo de Manejo Bovino, detalhando os diferentes tipos de manejo.
+
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-ManejoV2.png">
+
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-ManejoV2.png"> Clique aqui para ampliar</a>
+
+#### **6.2.4 Estoque de Insumos**
+
+Detalha o módulo Estoque de Insumos, que será responsável por gerenciar produtos de uma fazenda.
+
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-EstoqueDeInsumosV2.png">
+
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-EstoqueDeInsumosV2.png"> Clique aqui para ampliar</a>
+
+#### **6.2.5 Relatório**
+Demonstra o módulo de *Relatório*, que se trata de uma funcionalidade para auxiliar o Proprietário na tomada de decisão. Trazendo informções a partir de métricas utilizando os dados de seus recursos.
+
+<img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RelatórioV2.png">
+
+<a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RelatórioV2.png"> Clique aqui para ampliar</a>
 
 
 ### **7. Tamanho e Desempenho**
