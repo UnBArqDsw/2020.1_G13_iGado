@@ -20,6 +20,7 @@ _[Para personalizar campos automáticos no Microsoft Word (que exibem um fundo c
 | 05/11/2020 | 0.5.2 | Tópico 4 – Casos de Uso - Descrição dos casos de uso e fluxos alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
 | 09/11/2020 | 0.6 | Tópico 5 – Lógico:  Diagrama de classes e de Pacotes | [Caio Fernandes](https://github.com/caiovfernandes)|
 | 09/11/2020 | 0.7 | Tópico 6 - Visão de Processos  | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+| 05/11/2020 | 0.8 | Tópico 4 – Casos de Uso - Adição de todos fluxos alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
 
 ## **Índice Analítico**
 
@@ -215,11 +216,28 @@ O usuário decide realizar um manejo e seleciona o manejo que ele deseja realiza
 
 **Fluxos alternativos**
 
-**FA1 –** Fluxo alternativo
+**FA1 –** Perform reproduction management
+O usuário seleciona o manejo de reprodução e então insere as informações sobre que tipo de reprodução está sendo realizada. 
 
-Descrição do Fluxo alternativo
+**FA2 –** Perform sanitary management
+O usuário seleciona o manejo sanitário e então insere as informações do medicamento que será utilizado no manejo. 
 
-**4.2 - Módulo de Manejos**
+**FA3 –** Perform weighing management
+O usuário seleciona o manejo de pesagem e então insere as informações relacionadas ao peso atual do bovino. 
+
+**FA4 –** Perform weighing management
+O usuário seleciona o manejo de pesagem e então insere as informações relacionadas ao peso atual do bovino.
+
+**FA5 –** Perform weighing management
+O usuário seleciona o manejo de pesagem e então insere as informações relacionadas ao peso atual do bovino.
+
+**FA6 –** Get average weight per cattle
+O usuário durante o manejo de pesagem seleciona a opção de pegar informações de manejo de apenas um bovino.
+
+**FA7 –** Get average weight per batch
+O usuário durante o manejo de pesagem seleciona a opção de pegar informações de manejo de um lote de bovinos.
+
+**4.3 - Módulo de Relatórios**
 
 **Diagrama de Casos de Uso**
 
@@ -250,9 +268,29 @@ O usuário decide gerar um relatório e seleciona o tipo de relatório que será
 
 **Fluxos alternativos**
 
-**FA1 –** Fluxo alternativo
+**FA1 –** Generate geral report
+O usuário seleciona a opção de gerar o relatório geral com todas as informações da fazenda. 
 
-Descrição do Fluxo alternativo
+**FA2 –** Generate GMD report
+O usuário seleciona a opção de gerar o relatório com informações da métrica GMD (Ganho de Massa Diária). 
+
+**FA3 –** Generate IABCZ report
+O usuário seleciona a opção de gerar o relatório com informações do índice ABCZ. 
+
+**FA4 –** Generate PMGZ report
+O usuário seleciona a opção de gerar o relatório com informações do índice PMGZ. 
+
+**FA5 –** Select management reprot
+O usuário seleciona a opção de gerar relatório de manejos e pode selecionar um dos relatórios disponíveis. 
+
+**FA6 –** Generate reproductive management report
+O usuário seleciona a opção de gerar o relatório com as informações do manejo de reprodução.
+
+**FA7 –** Generate weighing management report
+O usuário seleciona a opção de gerar o relatório com as informações do manejo de pesagem.
+
+**FA8 –** Generate sanitary management report
+O usuário seleciona a opção de gerar o relatório com as informações do manejo sanitário.
 
 ### **5. Visão Lógica**
 
