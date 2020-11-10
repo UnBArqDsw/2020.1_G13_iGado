@@ -1,4 +1,4 @@
-# **Nome do Projeto**
+# **iGado**
 
 # **Documento de Arquitetura de Software**
 
@@ -21,6 +21,7 @@ _[Para personalizar campos automáticos no Microsoft Word (que exibem um fundo c
 | 09/11/2020 | 0.6 | Tópico 5 – Lógico:  Diagrama de classes e de Pacotes | [Caio Fernandes](https://github.com/caiovfernandes)|
 | 09/11/2020 | 0.7 | Tópico 6 - Visão de Processos  | [Guilherme Mendes](https://github.com/guilherme-mendes) |
 | 05/11/2020 | 0.8 | Tópico 4 – Casos de Uso - Adição de todos fluxos alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
+| 09/11/2020 | 0.9 | Tópico 8 - Qualidade | [Guilherme Mendes](https://github.com/guilherme-mendes) |
 
 ## **Índice Analítico**
 
@@ -379,4 +380,12 @@ _[Uma descrição das principais características de dimensionamento do software
 
 ### **8. Qualidade**
 
-_[Uma descrição de como a arquitetura do software contribui para todos os recursos (exceto a funcionalidade) do sistema: extensibilidade, confiabilidade, portabilidade e assim por diante. Se essas características possuírem significado especial, como implicações de segurança, garantia ou privacidade, elas deverão ser delineadas claramente.]_
+Descrição de como a arquitetura do software contribui para todos os recursos (exceto a funcionalidade) do sistema: extensibilidade, confiabilidade, portabilidade e assim por diante. 
+
+#### **8.1 NFR**
+
+A fim de rastrear requisitos não funcionais, o NFR mostram impactos que um _hardgoal_ causa em um _softgoal_, deixando explícito a rastreabilidade e propósito de uma determiada _feature_, deixando claro os recursos do sistema de qualidade, como usabilidade, eficiência e etc.
+
+<img src="docs/Assets/Img/Project/ArchitectureDocument/nfr.png">
+
+<a href="docs/Assets/Img/Project/ArchitectureDocument/nfr.png"> Clique aqui para ampliar</a>
