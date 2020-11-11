@@ -2,26 +2,22 @@
 
 # **Documento de Arquitetura de Software**
 
-**Versão \&lt;1.0\&gt;**
-
-_[Observação: O template a seguir é fornecido para uso com o Rational Unified Process (RUP). O texto em azul exibido entre colchetes e em itálico (style=InfoBlue) foi incluído para orientar o autor e deve ser excluído antes da publicação do documento. Um parágrafo digitado após esse estilo será automaticamente definido como normal (style=Body Text).]_
-
-_[Para personalizar campos automáticos no Microsoft Word (que exibem um fundo cinza quando selecionados), escolha File\&gt;Properties e substitua os campos Title, Subject e Company pelas informações apropriadas para este documento. Depois de fechar a caixa de diálogo, para atualizar os campos automáticos no documento inteiro, selecione Edit\&gt;Select All (ou Ctrl-A) e pressione F9 ou simplesmente clique no campo e pressione F9. Isso deve ser feito separadamente para Cabeçalhos e Rodapés. Alt-F9 alterna entre a exibição de nomes de campos e do conteúdo dos campos. Consulte a ajuda do Word para obter mais informações sobre como trabalhar com campos.]_
-
 ## **Histórico da Revisão**
 
-| **Data** | **Versão** | **Descrição** | **Autor** |
+| **Data** | **Versão** | **Descrição** | **Autor(es)** |
 | --- | --- | --- | --- |
 | 04/11/2020 | 0.1 | Criação do documento | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
-| 04/11/2020 | 0.2 | Tópico 1 - introdução | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
-| 04/11/2020 | 0.3 | Tópico 2 - representação arquitetural | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
-| 04/11/2020 | 0.4 | Tópico 3 – metas e restrições de arquitetura | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 04/11/2020 | 0.2 | Tópico 1 - Introdução | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 04/11/2020 | 0.3 | Tópico 2 - Representação Arquitetural | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 04/11/2020 | 0.4 | Tópico 3 – Metas e Restrições de Arquitetura | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 05/11/2020 | 0.5.1 | Tópico 4 – Casos de Uso - Diagramas e Fluxos básicos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
 | 05/11/2020 | 0.5.2 | Tópico 4 – Casos de Uso - Descrição dos casos de uso e fluxos alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
-| 09/11/2020 | 0.6 | Tópico 5 – Lógico:  Diagrama de classes e de Pacotes | [Caio Fernandes](https://github.com/caiovfernandes)|
+| 09/11/2020 | 0.6 | Tópico 5 – Lógico:  Diagrama de Pacotes | [Caio Fernandes](https://github.com/caiovfernandes), [Lucas Fellipe](https://github.comlucasfcm9)|
 | 09/11/2020 | 0.7 | Tópico 6 - Visão de Processos  | [Guilherme Mendes](https://github.com/guilherme-mendes) |
 | 05/11/2020 | 0.8 | Tópico 4 – Casos de Uso - Adição de todos fluxos alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
-| 09/11/2020 | 0.9 | Tópico 8 - Qualidade | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+| 09/11/2020 | 0.9 | Tópico 9 - Qualidade | [Guilherme Mendes](https://github.com/guilherme-mendes) |
+| 11/11/2020 | 1.0 | Tópico 7 - Visão de Implementação - Diagrama de Classes e Diagrama Entidade Relacionamento | [Caio Fernandes](https://github.com/caiovfernandes), [Lucas Fellipe](https://github.comlucasfcm9) |
+| 11/11/2020 | 1.1 | Tópico 8 - Tamanho e Desempenho | [Lucas Fellipe](https://github.comlucasfcm9) |
 
 ## **Índice Analítico**
 
@@ -53,9 +49,7 @@ _[Para personalizar campos automáticos no Microsoft Word (que exibem um fundo c
 
 6. Visão de Processos
 
-7. Visão de Implantação
-
-8. Visão da Implementação
+7. Visão da Implementação
 
     8.1 Visão Geral
 
@@ -218,13 +212,13 @@ O usuário decide realizar um manejo e seleciona o manejo que ele deseja realiza
 **Fluxos alternativos**
 
 **FA1 –** Perform reproduction management
-O usuário seleciona o manejo de reprodução e então insere as informações sobre que tipo de reprodução está sendo realizada. 
+O usuário seleciona o manejo de reprodução e então insere as informações sobre que tipo de reprodução está sendo realizada.
 
 **FA2 –** Perform sanitary management
-O usuário seleciona o manejo sanitário e então insere as informações do medicamento que será utilizado no manejo. 
+O usuário seleciona o manejo sanitário e então insere as informações do medicamento que será utilizado no manejo.
 
 **FA3 –** Perform weighing management
-O usuário seleciona o manejo de pesagem e então insere as informações relacionadas ao peso atual do bovino. 
+O usuário seleciona o manejo de pesagem e então insere as informações relacionadas ao peso atual do bovino.
 
 **FA4 –** Perform weighing management
 O usuário seleciona o manejo de pesagem e então insere as informações relacionadas ao peso atual do bovino.
@@ -270,19 +264,19 @@ O usuário decide gerar um relatório e seleciona o tipo de relatório que será
 **Fluxos alternativos**
 
 **FA1 –** Generate geral report
-O usuário seleciona a opção de gerar o relatório geral com todas as informações da fazenda. 
+O usuário seleciona a opção de gerar o relatório geral com todas as informações da fazenda.
 
 **FA2 –** Generate GMD report
-O usuário seleciona a opção de gerar o relatório com informações da métrica GMD (Ganho de Massa Diária). 
+O usuário seleciona a opção de gerar o relatório com informações da métrica GMD (Ganho de Massa Diária).
 
 **FA3 –** Generate IABCZ report
-O usuário seleciona a opção de gerar o relatório com informações do índice ABCZ. 
+O usuário seleciona a opção de gerar o relatório com informações do índice ABCZ.
 
 **FA4 –** Generate PMGZ report
-O usuário seleciona a opção de gerar o relatório com informações do índice PMGZ. 
+O usuário seleciona a opção de gerar o relatório com informações do índice PMGZ.
 
 **FA5 –** Select management reprot
-O usuário seleciona a opção de gerar relatório de manejos e pode selecionar um dos relatórios disponíveis. 
+O usuário seleciona a opção de gerar relatório de manejos e pode selecionar um dos relatórios disponíveis.
 
 **FA6 –** Generate reproductive management report
 O usuário seleciona a opção de gerar o relatório com as informações do manejo de reprodução.
@@ -297,9 +291,9 @@ O usuário seleciona a opção de gerar o relatório com as informações do man
 
 A visão lógica descreve como o sistema é estruturado, em termos de unidade e implementação. Mostra como está a organização conceitual do sistema em termos de camadas, pacotes, classes e interfaces. O relacionamento entre os elementos mostra as dependências, as realizações de interface, os relacionamento parte-todo e assim por diante.  
 
-#### **5.1 Diagrama de Pacotes** 
+#### **5.1 Diagrama de Pacotes**
 
-Os diagramas de pacotes mostram a interação entre as relações das pastas e seus arquivos. Tem como objetivo estruturar hierarquicamente as pastas que compõem o projeto. 
+Os diagramas de pacotes mostram a interação entre as relações das pastas e seus arquivos. Tem como objetivo estruturar hierarquicamente as pastas que compõem o projeto.
 
 A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/PackageDiagram)
 
@@ -310,33 +304,20 @@ A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github
 <br>
 <br>
 
-#### **5.2 Diagrama de Classes** 
-O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos. Consiste em um conjunto de objetos com as mesmas características. Dessa forma, consegue-se identificar os objetos e agrupá-los, de forma a encontrar suas respectivas classes.
-
-A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/ClassDiagram)
-
-<img src="https://unbarqdsw.github.io/2020.1_G13_iGado/docs/Assets/Img/Modeling/ClassDiagram/ClassDiagramV1.2.png"> <br />
-
-#### **5.3 Diagrama de Entidade Relacionamento**
- O Diagrama de Entidade-Relacionamento (DER) é um tipo de fluxograma que ilustra como “entidades”, como pessoas, objetos ou conceitos, se relacionam entre si dentro de um sistema. Diagramas de Entidade Relacionamento são mais utilizados para projetar ou depurar bancos de dados relacionais nas áreas de engenharia de software. Também conhecidos como DERs, ou modelos ER, usam um conjunto definido de símbolos, tais como retângulos, diamantes, ovais e linhas de conexão para representar a interconectividade de entidades, relacionamentos e seus atributos. Eles espelham estruturas gramaticais, onde entidades são substantivos e relacionamentos são verbos.
-
-A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/DatabaseModeling)
-
-<img src="docs/Assets/Img/Modeling/DatabaseModeling/DER_v1.png"> <br />
 
 ### **6. Visão de Processos**
 
 #### **6.1 Visão Geral**
 
-A Visão de Processos tem como objetivo descrever a estrutura de processos do sistema. Tendo como base uma visualização em sequência para mostrar como será feito o modelo do projeto. 
+A Visão de Processos tem como objetivo descrever a estrutura de processos do sistema. Tendo como base uma visualização em sequência para mostrar como será feito o modelo do projeto.
 
 #### **6.2 Diagrama de Sequência**
 
-O Diagrama de Sequência é uma das soluções que a UML oferece, de maneira dinâmica para detalhar os fluxos de vida do sistema em desenvolvimento. O principal foco da elaboração desse diagrama é descrever sobre a interação entre componentes do sistema, processos e módulos que, de alguma maneira, vivem simultaneamente e trocam mensagens entre si. Os ciclos de vida podem ser Classes, atores ou até mesmo abstrações que ocorrem entre as classes. 
+O Diagrama de Sequência é uma das soluções que a UML oferece, de maneira dinâmica para detalhar os fluxos de vida do sistema em desenvolvimento. O principal foco da elaboração desse diagrama é descrever sobre a interação entre componentes do sistema, processos e módulos que, de alguma maneira, vivem simultaneamente e trocam mensagens entre si. Os ciclos de vida podem ser Classes, atores ou até mesmo abstrações que ocorrem entre as classes.
 
 #### **6.2.1 Cadastro de Usuário**
 
-Detalha o módulo de Cadastro de Usuário do sistema, mostrando como funcionará o cadastro de um usuário, sua fazer e seus funcionários, respectivamente. 
+Detalha o módulo de Cadastro de Usuário do sistema, mostrando como funcionará o cadastro de um usuário, sua fazer e seus funcionários, respectivamente.
 
 <img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RegistroELoginV2.png">
 
@@ -344,7 +325,7 @@ Detalha o módulo de Cadastro de Usuário do sistema, mostrando como funcionará
 
 #### **6.2.2 Cadastro de Bovino**
 
-Detalha o módulo de Cadastro de Bovino, demonstrando como este fluxo funcionará no app, com o proprietário podendo cadastrar diferentes tipos de bovinos (de corte, de leite e bezerros). 
+Detalha o módulo de Cadastro de Bovino, demonstrando como este fluxo funcionará no app, com o proprietário podendo cadastrar diferentes tipos de bovinos (de corte, de leite e bezerros).
 
 <img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-CadastroDeBovinoV2.png">
 
@@ -374,15 +355,47 @@ Demonstra o módulo de *Relatório*, que se trata de uma funcionalidade para aux
 <a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RelatórioV2.png"> Clique aqui para ampliar</a>
 
 
-### **7. Tamanho e Desempenho**
+### **7. Visão de Implementação**
 
-_[Uma descrição das principais características de dimensionamento do software que têm um impacto na arquitetura, bem como as restrições do desempenho desejado.]_
+#### **7.1 Visão Geral**
+A visão de implementação mostra como o sistema proposto será implementado. Uma das suas principais características é a visao geral do Diagrama de Classes final do projeto.
 
-### **8. Qualidade**
+#### **7.2 Diagrama de Classes**
+O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos. Consiste em um conjunto de objetos com as mesmas características. Dessa forma, consegue-se identificar os objetos e agrupá-los, de forma a encontrar suas respectivas classes.
 
-Descrição de como a arquitetura do software contribui para todos os recursos (exceto a funcionalidade) do sistema: extensibilidade, confiabilidade, portabilidade e assim por diante. 
+A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/ClassDiagram)
 
-#### **8.1 NFR**
+<img src="https://unbarqdsw.github.io/2020.1_G13_iGado/docs/Assets/Img/Modeling/ClassDiagram/ClassDiagramV1.2.png"> <br />
+
+
+#### **7.3 Diagrama de Entidade Relacionamento**
+ O Diagrama de Entidade-Relacionamento (DER) é um tipo de fluxograma que ilustra como “entidades”, como pessoas, objetos ou conceitos, se relacionam entre si dentro de um sistema. Diagramas de Entidade Relacionamento são mais utilizados para projetar ou depurar bancos de dados relacionais nas áreas de engenharia de software. Também conhecidos como DERs, ou modelos ER, usam um conjunto definido de símbolos, tais como retângulos, diamantes, ovais e linhas de conexão para representar a interconectividade de entidades, relacionamentos e seus atributos. Eles espelham estruturas gramaticais, onde entidades são substantivos e relacionamentos são verbos.
+
+A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/DatabaseModeling)
+
+<img src="docs/Assets/Img/Modeling/DatabaseModeling/DER_v1.png"> <br />
+
+
+### **8. Tamanho e Desempenho**
+
+#### **8.1 Visão Geral**
+
+Descreve os principais objetivos de desempenho do software assim como as principais características de dimensionamento do software que impactam na arquitetura do aplicativo.  
+
+#### **8.2 Requisitos Mínimos**
+
+* Sistemas operacionais: Android e iOS
+* É necessário possuir internet móvel ou Wi-Fi para utilizar o Software.
+* O ambiente de desenvolvimento deve funcionar tanto em Windows, Linux e MacOS;
+* iOS 12.0 ou superior;
+* Android 10.0 ou superior;
+
+
+### **9. Qualidade**
+
+Descrição de como a arquitetura do software contribui para todos os recursos (exceto a funcionalidade) do sistema: extensibilidade, confiabilidade, portabilidade e assim por diante.
+
+#### **9.1 NFR**
 
 A fim de rastrear requisitos não funcionais, o NFR mostram impactos que um _hardgoal_ causa em um _softgoal_, deixando explícito a rastreabilidade e propósito de uma determiada _feature_, deixando claro os recursos do sistema de qualidade, como usabilidade, eficiência e etc.
 
