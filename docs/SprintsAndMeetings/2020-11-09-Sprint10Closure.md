@@ -1,12 +1,8 @@
-# Modelo de Fechamento de Sprint
-
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 09/11/2020 |  1.0   | Criação do modelo de Fechamento de Sprint | [Caio Fernandes](https://github.com/caiovfernandes) |
 
-Os documentos de Fechamento de sprint deverão seguir o seguinte padrão:
-
-# Fechamento da Sprint <Número da Sprint>
+# Fechamento da sprint 10
 
 **Data**: 09 de novembro de 2020
 
@@ -19,13 +15,10 @@ Os documentos de Fechamento de sprint deverão seguir o seguinte padrão:
 * João Pedro Guedes
 * Lucas Fellipe
 
-## Notas pré reunião
-
-> Adicione aqui algum comentário relevante para a reunião, se não houver nenhum comentário a ser feito, apague essa parte.
 
 ## Review
 
-* Caio Fernandes: 
+* Caio Fernandes: Participou da elaboração do documento de arquitetura e pareou com o Guilherme para realizar a média de peso de bovinos por lote.
 * Guilherme Mendes: Participou da elaboração do documento de arquitetura e pareou com o Caio para realizar a média de peso de bovinos por lote.
 * Iuri Severo: Participou da elaboração do documento de arquitetura, ficou reponsável juntamente com o João pelos casos de usos e também pareou com o Lucas para realização da funcionalidade de manejo de reprodução. Tanto no backend quanto no frontend.
 * João Pedro Guedes: Participou da elaboração do documento de arquitetura, pareando com o Iuri para realização dos casos de uso e também fez a funcionalidae de manejo de pesagem tanto no frontend quanto backend.
@@ -61,8 +54,3 @@ Os documentos de Fechamento de sprint deverão seguir o seguinte padrão:
     * Positivos: Organização da sprint foi muito boa (issues, zenhub, etc..). Aplicação está tomando forma, interação com a aplicação está muito boa.
     * Negativos: Semana muito cheia.
     * Melhorias: Comunicação e organização
-
-## Notas pós reunião
-
-> Adicione aqui algum comentário que afetará a sprint após essa reunião, se não houver nenhum comentário a ser feito, apague essa parte.
-
