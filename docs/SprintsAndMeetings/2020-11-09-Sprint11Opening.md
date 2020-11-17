@@ -1,6 +1,7 @@
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
 | 09/11/2020 |  1.0   | Criação do modelo de Abertura de Sprint | [Caio Fernandes](https://github.com/caiovfernandes) |
+| 17/11/2020 |  1.1   | Revisão do modelo de Abertura de Sprint |[Guilherme Mendes](https://github.com/guilherme-mendes) |
 
 
 # Abertura da Sprint 11
