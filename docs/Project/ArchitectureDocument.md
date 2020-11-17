@@ -1,8 +1,6 @@
-# **iGado**
-
 # **Documento de Arquitetura de Software**
 
-## **Histórico da Revisão**
+## **Histórico de Revisão**
 
 | **Data** | **Versão** | **Descrição** | **Autor(es)** |
 | --- | --- | --- | --- |
@@ -19,8 +17,6 @@
 | 11/11/2020 | 1.0 | Tópico 7 - Visão de Implementação - Diagrama de Classes e Diagrama Entidade Relacionamento | [Caio Fernandes](https://github.com/caiovfernandes), [Lucas Fellipe](https://github.comlucasfcm9) |
 | 11/11/2020 | 1.1 | Tópico 8 - Tamanho e Desempenho | [Lucas Fellipe](https://github.comlucasfcm9) |
 | 16/11/2020 | 1.2 | Revisão do Documento | [Lucas Fellipe](https://github.comlucasfcm9) |
-
-## **Documento de Arquitetura de Software**
 
 ### **1. Introdução**
 
