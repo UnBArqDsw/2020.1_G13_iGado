@@ -6,60 +6,19 @@
 
 | **Data** | **Versão** | **Descrição** | **Autor(es)** |
 | --- | --- | --- | --- |
-| 04/11/2020 | 0.1 | Criação do documento | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
+| 04/11/2020 | 0.1 | Criação do Documento | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 04/11/2020 | 0.2 | Tópico 1 - Introdução | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 04/11/2020 | 0.3 | Tópico 2 - Representação Arquitetural | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 04/11/2020 | 0.4 | Tópico 3 – Metas e Restrições de Arquitetura | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
-| 05/11/2020 | 0.5.1 | Tópico 4 – Casos de Uso - Diagramas e Fluxos básicos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
-| 05/11/2020 | 0.5.2 | Tópico 4 – Casos de Uso - Descrição dos casos de uso e fluxos alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
+| 05/11/2020 | 0.5.1 | Tópico 4 – Casos de Uso - Diagramas e Fluxos Básicos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
+| 05/11/2020 | 0.5.2 | Tópico 4 – Casos de Uso - Descrição dos Casos de Uso e Fluxos Alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
 | 09/11/2020 | 0.6 | Tópico 5 – Lógico:  Diagrama de Pacotes | [Caio Fernandes](https://github.com/caiovfernandes), [Lucas Fellipe](https://github.comlucasfcm9)|
 | 09/11/2020 | 0.7 | Tópico 6 - Visão de Processos  | [Guilherme Mendes](https://github.com/guilherme-mendes) |
-| 05/11/2020 | 0.8 | Tópico 4 – Casos de Uso - Adição de todos fluxos alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
+| 05/11/2020 | 0.8 | Tópico 4 – Casos de Uso - Adição de Todos os Fluxos Alternativos | [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) |
 | 09/11/2020 | 0.9 | Tópico 9 - Qualidade | [Guilherme Mendes](https://github.com/guilherme-mendes) |
 | 11/11/2020 | 1.0 | Tópico 7 - Visão de Implementação - Diagrama de Classes e Diagrama Entidade Relacionamento | [Caio Fernandes](https://github.com/caiovfernandes), [Lucas Fellipe](https://github.comlucasfcm9) |
 | 11/11/2020 | 1.1 | Tópico 8 - Tamanho e Desempenho | [Lucas Fellipe](https://github.comlucasfcm9) |
-
-## **Índice Analítico**
-
-1. Introdução
-
-    1.1 Finalidade
-
-    1.2 Escopo
-
-    1.3 Definições, Acrônimos e Abreviações
-
-    1.4 Referências
-
-    1.5 Visão Geral
-
-2. Representação Arquitetural
-
-3. Metas e Restrições da Arquitetura
-
-4. Visão de Casos de Uso
-
-    4.1 Realizações de Casos de Uso
-
-5. Visão Lógica
-
-    5.1 Visão Geral
-
-    5.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura
-
-6. Visão de Processos
-
-7. Visão da Implementação
-
-    8.1 Visão Geral
-
-    8.2 Camadas
-
-9. Visão de Dados (opcional)
-
-10. Tamanho e Desempenho
-
-11. Qualidade
+| 16/11/2020 | 1.2 | Revisão do Documento | [Lucas Fellipe](https://github.comlucasfcm9) |
 
 ## **Documento de Arquitetura de Software**
 
@@ -67,11 +26,11 @@
 
 #### **1.1. Finalidade**
 
-Este documento oferece uma visão geral arquitetural abrangente do sistema, usando diversas visões arquiteturais para representar diferentes aspectos do sistema. O objetivo deste documento é capturar e comunicar as decisões arquiteturais significativas que foram tomadas em relação ao sistema.
+<p align="justify"> &emsp;&emsp; Este documento oferece uma visão geral arquitetural abrangente do sistema, usando diversas visões arquiteturais para representar diferentes aspectos do sistema. O objetivo deste documento é capturar e comunicar as decisões arquiteturais significativas que foram tomadas em relação ao sistema. </p>
 
 #### **1.2. Escopo**
 
-IGado é um aplicativo que visa contribuir o gerenciamento e gestão dos bovinos que se concentram em propriedades rurais. Neste documento será detalhado os padrões arquiteturais relacionados ao aplicativo iGado desenvolvido durante a disciplina de Arquitetura e Desenho de software, da Universidade de Brasília.
+<p align="justify"> &emsp;&emsp; iGado é um aplicativo que visa contribuir o gerenciamento e gestão dos bovinos que se concentram em propriedades rurais. Neste documento será detalhado os padrões arquiteturais relacionados ao aplicativo iGado desenvolvido durante a disciplina de Arquitetura e Desenho de <i>Software</i>, da Universidade de Brasília (UnB).</p>
 
 #### **1.3. Referências**
 
@@ -85,11 +44,11 @@ IGado é um aplicativo que visa contribuir o gerenciamento e gestão dos bovinos
 
 #### **1.4. Visão Geral**
 
-Esse é um documento informativo sobre o Software iGado que está organizado no formato de tópicos e subtópicos sequenciais numerados. A ordem desses tópicos começa em 1 e termina em 7, sendo eles: Introdução; Representação Arquitetural; Metas e Restrições da Arquitetura; Visão de Casos de Uso; Visão Lógica; Visão da Implementação; Tamanho e Desempenho e Qualidade.  
+<p align="justify"> &emsp;&emsp;  Esse é um documento informativo sobre o <i>Software</i> iGado que está organizado no formato de tópicos e subtópicos sequenciais numerados. A ordem desses tópicos começa em 1 e termina em 9, sendo eles: Introdução; Representação Arquitetural; Metas e Restrições da Arquitetura; Visão de Casos de Uso; Visão Lógica; Visão da Implementação; Tamanho e Desempenho e Qualidade. </p>
 
 ### **2. Representação Arquitetural**
 
-Modelo de representação da arquitetura e as interações estabelecidas entre os módulos, bem como a natureza dessas interações.
+<p align="justify"> &emsp;&emsp; Modelo de representação da arquitetura e as interações estabelecidas entre os módulos, bem como a natureza dessas interações. </p>
 
 #### **2.1 - Visão Geral**
 
@@ -100,42 +59,38 @@ Modelo de representação da arquitetura e as interações estabelecidas entre o
 
 #### 2.2.1 Front End
 
-  - **Flutter:** Flutter é o kit de ferramentas da Google para desenvolvimento de interfaces de usuário bonitas, com aplicações compiladas nativamente para mobile, web e desktop a partir de uma única base de código. A linguagem Dart é utilizada como base para essas ferramentas.
-  - **Dart –** Dart é uma linguagem de programação otimizada para desenvolvimento. Será utilizada no front-end para desenvolvimento de algoritmos lógicos e conexões com o back-end.
+  - **Flutter:** Flutter é o kit de ferramentas da <i>Google</i> para desenvolvimento de interfaces de usuário bonitas, com aplicações compiladas nativamente para <i>mobile</i>, <i>web</i> e <i>desktop</i> a partir de uma única base de código. A linguagem Dart é utilizada como base para essas ferramentas.
+  - **Dart:** Dart é uma linguagem de programação otimizada para desenvolvimento. Será utilizada no <i>front-end</i> para desenvolvimento de algoritmos lógicos e conexões com o <i>back-end</i>.
 
 #### 2.2.2 Back End
 
-  - **Flask:** O Flask é um micro framework para Python baseado em Werkzeug, Jinja 2 e good intentions. Ao contrário de outros web frameworks, o Flask não tem uma camada adicional de acesso ao banco de dados, com isso, a integração com toolkits de banco de dados facilita o seu uso.
+  - **Flask:** O Flask é um micro <i>framework</i> para Python baseado em Werkzeug, Jinja 2 e good intentions. Ao contrário de outros web <i>frameworks</i>, o Flask não tem uma camada adicional de acesso ao banco de dados, com isso, a integração com <i>toolkits</i> de banco de dados facilita o seu uso.
 
-    Essa arquitetura será utilizada para a construção da API, que vai ser um dos pontos principais do projeto. Através da API, a aplicação irá se comunicar com a camada de Front-End sem o conhecimento ou intervenção dos usuários, definindo comportamentos específicos de determinado objeto em uma interface.
+    Essa arquitetura será utilizada para a construção da API, que vai ser um dos pontos principais do projeto. Através da API, a aplicação irá se comunicar com a camada de <i>front-end</i> sem o conhecimento ou intervenção dos usuários, definindo comportamentos específicos de determinado objeto em uma interface.
 
-  - **Python –** Python é uma linguagem de programação que permite você desenvolver mais rapidamente e de uma forma mais efetiva, ela será utilizada para desenvolvimento de algoritmos lógicos no back-end.
-  - **Docker:** Ferramenta utilizada para gerar um ambiente isolado a partir da criação de containers que suprem as dependências do projeto, o que facilita a utilização de serviços distintos.
+  - **Python –** Python é uma linguagem de programação que permite você desenvolver mais rapidamente e de uma forma mais efetiva, ela será utilizada para desenvolvimento de algoritmos lógicos no <i>back-end</i>.
+  - **Docker:** Ferramenta utilizada para gerar um ambiente isolado a partir da criação de contêineres que suprem as dependências do projeto, o que facilita a utilização de serviços distintos.
 
 #### 2.2.3 Banco de Dados
 
-  - **PostgreSQL:** É um sistema gerenciador de banco de dados _open-source_ (código aberto) de objeto relacional que possui uma forte reputação de confiabilidade, robustez e desempenho. Será utilizado para armazenar os dados provenientes da API.
-
-_[Esta seção descreve qual é a arquitetura de software do sistema atual e como ela é representada. Da_ _ **Visão de Casos de Uso** __,_ _ **Visão**__ **Lógica** __,_ _ **Visão de Processos**__ ,_ _ **Visão de** __**Implantação** _ _e_ _ **Visão de**__ **Implementação** __, enumera as visões necessárias e, para cada visão, explica quais tipos de elementos de modelo ela contém.]_
+  - **PostgreSQL:** É um sistema gerenciador de banco de dados <i>open-source</i> (código aberto) de objeto relacional que possui uma forte reputação de confiabilidade, robustez e desempenho. Será utilizado para armazenar os dados provenientes da API.
 
 ### **3. Metas e Restrições da Arquitetura**
 
-_[Esta seção descreve os requisitos e objetivos do software que têm algum impacto sobre a arquitetura; por exemplo, segurança, garantia, privacidade, uso de um produto desenvolvido internamente e pronto para ser usado, portabilidade, distribuição e reutilização. Ela também captura as restrições especiais que podem ser aplicáveis: estratégia de design e implementação, ferramentas de desenvolvimento, estrutura das equipes, cronograma, código-fonte legado e assim por diante.]_
-
 #### **3.1 - Restrições**
 
-  - O software deve ser desenvolvido nas tecnologias definidas no tópico 2;
-  - O software deve rodar tanto em Android quanto em iOS;
-  - O ambiente de desenvolvimento do software deve funcionar tanto em Windows, Linux e MacOS;
-  - Para utilizar o software é necessário ter internet;
+  - O <i>software</i> deve ser desenvolvido nas tecnologias definidas no tópico 2;
+  - O <i>software</i> deve rodar tanto em Android quanto em iOS;
+  - O ambiente de desenvolvimento do <i>software</i> deve funcionar tanto em Windows, Linux e MacOS;
+  - Para utilizar o <i>software</i> é necessário ter internet;
   - O escopo do projeto deve ser concluído até o final da disciplina.
 
 #### **3.2 - Metas**
 
 As metas planejadas para o aplicativo são:
 
-  - **Portabilidade** – Deve ser possível utilizar o aplicativo tanto em sistemas Android quanto IOs
-  - **Usabilidade** - O software deve possuir alta aprendibilidade e inteligibilidade, para que atenda aos requisitos elicitados no formulário criado pelo grupo;
+  - **Portabilidade** – Deve ser possível utilizar o aplicativo tanto em sistemas Android quanto iOS.
+  - **Usabilidade** - O <i>software</i> deve possuir alta aprendibilidade e inteligibilidade, para que atenda aos requisitos elicitados no formulário criado pelo grupo;
   - **Manutenibilidade –** O código e as documentações realizadas pelo grupo devem estar num nível de qualidade, seguindo os padrões de projeto e bibliografia, onde a sua manutenção seja fácil de ser realizada.
 
 ### **4. Visão de Casos de Uso**
@@ -250,8 +205,8 @@ O usuário durante o manejo de pesagem seleciona a opção de pegar informaçõe
 | **UC20** – Generate PMGZ report | User | Este caso de uso se refere ao usuário gerar o relatório com as informações do índice PMGZ|
 | **UC21** – Select management report | User | Este caso de uso se refere ao usuário selecionar um relatório do tipo manejo |
 | **UC22** – Generate reproductive management report | User | Este caso de uso se refere ao usuário gerar o relatório com as informações do manejo reprodutivo |
-| **UC23** – Generate weighing management report | User |Este caso de uso se refere ao usuário gerar o relatório com as informações do manejo de pesagem|
-| **UC24** – Generate sanitary management report | User |Este caso de uso se refere ao usuário gerar o relatório com as informações do manejo sanitário |
+| **UC23** – Generate weighing management report | User | Este caso de uso se refere ao usuário gerar o relatório com as informações do manejo de pesagem|
+| **UC24** – Generate sanitary management report | User | Este caso de uso se refere ao usuário gerar o relatório com as informações do manejo sanitário |
 
 **Fluxo de Eventos**
 
@@ -289,13 +244,13 @@ O usuário seleciona a opção de gerar o relatório com as informações do man
 
 ### **5. Visão Lógica**
 
-A visão lógica descreve como o sistema é estruturado, em termos de unidade e implementação. Mostra como está a organização conceitual do sistema em termos de camadas, pacotes, classes e interfaces. O relacionamento entre os elementos mostra as dependências, as realizações de interface, os relacionamento parte-todo e assim por diante.  
+<p align="justify"> &emsp;&emsp; A visão lógica descreve como o sistema é estruturado, em termos de unidade e implementação. Mostra como está a organização conceitual do sistema em termos de camadas, pacotes, classes e interfaces. O relacionamento entre os elementos mostra as dependências, as realizações de interface, os relacionamento parte-todo e assim por diante. </i>
 
 #### **5.1 Diagrama de Pacotes**
 
-Os diagramas de pacotes mostram a interação entre as relações das pastas e seus arquivos. Tem como objetivo estruturar hierarquicamente as pastas que compõem o projeto.
+<p align="justify"> &emsp;&emsp; Os diagramas de pacotes mostram a interação entre as relações das pastas e seus arquivos. Tem como objetivo estruturar hierarquicamente as pastas que compõem o projeto. </i>
 
-A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/PackageDiagram)
+A sua rastreabilidade pode ser acompanhada [aqui](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/PackageDiagram).
 
 <img src="docs/Assets/Img/Modeling/PackageDiagram/PackageDiagramV2.0.png"> <br />
 
@@ -309,15 +264,15 @@ A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github
 
 #### **6.1 Visão Geral**
 
-A Visão de Processos tem como objetivo descrever a estrutura de processos do sistema. Tendo como base uma visualização em sequência para mostrar como será feito o modelo do projeto.
+<p align="justify"> &emsp;&emsp; A Visão de Processos tem como objetivo descrever a estrutura de processos do sistema. Tendo como base uma visualização em sequência para mostrar como será feito o modelo do projeto. </p>
 
 #### **6.2 Diagrama de Sequência**
 
-O Diagrama de Sequência é uma das soluções que a UML oferece, de maneira dinâmica para detalhar os fluxos de vida do sistema em desenvolvimento. O principal foco da elaboração desse diagrama é descrever sobre a interação entre componentes do sistema, processos e módulos que, de alguma maneira, vivem simultaneamente e trocam mensagens entre si. Os ciclos de vida podem ser Classes, atores ou até mesmo abstrações que ocorrem entre as classes.
+<p align="justify"> &emsp;&emsp; O Diagrama de Sequência é uma das soluções que a UML oferece, de maneira dinâmica para detalhar os fluxos de vida do sistema em desenvolvimento. O principal foco da elaboração desse diagrama é descrever sobre a interação entre componentes do sistema, processos e módulos que, de alguma maneira, vivem simultaneamente e trocam mensagens entre si. Os ciclos de vida podem ser classes, atores ou até mesmo abstrações que ocorrem entre as classes. </p>
 
 #### **6.2.1 Cadastro de Usuário**
 
-Detalha o módulo de Cadastro de Usuário do sistema, mostrando como funcionará o cadastro de um usuário, sua fazer e seus funcionários, respectivamente.
+<p align="justify"> &emsp;&emsp; Detalha o módulo de Cadastro de Usuário do sistema, mostrando como funcionará o cadastro de um usuário, sua fazer e seus funcionários, respectivamente. </p>
 
 <img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RegistroELoginV2.png">
 
@@ -325,7 +280,7 @@ Detalha o módulo de Cadastro de Usuário do sistema, mostrando como funcionará
 
 #### **6.2.2 Cadastro de Bovino**
 
-Detalha o módulo de Cadastro de Bovino, demonstrando como este fluxo funcionará no app, com o proprietário podendo cadastrar diferentes tipos de bovinos (de corte, de leite e bezerros).
+<p align="justify"> &emsp;&emsp; Detalha o módulo de Cadastro de Bovino, demonstrando como este fluxo funcionará no app, com o proprietário podendo cadastrar diferentes tipos de bovinos (de corte, de leite e bezerros). </p>
 
 <img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-CadastroDeBovinoV2.png">
 
@@ -333,7 +288,7 @@ Detalha o módulo de Cadastro de Bovino, demonstrando como este fluxo funcionar�
 
 #### **6.2.3 Manejo**
 
-Demonstra o módulo de Manejo Bovino, detalhando os diferentes tipos de manejo.
+<p align="justify"> &emsp;&emsp; Demonstra o módulo de Manejo Bovino, detalhando os diferentes tipos de manejo. </p>
 
 <img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-ManejoV2.png">
 
@@ -341,14 +296,14 @@ Demonstra o módulo de Manejo Bovino, detalhando os diferentes tipos de manejo.
 
 #### **6.2.4 Estoque de Insumos**
 
-Detalha o módulo Estoque de Insumos, que será responsável por gerenciar produtos de uma fazenda.
+<p align="justify"> &emsp;&emsp; Detalha o módulo Estoque de Insumos, que será responsável por gerenciar produtos de uma fazenda. </p>
 
 <img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-EstoqueDeInsumosV2.png">
 
 <a href="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-EstoqueDeInsumosV2.png"> Clique aqui para ampliar</a>
 
 #### **6.2.5 Relatório**
-Demonstra o módulo de *Relatório*, que se trata de uma funcionalidade para auxiliar o Proprietário na tomada de decisão. Trazendo informções a partir de métricas utilizando os dados de seus recursos.
+<p align="justify"> &emsp;&emsp; Demonstra o módulo de *Relatório*, que se trata de uma funcionalidade para auxiliar o Proprietário na tomada de decisão. Trazendo informções a partir de métricas utilizando os dados de seus recursos. </p>
 
 <img src="docs/Assets/Img/Modeling/SequenceDiagram/SequenceDiagram-RelatórioV2.png">
 
@@ -358,10 +313,10 @@ Demonstra o módulo de *Relatório*, que se trata de uma funcionalidade para aux
 ### **7. Visão de Implementação**
 
 #### **7.1 Visão Geral**
-A visão de implementação mostra como o sistema proposto será implementado. Uma das suas principais características é a visao geral do Diagrama de Classes final do projeto.
+<p align="justify"> &emsp;&emsp; A visão de implementação mostra como o sistema proposto será implementado. Uma das suas principais características é a visao geral do Diagrama de Classes final do projeto. </p>
 
 #### **7.2 Diagrama de Classes**
-O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos. Consiste em um conjunto de objetos com as mesmas características. Dessa forma, consegue-se identificar os objetos e agrupá-los, de forma a encontrar suas respectivas classes.
+<p align="justify"> &emsp;&emsp; O Diagrama de Classes é uma representação da estrutura e relações das classes que servem de modelo para os objetos. Consiste em um conjunto de objetos com as mesmas características. Dessa forma, consegue-se identificar os objetos e agrupá-los, de forma a encontrar suas respectivas classes. </p>
 
 A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/ClassDiagram)
 
@@ -369,9 +324,9 @@ A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github
 
 
 #### **7.3 Diagrama de Entidade Relacionamento**
- O Diagrama de Entidade-Relacionamento (DER) é um tipo de fluxograma que ilustra como “entidades”, como pessoas, objetos ou conceitos, se relacionam entre si dentro de um sistema. Diagramas de Entidade Relacionamento são mais utilizados para projetar ou depurar bancos de dados relacionais nas áreas de engenharia de software. Também conhecidos como DERs, ou modelos ER, usam um conjunto definido de símbolos, tais como retângulos, diamantes, ovais e linhas de conexão para representar a interconectividade de entidades, relacionamentos e seus atributos. Eles espelham estruturas gramaticais, onde entidades são substantivos e relacionamentos são verbos.
+<p align="justify"> &emsp;&emsp; O Diagrama de Entidade-Relacionamento (DER) é um tipo de fluxograma que ilustra como “entidades”, como pessoas, objetos ou conceitos, se relacionam entre si dentro de um sistema. Diagramas de Entidade Relacionamento são mais utilizados para projetar ou depurar bancos de dados relacionais nas áreas de engenharia de software. Também conhecidos como DERs, ou modelos ER, usam um conjunto definido de símbolos, tais como retângulos, diamantes, ovais e linhas de conexão para representar a interconectividade de entidades, relacionamentos e seus atributos. Eles espelham estruturas gramaticais, onde entidades são substantivos e relacionamentos são verbos.</p>
 
-A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/DatabaseModeling)
+A sua rastreabilidade pode ser acompanhada [aqui](https://unbarqdsw.github.io/2020.1_G13_iGado/#/docs/Modeling/DatabaseModeling).
 
 <img src="docs/Assets/Img/Modeling/DatabaseModeling/DER_v1.png"> <br />
 
@@ -380,12 +335,12 @@ A sua rastreabilidade pode ser acompanhada [neste link](https://unbarqdsw.github
 
 #### **8.1 Visão Geral**
 
-Descreve os principais objetivos de desempenho do software assim como as principais características de dimensionamento do software que impactam na arquitetura do aplicativo.  
+<p align="justify"> &emsp;&emsp; Descreve os principais objetivos de desempenho do <i>software</i> assim como as principais características de dimensionamento do <i>software</i> que impactam na arquitetura do aplicativo. </p>
 
 #### **8.2 Requisitos Mínimos**
 
 * Sistemas operacionais: Android e iOS
-* É necessário possuir internet móvel ou Wi-Fi para utilizar o Software.
+* É necessário possuir internet móvel ou Wi-Fi para utilizar o <i>Software</i>.
 * O ambiente de desenvolvimento deve funcionar tanto em Windows, Linux e MacOS;
 * iOS 12.0 ou superior;
 * Android 10.0 ou superior;
@@ -393,11 +348,11 @@ Descreve os principais objetivos de desempenho do software assim como as princip
 
 ### **9. Qualidade**
 
-Descrição de como a arquitetura do software contribui para todos os recursos (exceto a funcionalidade) do sistema: extensibilidade, confiabilidade, portabilidade e assim por diante.
+Descrição de como a arquitetura do <i>software</i> contribui para todos os recursos (exceto a funcionalidade) do sistema: extensibilidade, confiabilidade, portabilidade e assim por diante.
 
 #### **9.1 NFR**
 
-A fim de rastrear requisitos não funcionais, o NFR mostram impactos que um _hardgoal_ causa em um _softgoal_, deixando explícito a rastreabilidade e propósito de uma determiada _feature_, deixando claro os recursos do sistema de qualidade, como usabilidade, eficiência e etc.
+<p align="justify"> &emsp;&emsp; A fim de rastrear requisitos não funcionais, o NFR mostram impactos que um <i>hardgoal</i> causa em um <i>softgoal</i>, deixando explícito a rastreabilidade e propósito de uma determiada <i>feature</i>, deixando claro os recursos do sistema de qualidade, como usabilidade, eficiência e etc.
 
 <img src="docs/Assets/Img/Project/ArchitectureDocument/nfr.png">
 
