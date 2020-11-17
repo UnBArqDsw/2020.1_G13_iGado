@@ -32,6 +32,7 @@
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan.md)
   - [Plano de Gerenciamento de Custos](/docs/Project/CostManagementPlan.md)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan.md)
+  - [Documento de Arquitetura](/docs/Project/ArchitectureDocument.md)
 
 - **Modelagem**
   - [Diagrama de Entidade Relacionamento](/docs/Modeling/DatabaseModeling.md)
