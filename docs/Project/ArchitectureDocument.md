@@ -17,6 +17,7 @@
 | 11/11/2020 | 1.0 | Tópico 7 - Visão de Implementação - Diagrama de Classes e Diagrama Entidade Relacionamento | [Caio Fernandes](https://github.com/caiovfernandes), [Lucas Fellipe](https://github.comlucasfcm9) |
 | 11/11/2020 | 1.1 | Tópico 8 - Tamanho e Desempenho | [Lucas Fellipe](https://github.comlucasfcm9) |
 | 16/11/2020 | 1.2 | Revisão do Documento | [Lucas Fellipe](https://github.comlucasfcm9) |
+| 17/11/2020 | 1.3 | Revisão dos artefatos do Documento de Arquitetura | [Guilherme Mendes](https://github.com/guilherme-mendes) |
 
 ### **1. Introdução**
 
@@ -348,7 +349,7 @@ Descrição de como a arquitetura do <i>software</i> contribui para todos os rec
 
 #### **9.1 NFR**
 
-<p align="justify"> &emsp;&emsp; A fim de rastrear requisitos não funcionais, o NFR mostram impactos que um <i>hardgoal</i> causa em um <i>softgoal</i>, deixando explícito a rastreabilidade e propósito de uma determiada <i>feature</i>, deixando claro os recursos do sistema de qualidade, como usabilidade, eficiência e etc.
+<p align="justify"> &emsp;&emsp; A fim de rastrear requisitos não funcionais, o NFR mostram impactos que um <i>hardgoal</i> causa em um <i>softgoal</i>, deixando explícito a rastreabilidade e propósito de uma determiada <i>feature</i>, deixando claro os recursos do sistema de qualidade, como usabilidade, eficiência e etc.</p>
 
 <img src="docs/Assets/Img/Project/ArchitectureDocument/nfr.png">
 
