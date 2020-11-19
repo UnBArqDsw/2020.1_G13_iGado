@@ -8,13 +8,14 @@
 | 17/11/2020 | 0.4 | Adição de informações sobre as bibliotecas utilizadas no Frontend | [Iuri Severo](https://github.com/iurisevero) |
 | 17/11/2020 | 0.5 | Adição de informações sobre os plugins utilizados no Backend | [Iuri Severo](https://github.com/iurisevero) |
 | 18/11/2020 | 0.6 | Adição de informações sobre as bibliotecas do backend e unittest | [Iuri Severo](https://github.com/iurisevero) |
-| 18/11/2020 | 0.7 | Adição de informações sobre os widgets personalizados e formatação do arquivo e das referências | [Iuri Severo](https://github.com/iurisevero) |
+| 19/11/2020 | 0.7 | Adição de informações sobre os widgets personalizados e formatação do arquivo e das referências | [Iuri Severo](https://github.com/iurisevero) |
+| 19/11/2020 | 1.0 | Revisão do Documento | [Lucas Fellipe](https://github.com/lucasfcm9) |
 
 ## Frameworks
 
 ### Flask
 
-<p align="justify"> &emsp;&emsp; Flask é um microframework de python baseado em Werkzeug, Jinja 2 e good intentions, que tem como objetivo ser uma base para o desenvolvimento de diversas aplicações. Para isso, ele possui um _core_ simples, porém extensível, que permite os desenvolvedores realizarem seus objetivos por conta própria ou pelo uso dos diversos pacotes e bibliotecas existentes para o framework. </p>
+<p align="justify"> &emsp;&emsp; Flask é um microframework de python baseado em Werkzeug, Jinja 2 e good intentions, que tem como objetivo ser uma base para o desenvolvimento de diversas aplicações. Para isso, ele possui um <i>core</i> simples, porém extensível, que permite os desenvolvedores realizarem seus objetivos por conta própria ou pelo uso dos diversos pacotes e bibliotecas existentes para o framework. </p>
 
 ### Unittest
 
@@ -22,7 +23,7 @@
 
 ### Flutter
 
-<p align="justify"> &emsp;&emsp; Flutter é um conjunto de ferramentas que facilitam o desenvolvimento de interfaces de tamanhos variados e para todos tipos de aparelho. O framework trabalha principalmente a partir de Widgets que, por meio de um relacionamento de composição, permitem ao desenvolvedor utilizar diversos elementos de UI pré definidos. Além disso, o framework também permite ao usuário criar Widgets próprios e páginas por meio da herança de objetos abstratos como o ```StatefulWidget```. </p>
+<p align="justify"> &emsp;&emsp; Flutter é um conjunto de ferramentas que facilitam o desenvolvimento de interfaces de tamanhos variados e para todos tipos de aparelho. O framework trabalha principalmente a partir de Widgets que, por meio de um relacionamento de composição, permitem ao desenvolvedor utilizar diversos elementos de UI pré definidos. Além disso, o framework também permite ao usuário criar Widgets próprios e páginas por meio da herança de objetos abstratos como o <code>StatefulWidget</code>. </p>
 
 <img src="docs/Assets/Img/Project/SoftwareReuse/StatefulWidget.png"> <br />
 Código retirado de: <https://github.com/flutter/flutter/blob/master/packages/flutter/lib/src/widgets/framework.dart>
@@ -37,9 +38,9 @@ Código retirado de: <https://github.com/flutter/flutter/blob/master/packages/fl
 
 ### Bibliotecas utilizadas no Frontend
 
-**flutter/material.dart**: Biblioteca que permite os _widgets_ do Flutter implementarem _[Material Desing](https://material.io/design)_; <br />
-**flutter/widgets.dart**: Estrutura de _widgets_ do Flutter; <br />
-**rflutter_alert/rflutter_alert.dart**: Biblioteca para criação de alertas e _popups_ customizáveis; <br />
+**flutter/material.dart**: Biblioteca que permite os <i>widgets</i> do Flutter implementarem _[Material Desing](https://material.io/design)_; <br />
+**flutter/widgets.dart**: Estrutura de <i>widgets</i> do Flutter; <br />
+**rflutter_alert/rflutter_alert.dart**: Biblioteca para criação de alertas e <i>popups</i> customizáveis; <br />
 **flutter_test/flutter_test.dart**: Biblioteca de testes para flutter, criada a partir do pacote _[test](https://pub.dev/packages/test)_;
 
 ## Plugins
@@ -57,15 +58,15 @@ Código retirado de: <https://github.com/flutter/flutter/blob/master/packages/fl
 
 ### Gunicorn
 
-<p align="justify"> &emsp;&emsp; Gunicorn 'Green Unicorn' é um servidor Python WSGI HTTP para UNIX. É um modelo de trabalhador pre-fork. O servidor Gunicorn é amplamente compatível com vários frameworks da web, simplesmente implementado, com recursos de servidor leves e bastante rápido. </p>
+<p align="justify"> &emsp;&emsp; Gunicorn 'Green Unicorn' é um servidor Python WSGI HTTP para UNIX. É um modelo de trabalhador pré-fork. O servidor Gunicorn é amplamente compatível com vários frameworks da web, simplesmente implementado, com recursos de servidor leves e bastante rápido. </p>
 
 ## Outros
 
 ### Widgets Personalizados
 
-<p align="justify"> &emsp;&emsp; Uma das funcionalidades disponibilizadas pelo Flutter é a de criar _Widgets_ personalizados melhorar a reutilização de código. Essa prática também é adotada em outros frameworks voltados para desenvolvimento UI como os _components_ do React Native. </p>
+<p align="justify"> &emsp;&emsp; Uma das funcionalidades disponibilizadas pelo Flutter é a de criar <i>Widgets</i> personalizados melhorar a reutilização de código. Essa prática também é adotada em outros frameworks voltados para desenvolvimento UI como os <i>components</i> do React Native. </p>
 
-No projeto iGado os _Widgets_ personalizados podem ser encontrado na pasta [2020.1_G13_iGado_Frontend/lib/components](https://github.com/UnBArqDsw/2020.1_G13_iGado_Frontend/tree/master/lib/components). Os _Widgets_ criados pelo grupo foram:
+No projeto iGado os <i>Widgets</i> personalizados podem ser encontrado na pasta [2020.1_G13_iGado_Frontend/lib/components](https://github.com/UnBArqDsw/2020.1_G13_iGado_Frontend/tree/master/lib/components). Os <i>Widgets</i> criados pelo grupo foram:
 
 * [dropdown_icon_text.dart](https://github.com/UnBArqDsw/2020.1_G13_iGado_Frontend/blob/master/lib/components/dropdown_icon_text.dart)
 * [icon_text_form_field.dart](https://github.com/UnBArqDsw/2020.1_G13_iGado_Frontend/blob/master/lib/components/icon_text_form_field.dart)
