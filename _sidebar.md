@@ -33,6 +33,7 @@
   - [Plano de Gerenciamento de Custos](/docs/Project/CostManagementPlan.md)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan.md)
   - [Documento de Arquitetura](/docs/Project/ArchitectureDocument.md)
+  - [Reutilização de Software](/docs/Project/SoftwareReuse.md)
 
 - **Modelagem**
   - [Diagrama de Entidade Relacionamento](/docs/Modeling/DatabaseModeling.md)
