@@ -3,7 +3,8 @@
 
 |    Data    | Versão |         Descrição         |           Autor(es)           |
 | :--------: | :----: | :-----------------------: | :---------------------------: |
-| 11/09/2020 |  1.0   | Criação do modelo de Abertura de Sprint | [João Pedro Guedes](https://github.com/sudjoao) |
+| 16/11/2020 |  1.0   | Criação do modelo de Abertura de Sprint | [João Pedro Guedes](https://github.com/sudjoao) |
+| 20/11/2020 |  1.1   | Revisão do modelo de Abertura de Sprint | [Guilherme Mendes](https://github.com/guilherme-mendes) |
 
 Os documentos de abertura de sprint deverão seguir o seguinte padrão:
 
