@@ -7,6 +7,7 @@
 | 25/10/2020 | 0.2 | Adição do padrão <i>Singleton</i> | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 26/10/2020 | 1.0 | Revisão do documento | [Caio Vinícius](https://github.com/caiovfernandes), [Guilherme Mendes](https://github.com/guilherme-mendes), [Iuri Severo](https://github.com/iurisevero), [João Guedes](https://github.com/sudjoao) e [Lucas Fellipe](https://github.com/lucasfcm9) |
 | 26/10/2020 | 1.1 | Adição do Management Generator em Factory Method |  [Iuri Severo](https://github.com/iurisevero) e [João Guedes](https://github.com/sudjoao) |
+| 20/11/2020 | 1.2 | Revisão do Management Generator em Factory Method |  [Guilherme Mendes](https://github.com/guilherme-mendes) |
 
 ## Factory Method
 
