@@ -32,6 +32,8 @@
   - [Plano de Gerenciamento de Riscos](/docs/Project/RiskManagementPlan.md)
   - [Plano de Gerenciamento de Custos](/docs/Project/CostManagementPlan.md)
   - [Plano de Comunicação](/docs/Project/CommunicationManagementPlan.md)
+  - [Documento de Arquitetura](/docs/Project/ArchitectureDocument.md)
+  - [Reutilização de Software](/docs/Project/SoftwareReuse.md)
 
 - **Modelagem**
   - [Diagrama de Entidade Relacionamento](/docs/Modeling/DatabaseModeling.md)
@@ -80,6 +82,10 @@
   - [2020-10-10 - Fechamento da Sprint 8](/docs/SprintsAndMeetings/2020-10-26-Sprint8Closure.md)
   - [2020-10-10 - Abertura da Sprint 9](/docs/SprintsAndMeetings/2020-10-26-Sprint9Opening.md)
   - [2020-11-02 - Fechamento da Sprint 9](/docs/SprintsAndMeetings/2020-11-02-Sprint9Closure.md)
+  - [2020-11-09 - Abertura da Sprint 11](/docs/SprintsAndMeetings/2020-11-09-Sprint11Opening.md)
+  - [2020-11-09 - Fechamento da Sprint 10](/docs/SprintsAndMeetings/2020-11-09-Sprint10Closure.md)
   - [2020-11-02 - Abertura da Sprint 10](/docs/SprintsAndMeetings/2020-11-02-Sprint10Opening.md)
   - [2020-11-16 - Fechamento da Sprint 11](/docs/SprintsAndMeetings/2020-11-16-Sprint11Closure.md)
   - [2020-11-16 - Abertura da Sprint 12](/docs/SprintsAndMeetings/2020-11-16-Sprint12Opening.md)
+
+  
