@@ -6,7 +6,9 @@
   ##### iGado
 
   Repositório destinado à disciplina de Arquitetura & Desenho de <i>Software</i> da Universidade de Brasília acerca do aplicativo iGado. O aplicativo iGado visa contribuir para o gerenciamento e gestão dos bovinos que se concentram em propriedades rurais. Nele será possível coletar informações dos bovinos e seus respectivos manejos. Também será possível ter um controle financeiro sobre os gastos e lucros advindos da fazenda e um maior controle do estoque de insumos. Além disso, o aplicativo terá a opção de extrair relatórios com índices e métricas definidas pelo usuário, com o inituito de facilitar tomadas de decisão além de gerar uma produtividade mais eficaz.
-  
+
+[Vídeo explicando sobre todo o projeto](https://youtu.be/ixYGB5ssLQs)
+
   ##### Como contribuir?
 
   Aqui se encontra o [repositório](https://github.com/UnBArqDsw/2020.1_G13_Projeto). As políticas de [<i>branches</i>](/docs/Policies/Branches.md), [<i>commits</i>](/docs/Policies/Commits.md), [<i>pull requests</i>](/docs/Policies/PullRequests.md) e [<i>issues</i>](/docs/Policies/Issues.md) se encontram na página de [Políticas](/docs/Policies/Policies.md).
