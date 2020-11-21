@@ -17,20 +17,34 @@ Repositório destinado à disciplina de Arquitetura & Desenho de Software da Uni
 
 ## Screenshots
 
-![LoginScreen](/docs/Assets/Screenshots/main_screen.png)
-![LoginScreen](/docs/Assets/Screenshots/login_screen.png)
-![RegisterScreen1](/docs/Assets/Screenshots/register_user_screen.png)
-![LoginScreen](/docs/Assets/Screenshots/register_user_screen_2.png)
-![LoginScreen](/docs/Assets/Screenshots/user_data.png)
-![LoginScreen](/docs/Assets/Screenshots/bovine_register.png)
-![LoginScreen](/docs/Assets/Screenshots/cattle_screen.png)
-![LoginScreen](/docs/Assets/Screenshots/edit_bovine.png)
-![LoginScreen](/docs/Assets/Screenshots/bovine_data.png)
-![LoginScreen](/docs/Assets/Screenshots/reproduction_management.png)
-![LoginScreen](/docs/Assets/Screenshots/weighing_management.png)
-![LoginScreen](/docs/Assets/Screenshots/create_report.png)
-![LoginScreen](/docs/Assets/Screenshots/generate_report.png)
-![LoginScreen](/docs/Assets/Screenshots/gmd_report.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="docs/Assets/Screenshots/main_screen.PNG" width=300px>
+  <img src="docs/Assets/Screenshots/login_screen.PNG" width=300px>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="docs/Assets/Screenshots/register_user_screen.PNG" width=300px>
+  <img src="docs/Assets/Screenshots/register_user_screen_2.PNG" width=300px>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="docs/Assets/Screenshots/user_data.PNG" width=300px>
+  <img src="docs/Assets/Screenshots/bovine_register.PNG" width=300px>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="docs/Assets/Screenshots/cattle_screen.PNG" width=300px>
+  <img src="docs/Assets/Screenshots/edit_bovine.PNG" width=300px>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="docs/Assets/Screenshots/bovine_data.PNG" width=300px>
+  <img src="docs/Assets/Screenshots/reproduction_management.PNG" width=300px>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="docs/Assets/Screenshots/weighing_management.PNG" width=300px>
+  <img src="docs/Assets/Screenshots/create_report.PNG" width=300px>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="docs/Assets/Screenshots/generate_report.PNG" width=300px>
+  <img src="docs/Assets/Screenshots/gmd_report.PNG" width=300px>
+</div>
 
 ## Instalação 
 **Linguagens**: Dart e Python<br>
@@ -44,4 +58,3 @@ Tutorial para rodar o app disponíveis nos repositórios:
 ## Vídeo
 
 [Vídeo explicando sobre todo o projeto](https://youtu.be/ixYGB5ssLQs)
-
