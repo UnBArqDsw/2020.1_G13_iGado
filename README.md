@@ -50,7 +50,7 @@ Repositório destinado à disciplina de Arquitetura & Desenho de Software da Uni
 **Linguagens**: Dart e Python<br>
 **Tecnologias**: Flutter, Flask, Docker e Postgresql<br>
 
-Tutorial para rodar o app disponíveis nos repositórios:
+Tutorial para executar o app disponível nos repositórios:
 
 - [Frontend](https://github.com/UnBArqDsw/2020.1_G13_iGado_Frontend)
 - [Backend](https://github.com/UnBArqDsw/2020.1_G13_iGado_Backend)
